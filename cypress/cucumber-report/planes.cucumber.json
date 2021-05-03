@@ -1,0 +1,414 @@
+[
+  {
+    "description": "  Como usuario quiero contratar un servicio de un Plan o Producto Marketing.",
+    "keyword": "Feature",
+    "name": "Catalogo de Planes - Productos Marketing",
+    "line": 2,
+    "id": "catalogo-de-planes---productos-marketing",
+    "tags": [
+      {
+        "name": "@planes",
+        "line": 1
+      }
+    ],
+    "uri": "planes.feature",
+    "elements": [
+      {
+        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-inicia)",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Ingresar al catalogo de planes de Gestion Corredor (Plan Inicia)",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@planes-Inicia",
+            "line": 6
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "El usuario se encuentra en Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 31463000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "Hace click en el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 158000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "Selecciona el plan Inicia",
+            "result": {
+              "status": "passed",
+              "duration": 1202000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "Registra datos del Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1859000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "Llena los formularios del contrato",
+            "result": {
+              "status": "passed",
+              "duration": 4687000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "Aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 3350000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "Visualizar Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 5228000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 15,
+            "name": "Visualizar Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 367000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-crece)",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "Ingresar al catalogo de planes de Gestion Corredor (Plan Crece)",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@planes-Crece",
+            "line": 17
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 19,
+            "name": "El usuario se encuentra en Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3743000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "Hace click en el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 127000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "Selecciona el plan Crece",
+            "result": {
+              "status": "passed",
+              "duration": 694000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 22,
+            "name": "Registra datos del Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1924000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "Llena los formularios del contrato",
+            "result": {
+              "status": "passed",
+              "duration": 4695000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "Aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 3343000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "Visualizar Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 1716000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "Visualizar Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 319000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-acelera)",
+        "keyword": "Scenario",
+        "line": 29,
+        "name": "Ingresar al catalogo de planes de Gestion Corredor (Plan Acelera)",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@planes-Acelera",
+            "line": 28
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 30,
+            "name": "El usuario se encuentra en Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 1250000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 31,
+            "name": "Hace click en el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 115000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 32,
+            "name": "Selecciona el plan Acelera",
+            "result": {
+              "status": "passed",
+              "duration": 638000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 33,
+            "name": "Registra datos del Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 2123000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 34,
+            "name": "Llena los formularios del contrato",
+            "result": {
+              "status": "passed",
+              "duration": 4690000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 35,
+            "name": "Aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 3333000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 36,
+            "name": "Visualizar Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 1214000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 37,
+            "name": "Visualizar Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 299000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-escala)",
+        "keyword": "Scenario",
+        "line": 40,
+        "name": "Ingresar al catalogo de planes de Gestion Corredor (Plan Escala)",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@planes-Escala",
+            "line": 39
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 41,
+            "name": "El usuario se encuentra en Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3309000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 42,
+            "name": "Hace click en el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 124000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 43,
+            "name": "Selecciona el plan Escala",
+            "result": {
+              "status": "passed",
+              "duration": 629000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 44,
+            "name": "Registra datos del Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1831000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 45,
+            "name": "Llena los formularios del contrato",
+            "result": {
+              "status": "passed",
+              "duration": 5616000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 46,
+            "name": "Aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 3464000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 47,
+            "name": "Visualizar Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 1458000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 48,
+            "name": "Visualizar Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 659000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

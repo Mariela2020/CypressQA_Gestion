@@ -4,7 +4,8 @@
   "description": " Pruebas automatizadas del sistema de Gestion Corredor ",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run"
+    "test": "npx cypress run",
+    "cypress open": "npx cypress open"
   },
   "keywords": [
     "qa",
@@ -14,6 +15,21 @@
   "author": "Mariela Hurtado",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^7.2.0"
+    "cypress": "^7.2.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "cucumber-html-reporter": "^5.4.0",
+    "cypress-cucumber-preprocessor": "^4.1.0",
+    "cypress-file-upload": "^5.0.6"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/integration/features/step_definitions/**/",
+    "cucumberJson": {
+      "generate": true,
+      "outputFolder": "cypress/cucumber-report",
+      "filePrefix": "",
+      "fileSuffix": ".cucumber"
+    }
   }
 }

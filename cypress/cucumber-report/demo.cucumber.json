@@ -1,0 +1,372 @@
+[
+  {
+    "description": "    Selecciona un Articulo",
+    "keyword": "Feature",
+    "name": "Demo",
+    "line": 2,
+    "id": "demo",
+    "tags": [
+      {
+        "name": "@Demo",
+        "line": 1
+      }
+    ],
+    "uri": "demo.feature",
+    "elements": [
+      {
+        "id": "demo;seleccionar-articulo-#3",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Seleccionar articulo #3",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@ejecutar",
+            "line": 6
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 1013000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 744000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "Selecciona el articulo #3",
+            "result": {
+              "status": "passed",
+              "duration": 54000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "Compra el Articulo #3",
+            "result": {
+              "status": "passed",
+              "duration": 20000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#2",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "Seleccionar articulo #2",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@noejecutar",
+            "line": 13
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 15,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 206000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 699000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "Selecciona el articulo #2",
+            "result": {
+              "status": "passed",
+              "duration": 53000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "Compra el Articulo #2",
+            "result": {
+              "status": "passed",
+              "duration": 19000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#1",
+        "keyword": "Scenario",
+        "line": 21,
+        "name": "Seleccionar articulo #1",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@noejecutar",
+            "line": 20
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 22,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 109000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 708000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "Selecciona el articulo #1",
+            "result": {
+              "status": "passed",
+              "duration": 118000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "Compra el Articulo #1",
+            "result": {
+              "status": "passed",
+              "duration": 12000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#4",
+        "keyword": "Scenario",
+        "line": 28,
+        "name": "Seleccionar articulo #4",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@ejecutar",
+            "line": 27
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 29,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 98000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 30,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 680000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 31,
+            "name": "Selecciona el articulo #4",
+            "result": {
+              "status": "passed",
+              "duration": 109000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 32,
+            "name": "Compra el Articulo #4",
+            "result": {
+              "status": "passed",
+              "duration": 10000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#5",
+        "keyword": "Scenario",
+        "line": 35,
+        "name": "Seleccionar articulo #5",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@ejecutar",
+            "line": 34
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 36,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 71000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 37,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 681000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 38,
+            "name": "Selecciona el articulo #5",
+            "result": {
+              "status": "passed",
+              "duration": 121000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 39,
+            "name": "Compra el Articulo #5",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#6",
+        "keyword": "Scenario",
+        "line": 42,
+        "name": "Seleccionar articulo #6",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@noejecutar",
+            "line": 41
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 43,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 77000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 44,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 697000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 45,
+            "name": "Selecciona el articulo #6",
+            "result": {
+              "status": "passed",
+              "duration": 117000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 46,
+            "name": "Compra el Articulo #6",
+            "result": {
+              "status": "passed",
+              "duration": 10000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
