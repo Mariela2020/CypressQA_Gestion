@@ -1,5 +1,14 @@
 import {Given, When, And, Then} from "cypress-cucumber-preprocessor/steps"
 
+const d = new Date
+const date = [d.getDate(),
+d.getMonth() + 1,
+d.getFullYear()].join('-')
+
+const hora = [d.getHours(),
+    d.getMinutes(),
+    d.getSeconds()].join(':')
+
 Given("Navega a la Pagina", () => {
 
     cy.visit('https://www.saucedemo.com/');
@@ -10,7 +19,7 @@ And("Ingresa credenciales valida", () =>{
    
     cy.fixture('example').then((example)=> {
     cy.get('[data-test="username"]').type(example.username);
-    cy.get('[data-test="password"]').type(example.password);
+    cy.get('[data-test="password"]').type(example.password,{sensitive:true});
     cy.get('[data-test="login-button"]').click();
 
     })
@@ -44,7 +53,7 @@ Then("Compra el Articulo #3", () =>{
     const valoresp= '$15.99'
     expect(valortxt).eq(valoresp)
         
-    cy.writeFile('sampleFile.txt', '\n\nValor del producto: ' + valortxt + ';  ' + Date(), {flag: 'a+'} )     
+    cy.writeFile('sampleFile.txt', '\n\nValor del producto: ' + valortxt + ';  ' + date + hora, {flag: 'a+'} )     
            
     })
 })
@@ -77,7 +86,7 @@ Then("Compra el Articulo #2", () =>{
     const valoresp= '$9.99'
     expect(valortxt).eq(valoresp)
         
-    cy.writeFile('sampleFile.txt', '\n\nValor del producto: ' + valortxt + ';  ' + Date(), {flag: 'a+'} )     
+    cy.writeFile('sampleFile.txt', '\n\nValor del producto: ' + valortxt + ';  ' + date + hora, {flag: 'a+'} )     
            
     })
 })
@@ -98,7 +107,7 @@ Then("Compra el Articulo #1", () =>{
     cy.log(valortxt)     
     const valoresp= '$29.99'
     expect(valortxt).eq(valoresp)       
-    cy.writeFile('sampleFile.txt', '\n\nValor del producto: ' + valortxt + ';  ' + Date(), {flag: 'a+'} )     
+    cy.writeFile('sampleFile.txt', '\n\nValor del producto: ' + valortxt + ';  ' + date + hora, {flag: 'a+'} )     
            
     })
 })
@@ -119,7 +128,7 @@ Then("Compra el Articulo #4", () =>{
     cy.log(valortxt)     
     const valoresp= '$49.99'
     expect(valortxt).eq(valoresp)      
-    cy.writeFile('sampleFile.txt', '\n\nValor del producto: ' + valortxt + ';  ' + Date(), {flag: 'a+'} )     
+    cy.writeFile('sampleFile.txt', '\n\nValor del producto: ' + valortxt + ';  '+ date + hora, {flag: 'a+'} )     
            
     })
 })
@@ -139,7 +148,7 @@ Then("Compra el Articulo #5", () =>{
     cy.log(valortxt)     
     const valoresp= '$7.99'
     expect(valortxt).eq(valoresp)    
-    cy.writeFile('sampleFile.txt', '\n\nValor del producto: ' + valortxt + ';  ' + Date(), {flag: 'a+'} )     
+    cy.writeFile('sampleFile.txt', '\n\nValor del producto: ' + valortxt + ';  ' + date + hora, {flag: 'a+'} )     
            
     })
 })
@@ -161,7 +170,7 @@ Then("Compra el Articulo #6", () =>{
     cy.log(valortxt)     
     const valoresp= '$15.99'
     expect(valortxt).eq(valoresp)     
-    cy.writeFile('sampleFile.txt', '\n\nValor del producto: ' + valortxt + ';  ' + Date(), {flag: 'a+'} )     
+    cy.writeFile('sampleFile.txt', '\n\nValor del producto: ' + valortxt + ';  ' + date + hora, {flag: 'a+'} )     
     
     //cy.screenshot()   
 

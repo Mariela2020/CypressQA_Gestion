@@ -2,9 +2,9 @@
   {
     "description": "  Como usuario quiero contratar un servicio de Producto Marketing.",
     "keyword": "Feature",
-    "name": "Catalogo de Planes - Productos Marketing",
+    "name": "Catalogo de Productos Marketing",
     "line": 2,
-    "id": "catalogo-de-planes---productos-marketing",
+    "id": "catalogo-de-productos-marketing",
     "tags": [
       {
         "name": "@productos",
@@ -14,7 +14,7 @@
     "uri": "productos.feature",
     "elements": [
       {
-        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catologo-de-productos-markenting-(propiedad-detacada)",
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(propiedad-detacada)",
         "keyword": "Scenario",
         "line": 7,
         "name": "Ingresar al catologo de productos Markenting (Propiedad Detacada)",
@@ -37,7 +37,7 @@
             "name": "El usuario está en Gestión Corredor",
             "result": {
               "status": "passed",
-              "duration": 27729000000
+              "duration": 31178000000
             }
           },
           {
@@ -47,7 +47,7 @@
             "name": "Inicia cuenta con credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 17328000000
+              "duration": 13305000000
             }
           },
           {
@@ -57,17 +57,17 @@
             "name": "Hace click en el catalogo de Productos Marketing",
             "result": {
               "status": "passed",
-              "duration": 252000000
+              "duration": 209000000
             }
           },
           {
             "arguments": [],
             "keyword": "When ",
             "line": 11,
-            "name": "Selecciona y visualiza información del Producto Propiedad Detacada",
+            "name": "Selecciona y visualiza información del Producto Propiedad Destacada",
             "result": {
               "status": "passed",
-              "duration": 1513000000
+              "duration": 2835000000
             }
           },
           {
@@ -77,7 +77,7 @@
             "name": "Verifica los datos almacenados",
             "result": {
               "status": "passed",
-              "duration": 3257000000
+              "duration": 3251000000
             }
           },
           {
@@ -87,7 +87,7 @@
             "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 167000000
+              "duration": 291000000
             }
           },
           {
@@ -97,7 +97,7 @@
             "name": "Visualiza Detalle del contrato del producto a contratar",
             "result": {
               "status": "passed",
-              "duration": 155000000
+              "duration": 5385000000
             }
           },
           {
@@ -107,13 +107,13 @@
             "name": "Visualiza Detalle de Pago",
             "result": {
               "status": "passed",
-              "duration": 7377000000
+              "duration": 1069000000
             }
           }
         ]
       },
       {
-        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catologo-de-productos-markenting-(ultima-ventas)",
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(ultima-ventas)",
         "keyword": "Scenario",
         "line": 18,
         "name": "Ingresar al catologo de productos Markenting (Ultima Ventas)",
@@ -136,7 +136,7 @@
             "name": "El usuario está en Gestión Corredor",
             "result": {
               "status": "passed",
-              "duration": 3689000000
+              "duration": 4953000000
             }
           },
           {
@@ -146,7 +146,7 @@
             "name": "Inicia cuenta con credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 9438000000
+              "duration": 11001000000
             }
           },
           {
@@ -156,7 +156,7 @@
             "name": "Hace click en el catalogo de Productos Marketing",
             "result": {
               "status": "passed",
-              "duration": 171000000
+              "duration": 224000000
             }
           },
           {
@@ -166,7 +166,7 @@
             "name": "Selecciona y visualiza información del Producto Ultima Ventas",
             "result": {
               "status": "passed",
-              "duration": 1233000000
+              "duration": 4295000000
             }
           },
           {
@@ -176,7 +176,7 @@
             "name": "Verifica los datos almacenados",
             "result": {
               "status": "passed",
-              "duration": 3246000000
+              "duration": 3248000000
             }
           },
           {
@@ -186,7 +186,7 @@
             "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 148000000
+              "duration": 271000000
             }
           },
           {
@@ -196,7 +196,7 @@
             "name": "Visualiza Detalle del contrato del producto a contratar",
             "result": {
               "status": "passed",
-              "duration": 122000000
+              "duration": 2340000000
             }
           },
           {
@@ -206,13 +206,13 @@
             "name": "Visualiza Detalle de Pago",
             "result": {
               "status": "passed",
-              "duration": 3292000000
+              "duration": 1090000000
             }
           }
         ]
       },
       {
-        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catologo-de-productos-markenting-(mailing)",
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(mailing)",
         "keyword": "Scenario",
         "line": 29,
         "name": "Ingresar al catologo de productos Markenting (Mailing)",
@@ -235,7 +235,7 @@
             "name": "El usuario está en Gestión Corredor",
             "result": {
               "status": "passed",
-              "duration": 3578000000
+              "duration": 3423000000
             }
           },
           {
@@ -245,7 +245,7 @@
             "name": "Inicia cuenta con credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 9061000000
+              "duration": 8942000000
             }
           },
           {
@@ -265,7 +265,7 @@
             "name": "Selecciona y visualiza información del Producto Mailing",
             "result": {
               "status": "passed",
-              "duration": 1292000000
+              "duration": 2639000000
             }
           },
           {
@@ -275,7 +275,7 @@
             "name": "Verifica los datos almacenados",
             "result": {
               "status": "passed",
-              "duration": 3245000000
+              "duration": 3237000000
             }
           },
           {
@@ -285,7 +285,7 @@
             "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 155000000
+              "duration": 283000000
             }
           },
           {
@@ -295,7 +295,7 @@
             "name": "Visualiza Detalle del contrato del producto a contratar",
             "result": {
               "status": "passed",
-              "duration": 134000000
+              "duration": 2032000000
             }
           },
           {
@@ -305,13 +305,13 @@
             "name": "Visualiza Detalle de Pago",
             "result": {
               "status": "passed",
-              "duration": 2975000000
+              "duration": 993000000
             }
           }
         ]
       },
       {
-        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catologo-de-productos-markenting-(banner)",
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(banner)",
         "keyword": "Scenario",
         "line": 40,
         "name": "Ingresar al catologo de productos Markenting (Banner)",
@@ -334,7 +334,7 @@
             "name": "El usuario está en Gestión Corredor",
             "result": {
               "status": "passed",
-              "duration": 2762000000
+              "duration": 3617000000
             }
           },
           {
@@ -344,7 +344,7 @@
             "name": "Inicia cuenta con credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 8937000000
+              "duration": 8725000000
             }
           },
           {
@@ -354,7 +354,7 @@
             "name": "Hace click en el catalogo de Productos Marketing",
             "result": {
               "status": "passed",
-              "duration": 251000000
+              "duration": 195000000
             }
           },
           {
@@ -364,7 +364,7 @@
             "name": "Selecciona y visualiza información del Producto Banner",
             "result": {
               "status": "passed",
-              "duration": 1299000000
+              "duration": 2946000000
             }
           },
           {
@@ -374,7 +374,7 @@
             "name": "Verifica los datos almacenados",
             "result": {
               "status": "passed",
-              "duration": 3231000000
+              "duration": 3266000000
             }
           },
           {
@@ -384,7 +384,7 @@
             "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 172000000
+              "duration": 290000000
             }
           },
           {
@@ -394,7 +394,7 @@
             "name": "Visualiza Detalle del contrato del producto a contratar",
             "result": {
               "status": "passed",
-              "duration": 140000000
+              "duration": 2380000000
             }
           },
           {
@@ -404,13 +404,13 @@
             "name": "Visualiza Detalle de Pago",
             "result": {
               "status": "passed",
-              "duration": 4955000000
+              "duration": 984000000
             }
           }
         ]
       },
       {
-        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catologo-de-productos-markenting-(banner-+-5-propdestacada)",
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(banner-+-5-propdestacada)",
         "keyword": "Scenario",
         "line": 51,
         "name": "Ingresar al catologo de productos Markenting (Banner + 5 PropDestacada)",
@@ -433,7 +433,7 @@
             "name": "El usuario está en Gestión Corredor",
             "result": {
               "status": "passed",
-              "duration": 5194000000
+              "duration": 3347000000
             }
           },
           {
@@ -443,7 +443,7 @@
             "name": "Inicia cuenta con credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 10315000000
+              "duration": 8430000000
             }
           },
           {
@@ -453,7 +453,7 @@
             "name": "Hace click en el catalogo de Productos Marketing",
             "result": {
               "status": "passed",
-              "duration": 179000000
+              "duration": 193000000
             }
           },
           {
@@ -463,7 +463,7 @@
             "name": "Selecciona y visualiza información del Producto Banner + 5 PropDestacada",
             "result": {
               "status": "passed",
-              "duration": 1358000000
+              "duration": 3194000000
             }
           },
           {
@@ -473,7 +473,7 @@
             "name": "Verifica los datos almacenados",
             "result": {
               "status": "passed",
-              "duration": 3240000000
+              "duration": 3239000000
             }
           },
           {
@@ -483,7 +483,7 @@
             "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 148000000
+              "duration": 266000000
             }
           },
           {
@@ -493,7 +493,7 @@
             "name": "Visualiza Detalle del contrato del producto a contratar",
             "result": {
               "status": "passed",
-              "duration": 128000000
+              "duration": 2174000000
             }
           },
           {
@@ -503,13 +503,13 @@
             "name": "Visualiza Detalle de Pago",
             "result": {
               "status": "passed",
-              "duration": 3623000000
+              "duration": 993000000
             }
           }
         ]
       },
       {
-        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catologo-de-productos-markenting-(espacio-landing)",
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(espacio-landing)",
         "keyword": "Scenario",
         "line": 62,
         "name": "Ingresar al catologo de productos Markenting (Espacio Landing)",
@@ -532,7 +532,7 @@
             "name": "El usuario está en Gestión Corredor",
             "result": {
               "status": "passed",
-              "duration": 1890000000
+              "duration": 3604000000
             }
           },
           {
@@ -542,7 +542,7 @@
             "name": "Inicia cuenta con credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 8953000000
+              "duration": 8772000000
             }
           },
           {
@@ -552,7 +552,7 @@
             "name": "Hace click en el catalogo de Productos Marketing",
             "result": {
               "status": "passed",
-              "duration": 204000000
+              "duration": 192000000
             }
           },
           {
@@ -562,7 +562,7 @@
             "name": "Selecciona y visualiza información del Producto Espacio Landing",
             "result": {
               "status": "passed",
-              "duration": 1293000000
+              "duration": 2519000000
             }
           },
           {
@@ -572,7 +572,7 @@
             "name": "Verifica los datos almacenados",
             "result": {
               "status": "passed",
-              "duration": 3240000000
+              "duration": 3249000000
             }
           },
           {
@@ -582,7 +582,7 @@
             "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 165000000
+              "duration": 357000000
             }
           },
           {
@@ -592,7 +592,7 @@
             "name": "Visualiza Detalle del contrato del producto a contratar",
             "result": {
               "status": "passed",
-              "duration": 131000000
+              "duration": 3346000000
             }
           },
           {
@@ -602,13 +602,13 @@
             "name": "Visualiza Detalle de Pago",
             "result": {
               "status": "passed",
-              "duration": 2912000000
+              "duration": 1491000000
             }
           }
         ]
       },
       {
-        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catologo-de-productos-markenting-(mail-500)",
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(mail-500)",
         "keyword": "Scenario",
         "line": 73,
         "name": "Ingresar al catologo de productos Markenting (Mail 500)",
@@ -631,7 +631,7 @@
             "name": "El usuario está en Gestión Corredor",
             "result": {
               "status": "passed",
-              "duration": 2583000000
+              "duration": 3444000000
             }
           },
           {
@@ -641,7 +641,7 @@
             "name": "Inicia cuenta con credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 7719000000
+              "duration": 9721000000
             }
           },
           {
@@ -651,7 +651,7 @@
             "name": "Hace click en el catalogo de Productos Marketing",
             "result": {
               "status": "passed",
-              "duration": 170000000
+              "duration": 209000000
             }
           },
           {
@@ -661,7 +661,7 @@
             "name": "Selecciona y visualiza información del Producto Mail500",
             "result": {
               "status": "passed",
-              "duration": 1335000000
+              "duration": 2405000000
             }
           },
           {
@@ -671,7 +671,7 @@
             "name": "Verifica los datos almacenados",
             "result": {
               "status": "passed",
-              "duration": 3225000000
+              "duration": 3245000000
             }
           },
           {
@@ -681,7 +681,7 @@
             "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 143000000
+              "duration": 276000000
             }
           },
           {
@@ -691,7 +691,7 @@
             "name": "Visualiza Detalle del contrato del producto a contratar",
             "result": {
               "status": "passed",
-              "duration": 133000000
+              "duration": 1987000000
             }
           },
           {
@@ -701,13 +701,13 @@
             "name": "Visualiza Detalle de Pago",
             "result": {
               "status": "passed",
-              "duration": 2316000000
+              "duration": 979000000
             }
           }
         ]
       },
       {
-        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catologo-de-productos-markenting-(api-contacto)",
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(api-contacto)",
         "keyword": "Scenario",
         "line": 84,
         "name": "Ingresar al catologo de productos Markenting (Api Contacto)",
@@ -730,7 +730,7 @@
             "name": "El usuario está en Gestión Corredor",
             "result": {
               "status": "passed",
-              "duration": 1241000000
+              "duration": 3255000000
             }
           },
           {
@@ -740,7 +740,7 @@
             "name": "Inicia cuenta con credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 8703000000
+              "duration": 8224000000
             }
           },
           {
@@ -760,7 +760,7 @@
             "name": "Selecciona y visualiza información del Producto Api Contacto",
             "result": {
               "status": "passed",
-              "duration": 1281000000
+              "duration": 2880000000
             }
           },
           {
@@ -770,7 +770,7 @@
             "name": "Verifica los datos almacenados",
             "result": {
               "status": "passed",
-              "duration": 3266000000
+              "duration": 3255000000
             }
           },
           {
@@ -780,7 +780,7 @@
             "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 203000000
+              "duration": 382000000
             }
           },
           {
@@ -790,7 +790,7 @@
             "name": "Visualiza Detalle del contrato del producto a contratar",
             "result": {
               "status": "passed",
-              "duration": 179000000
+              "duration": 2296000000
             }
           },
           {
@@ -800,13 +800,13 @@
             "name": "Visualiza Detalle de Pago",
             "result": {
               "status": "passed",
-              "duration": 2751000000
+              "duration": 1120000000
             }
           }
         ]
       },
       {
-        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x5)",
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x5)",
         "keyword": "Scenario",
         "line": 95,
         "name": "Ingresar al catologo de productos Markenting (Prop.Destacada x5)",
@@ -829,7 +829,7 @@
             "name": "El usuario está en Gestión Corredor",
             "result": {
               "status": "passed",
-              "duration": 3675000000
+              "duration": 3582000000
             }
           },
           {
@@ -839,7 +839,7 @@
             "name": "Inicia cuenta con credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 8322000000
+              "duration": 9176000000
             }
           },
           {
@@ -849,7 +849,7 @@
             "name": "Hace click en el catalogo de Productos Marketing",
             "result": {
               "status": "passed",
-              "duration": 208000000
+              "duration": 209000000
             }
           },
           {
@@ -859,7 +859,7 @@
             "name": "Selecciona y visualiza información del Producto Propiedad Destacada x5",
             "result": {
               "status": "passed",
-              "duration": 1415000000
+              "duration": 3296000000
             }
           },
           {
@@ -869,7 +869,7 @@
             "name": "Verifica los datos almacenados",
             "result": {
               "status": "passed",
-              "duration": 3331000000
+              "duration": 3293000000
             }
           },
           {
@@ -879,7 +879,7 @@
             "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 182000000
+              "duration": 288000000
             }
           },
           {
@@ -889,7 +889,7 @@
             "name": "Visualiza Detalle del contrato del producto a contratar",
             "result": {
               "status": "passed",
-              "duration": 138000000
+              "duration": 2194000000
             }
           },
           {
@@ -899,13 +899,13 @@
             "name": "Visualiza Detalle de Pago",
             "result": {
               "status": "passed",
-              "duration": 2888000000
+              "duration": 1408000000
             }
           }
         ]
       },
       {
-        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x15)",
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x15)",
         "keyword": "Scenario",
         "line": 106,
         "name": "Ingresar al catologo de productos Markenting (Prop.Destacada x15)",
@@ -928,7 +928,7 @@
             "name": "El usuario está en Gestión Corredor",
             "result": {
               "status": "passed",
-              "duration": 3230000000
+              "duration": 3625000000
             }
           },
           {
@@ -938,7 +938,7 @@
             "name": "Inicia cuenta con credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 8380000000
+              "duration": 9554000000
             }
           },
           {
@@ -948,7 +948,7 @@
             "name": "Hace click en el catalogo de Productos Marketing",
             "result": {
               "status": "passed",
-              "duration": 205000000
+              "duration": 270000000
             }
           },
           {
@@ -958,7 +958,7 @@
             "name": "Selecciona y visualiza información del Producto Propiedad Destacada x15",
             "result": {
               "status": "passed",
-              "duration": 1313000000
+              "duration": 2838000000
             }
           },
           {
@@ -968,7 +968,7 @@
             "name": "Verifica los datos almacenados",
             "result": {
               "status": "passed",
-              "duration": 3281000000
+              "duration": 3255000000
             }
           },
           {
@@ -978,7 +978,7 @@
             "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 165000000
+              "duration": 296000000
             }
           },
           {
@@ -988,7 +988,7 @@
             "name": "Visualiza Detalle del contrato del producto a contratar",
             "result": {
               "status": "passed",
-              "duration": 142000000
+              "duration": 2278000000
             }
           },
           {
@@ -998,13 +998,13 @@
             "name": "Visualiza Detalle de Pago",
             "result": {
               "status": "passed",
-              "duration": 2771000000
+              "duration": 972000000
             }
           }
         ]
       },
       {
-        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x30)",
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x30)",
         "keyword": "Scenario",
         "line": 117,
         "name": "Ingresar al catologo de productos Markenting (Prop.Destacada x30)",
@@ -1027,7 +1027,7 @@
             "name": "El usuario está en Gestión Corredor",
             "result": {
               "status": "passed",
-              "duration": 1465000000
+              "duration": 3938000000
             }
           },
           {
@@ -1037,7 +1037,7 @@
             "name": "Inicia cuenta con credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 9241000000
+              "duration": 14098000000
             }
           },
           {
@@ -1047,7 +1047,7 @@
             "name": "Hace click en el catalogo de Productos Marketing",
             "result": {
               "status": "passed",
-              "duration": 207000000
+              "duration": 205000000
             }
           },
           {
@@ -1057,7 +1057,7 @@
             "name": "Selecciona y visualiza información del Producto Propiedad Destacada x30",
             "result": {
               "status": "passed",
-              "duration": 1514000000
+              "duration": 2696000000
             }
           },
           {
@@ -1067,7 +1067,7 @@
             "name": "Verifica los datos almacenados",
             "result": {
               "status": "passed",
-              "duration": 3333000000
+              "duration": 3246000000
             }
           },
           {
@@ -1077,7 +1077,7 @@
             "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 184000000
+              "duration": 286000000
             }
           },
           {
@@ -1087,7 +1087,7 @@
             "name": "Visualiza Detalle del contrato del producto a contratar",
             "result": {
               "status": "passed",
-              "duration": 138000000
+              "duration": 2155000000
             }
           },
           {
@@ -1097,13 +1097,13 @@
             "name": "Visualiza Detalle de Pago",
             "result": {
               "status": "passed",
-              "duration": 2564000000
+              "duration": 1043000000
             }
           }
         ]
       },
       {
-        "id": "catalogo-de-planes---productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x60)",
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x60)",
         "keyword": "Scenario",
         "line": 128,
         "name": "Ingresar al catologo de productos Markenting (Prop.Destacada x60)",
@@ -1126,7 +1126,7 @@
             "name": "El usuario está en Gestión Corredor",
             "result": {
               "status": "passed",
-              "duration": 1253000000
+              "duration": 2983000000
             }
           },
           {
@@ -1136,7 +1136,7 @@
             "name": "Inicia cuenta con credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 9828000000
+              "duration": 13480000000
             }
           },
           {
@@ -1146,7 +1146,7 @@
             "name": "Hace click en el catalogo de Productos Marketing",
             "result": {
               "status": "passed",
-              "duration": 393000000
+              "duration": 195000000
             }
           },
           {
@@ -1156,7 +1156,7 @@
             "name": "Selecciona y visualiza información del Producto Propiedad Destacada x60",
             "result": {
               "status": "passed",
-              "duration": 1608000000
+              "duration": 3222000000
             }
           },
           {
@@ -1166,7 +1166,7 @@
             "name": "Verifica los datos almacenados",
             "result": {
               "status": "passed",
-              "duration": 3238000000
+              "duration": 3278000000
             }
           },
           {
@@ -1176,7 +1176,7 @@
             "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 156000000
+              "duration": 284000000
             }
           },
           {
@@ -1186,7 +1186,7 @@
             "name": "Visualiza Detalle del contrato del producto a contratar",
             "result": {
               "status": "passed",
-              "duration": 132000000
+              "duration": 3103000000
             }
           },
           {
@@ -1196,7 +1196,7 @@
             "name": "Visualiza Detalle de Pago",
             "result": {
               "status": "passed",
-              "duration": 3586000000
+              "duration": 1132000000
             }
           }
         ]

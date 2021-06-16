@@ -1,14 +1,12 @@
 {
     "experimentalNetworkStubbing": true,
     "chromeWebSecurity": false,
-
-    "testFiles": "**/*.{feature,features}",
-
+    
+    
+        
     "env": {
           "TAGS": "not @ignore"
            }, 
-    
-    
     
     "video":false
 }

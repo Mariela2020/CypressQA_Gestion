@@ -173,3 +173,583 @@ Producto: Propiedad destacada;  30/4/2021 16:3:22
 Precio:  $23.595;  30/4/2021 16:3:22
 Iva: IVA: $4.483;  30/4/2021 16:3:22
 Total: $28.078;  30/4/2021 16:3:22
+
+Total Resumen: $  28.093 CLP;  4-5-2021
+Producto: Propiedad destacada;  4-5-2021
+Precio del producto: $23.608;  4-5-2021
+
+Total Resumen: $  28.093 CLP;  4-5-2021
+Producto: Propiedad destacada;  4-5-2021
+Precio del producto: $23.608;  4-5-2021
+Iva: IVA: $4.485;  4-5-2021
+
+Total Resumen: $  28.093 CLP;  4-5-2021
+Producto: Propiedad destacada;  4-5-2021
+Precio del producto: $23.608;  4-5-2021
+Iva: IVA: $4.485;  4-5-2021
+Total: $28.093;  4-5-2021
+
+Total Resumen: $  105.350 CLP;  4-5-2021
+Producto: Ultimas ventas;  4-5-2021
+Precio del producto: $88.530;  4-5-2021
+Iva: IVA: $16.821;  4-5-2021
+Total: $105.351;  4-5-2021
+
+Total Resumen: $  105.350 CLP;  4-5-2021
+Producto: Ultimas ventas;  4-5-2021
+Precio del producto: $88.530;  4-5-2021
+Iva: IVA: $16.821;  4-5-2021
+Total: $105.351;  4-5-2021
+
+Total Resumen: $  105.350 CLP;  4-5-2021
+Producto: Ultimas ventas;  4-5-2021
+Precio del producto: $88.530;  4-5-2021
+Iva: IVA: $16.821;  4-5-2021
+Total: $105.351;  4-5-2021
+
+Total Resumen: $  105.350 CLP;  4-5-2021
+
+Total Resumen: $  105.350 CLP;  4-5-2021
+Producto: Ultimas ventas;  4-5-2021
+Precio del producto: $88.530;  4-5-2021
+Iva: IVA: $16.821;  4-5-2021
+Total: $105.351;  4-5-2021
+
+Total Resumen: $  105.350 CLP;  4-5-2021
+Producto: Ultimas ventas;  4-5-2021
+Precio del producto: $88.530;  4-5-2021
+Iva: IVA: $16.821;  4-5-2021
+Total: $105.351;  4-5-2021
+
+Total Resumen: $  105.350 CLP;  4-5-2021
+Producto: Ultimas ventas;  4-5-2021
+Precio del producto: $88.530;  4-5-2021
+Iva: IVA: $16.821;  4-5-2021
+Total: $105.351;  4-5-2021
+
+Total Resumen: $  105.350 CLP;  4-5-2021
+Producto: Ultimas ventas;  4-5-2021
+Precio del producto: $88.530;  4-5-2021
+Iva: IVA: $16.821;  4-5-2021
+Total: $105.351;  4-5-2021
+
+Total Resumen: $  105.350 CLP;  4-5-2021
+Producto: Ultimas ventas;  4-5-2021
+Precio del producto: $88.530;  4-5-2021
+Iva: IVA: $16.821;  4-5-2021
+Total: $105.351;  4-5-2021
+
+Total Resumen: $  105.350 CLP;  4-5-2021
+
+Total Resumen: $  105.350 CLP;  4-5-2021
+Producto: Ultimas ventas;  4-5-2021
+Precio del producto: $88.530;  4-5-2021
+Iva: IVA: $16.821;  4-5-2021
+Total: $105.351;  4-5-2021
+
+Total Resumen: $  105.364 CLP;  5-5-202111:46:28
+
+Total Resumen: $  105.364 CLP;  5-5-202111:48:28
+
+Total Resumen: $  105.364 CLP;  5-5-202111:49:31
+Producto: Ultimas ventas;  5-5-202111:49:31
+
+Total Resumen: $  105.364 CLP;  5-5-2021  11:57:33
+Producto: Ultimas ventas;  5-5-2021  11:57:33
+
+Total Resumen: $  105.364 CLP;  5-5-2021  12:0:27
+Producto: Ultimas ventas;  5-5-2021  12:0:27
+
+Total Resumen: $  105.364 CLP;  5-5-2021  12:2:21
+Producto: Ultimas ventas;  5-5-2021  12:2:21
+Precio del producto: $88.541;  5-5-2021  12:2:21
+Iva: IVA: $16.823;  5-5-2021  12:2:21
+Total: $105.364;  5-5-2021  12:2:21
+
+Total Resumen: $  105.364 CLP;  5-5-2021  12:5:4
+Producto: Ultimas ventas;  5-5-2021  12:5:4
+Precio del producto: $88.541;  5-5-2021  12:5:4
+Iva: IVA: $16.823;  5-5-2021  12:5:4
+Total: $105.364;  5-5-2021  12:5:4
+
+Total Resumen: $  105.364 CLP;  5-5-2021  12:11:33
+Producto: Ultimas ventas;  5-5-2021  12:11:33
+Precio del producto: $88.541;  5-5-2021  12:11:33
+Iva: IVA: $16.823;  5-5-2021  12:11:33
+Total: $105.364;  5-5-2021  12:11:33
+
+Total Resumen: $  105.364 CLP;  5-5-2021  12:23:45
+Producto: Ultimas ventas;  5-5-2021  12:23:45
+Precio del producto: $88.541;  5-5-2021  12:23:45
+Iva: IVA: $16.823;  5-5-2021  12:23:45
+Total: $105.364;  5-5-2021  12:23:45
+
+Total Resumen: $  105.364 CLP;  5-5-2021  12:29:5
+Producto: Ultimas ventas;  5-5-2021  12:29:5
+Precio del producto: $88.541;  5-5-2021  12:29:5
+Iva: IVA: $16.823;  5-5-2021  12:29:5
+Total: $105.364;  5-5-2021  12:29:5
+
+Total Resumen: $  105.364 CLP;  5-5-2021  12:58:46
+Producto: Ultimas ventas;  5-5-2021  12:58:46
+Precio del producto: $88.541;  5-5-2021  12:58:46
+Iva: IVA: $16.823;  5-5-2021  12:58:46
+Total: $105.364;  5-5-2021  12:58:46
+
+Total Resumen: $  105.378 CLP;  6-5-2021  19:29:35
+Producto: Ultimas ventas;  6-5-2021  19:29:35
+Precio del producto: $88.553;  6-5-2021  19:29:35
+Iva: IVA: $16.825;  6-5-2021  19:29:35
+Total: $105.378;  6-5-2021  19:29:35
+
+Total Resumen: $  105.378 CLP;  6-5-2021  19:34:57
+Producto: Ultimas ventas;  6-5-2021  19:34:57
+Precio del producto: $88.553;  6-5-2021  19:34:57
+Iva: IVA: $16.825;  6-5-2021  19:34:57
+Total: $105.378;  6-5-2021  19:34:57
+
+Total Resumen: $  105.378 CLP;  6-5-2021  19:37:38
+Producto: Ultimas ventas;  6-5-2021  19:37:38
+Precio del producto: $88.553;  6-5-2021  19:37:38
+Iva: IVA: $16.825;  6-5-2021  19:37:38
+Total: $105.378;  6-5-2021  19:37:38
+
+Total Resumen: $  105.378 CLP;  6-5-2021  19:41:56
+Producto: Ultimas ventas;  6-5-2021  19:41:56
+Precio del producto: $88.553;  6-5-2021  19:41:56
+Iva: IVA: $16.825;  6-5-2021  19:41:56
+Total: $105.378;  6-5-2021  19:41:56
+
+Total Resumen: $  105.392 CLP;  7-5-2021  9:45:11
+Producto: Ultimas ventas;  7-5-2021  9:45:11
+
+Total Resumen: $  105.392 CLP;  7-5-2021  9:56:14
+Producto: Ultimas ventas;  7-5-2021  9:56:14
+
+Total Resumen: $  105.392 CLP;  7-5-2021  10:11:1
+
+Total Resumen: $  105.392 CLP;  7-5-2021  10:18:30
+
+Total Resumen: $  105.392 CLP;  7-5-2021  10:25:30
+Producto: Ultimas ventas;  7-5-2021  10:25:30
+
+Total Resumen: $  105.392 CLP;  7-5-2021  10:29:5
+Producto: Ultimas ventas;  7-5-2021  10:29:5
+
+Total Resumen: $  105.392 CLP;  7-5-2021  10:30:34
+Producto: Ultimas ventas;  7-5-2021  10:30:34
+Precio del producto: $88.565;  7-5-2021  10:30:34
+Iva: IVA: $16.827;  7-5-2021  10:30:34
+Total: $105.392;  7-5-2021  10:30:34
+
+Total Resumen: $  105.392 CLP;  7-5-2021  10:52:12
+Producto: Ultimas ventas;  7-5-2021  10:52:12
+Precio del producto: $88.565;  7-5-2021  10:52:12
+Iva: IVA: $16.827;  7-5-2021  10:52:12
+Total: $105.392;  7-5-2021  10:52:12
+
+Total Resumen: $  105.392 CLP;  7-5-2021  10:55:25
+Producto: Ultimas ventas;  7-5-2021  10:55:25
+Precio del producto: $88.565;  7-5-2021  10:55:25
+Iva: IVA: $16.827;  7-5-2021  10:55:25
+Total: $105.392;  7-5-2021  10:55:25
+
+Total Resumen: $  105.392 CLP;  7-5-2021  10:57:32
+Producto: Ultimas ventas;  7-5-2021  10:57:32
+Precio del producto: $88.565;  7-5-2021  10:57:32
+Iva: IVA: $16.827;  7-5-2021  10:57:32
+Total: $105.392;  7-5-2021  10:57:32
+
+Total Resumen: $  105.392 CLP;  7-5-2021  11:1:33
+Producto: Ultimas ventas;  7-5-2021  11:1:33
+Precio del producto: $88.565;  7-5-2021  11:1:33
+Iva: IVA: $16.827;  7-5-2021  11:1:33
+Total: $105.392;  7-5-2021  11:1:33
+
+Total Resumen: $  28.105 CLP;  7-5-2021  18:37:45
+Producto: Propiedad destacada;  7-5-2021  18:37:45
+Precio:  $23.617;  7-5-2021  18:37:45
+Iva: IVA: $4.487;  7-5-202118:37:45
+Total detalle a pagar: $28.104;  7-5-2021  18:37:45
+
+Total Resumen: $  105.392 CLP;  7-5-2021  18:37:45
+Producto: Ultimas ventas;  7-5-2021  18:37:45
+Precio:  $88.565;  7-5-2021  18:37:45
+Iva: IVA: $16.827;  7-5-202118:37:45
+Total detalle a pagar: $105.392;  7-5-2021  18:37:45
+
+Total Resumen: $  70.261 CLP;  7-5-2021  18:37:45
+Producto: Mailing;  7-5-2021  18:37:45
+Precio:  $59.043;  7-5-2021  18:37:45
+Iva: IVA: $11.218;  7-5-202118:37:45
+Total detalle a pagar: $70.261;  7-5-2021  18:37:45
+
+Total Resumen: $  702.615 CLP;  7-5-2021  18:37:45
+Producto: Banners;  7-5-2021  18:37:45
+Precio:  $590.432;  7-5-2021  18:37:45
+Iva: IVA: $112.182;  7-5-202118:37:45
+Total detalle a pagar: $702.614;  7-5-2021  18:37:45
+
+Total Resumen: $  667.484 CLP;  7-5-2021  18:37:45
+Producto: Banner + 5 Propiedades destacadas;  7-5-2021  18:37:45
+Precio:  $560.911;  7-5-2021  18:37:45
+Iva: IVA: $106.573;  7-5-202118:37:45
+Total detalle a pagar: $667.484;  7-5-2021  18:37:45
+
+Total Resumen: $  70.261 CLP;  7-5-2021  18:37:45
+Producto: Espacio landing (unidad);  7-5-2021  18:37:45
+Precio:  $59.043;  7-5-2021  18:37:45
+Iva: IVA: $11.218;  7-5-202118:37:45
+Total detalle a pagar: $70.261;  7-5-2021  18:37:45
+
+Total Resumen: $  210.784 CLP;  7-5-2021  18:37:45
+Producto: Mail (500) + 5 Propiedades destacadas;  7-5-2021  18:37:45
+Precio:  $177.130;  7-5-2021  18:37:45
+Iva: IVA: $33.655;  7-5-202118:37:45
+Total detalle a pagar: $210.785;  7-5-2021  18:37:45
+
+Total Resumen: $  175.654 CLP;  7-5-2021  18:37:45
+Producto: Api Contactos;  7-5-2021  18:37:45
+Precio:  $147.608;  7-5-2021  18:37:45
+Iva: IVA: $28.046;  7-5-202118:37:45
+Total detalle a pagar: $175.654;  7-5-2021  18:37:45
+
+Total Resumen: $  140.523 CLP;  7-5-2021  18:37:45
+Producto: Propiedad destacada x5;  7-5-2021  18:37:45
+Precio:  $118.086;  7-5-2021  18:37:45
+Iva: IVA: $22.436;  7-5-202118:37:45
+Total detalle a pagar: $140.522;  7-5-2021  18:37:45
+
+Total Resumen: $  386.438 CLP;  7-5-2021  18:37:45
+Producto: Propiedad destacada x15;  7-5-2021  18:37:45
+Precio:  $324.738;  7-5-2021  18:37:45
+Iva: IVA: $61.700;  7-5-202118:37:45
+Total detalle a pagar: $386.438;  7-5-2021  18:37:45
+
+Total Resumen: $  702.615 CLP;  7-5-2021  18:37:45
+Producto: Propiedad destacada x30;  7-5-2021  18:37:45
+Precio:  $590.432;  7-5-2021  18:37:45
+Iva: IVA: $112.182;  7-5-202118:37:45
+Total detalle a pagar: $702.614;  7-5-2021  18:37:45
+
+Total Resumen: $  1.229.575 CLP;  7-5-2021  18:37:45
+Producto: Propiedad destacada x60;  7-5-2021  18:37:45
+Precio:  $1.033.257;  7-5-2021  18:37:45
+Iva: IVA: $196.319;  7-5-2021 18:37:45
+Total detalle a pagar: $1.229.576;  7-5-2021  18:37:45
+
+Total Resumen: $  105.434 CLP;  10-5-2021  19:42:8
+Producto: Ultimas ventas;  10-5-2021  19:42:8
+Precio del producto: $88.600;  10-5-2021  19:42:8
+Iva: IVA: $16.834;  10-5-2021  19:42:8
+Total: $105.434;  10-5-2021  19:42:8
+
+Total Resumen: $  105.434 CLP;  10-5-2021  19:58:28
+Producto: Ultimas ventas;  10-5-2021  19:58:28
+Precio del producto: $88.600;  10-5-2021  19:58:28
+Iva: IVA: $16.834;  10-5-2021  19:58:28
+Total: $105.434;  10-5-2021  19:58:28
+
+Total Resumen: $  105.447 CLP;  10-5-2021  20:4:43
+Producto: Ultimas ventas;  10-5-2021  20:4:43
+Precio del producto: $88.611;  10-5-2021  20:4:43
+
+Total Resumen: $  105.447 CLP;  10-5-2021  20:20:55
+Producto: Ultimas ventas;  10-5-2021  20:20:55
+Precio del producto: $88.611;  10-5-2021  20:20:55
+Iva: IVA: $16.836;  10-5-2021  20:20:55
+Total: $105.447;  10-5-2021  20:20:55
+
+Total Resumen: $  105.447 CLP;  10-5-2021  20:31:48
+Producto: Ultimas ventas;  10-5-2021  20:31:48
+Precio del producto: $88.611;  10-5-2021  20:31:48
+Iva: IVA: $16.836;  10-5-2021  20:31:48
+Total: $105.447;  10-5-2021  20:31:48
+
+Total Resumen: $  105.447 CLP;  10-5-2021  20:38:30
+Producto: Ultimas ventas;  10-5-2021  20:38:30
+Precio del producto: $88.611;  10-5-2021  20:38:30
+Iva: IVA: $16.836;  10-5-2021  20:38:30
+Total: $105.447;  10-5-2021  20:38:30
+
+Total Resumen: $  105.447 CLP;  10-5-2021  20:54:6
+Producto: Ultimas ventas;  10-5-2021  20:54:6
+Precio del producto: $88.611;  10-5-2021  20:54:6
+Iva: IVA: $16.836;  10-5-2021  20:54:6
+Total: $105.447;  10-5-2021  20:54:6
+
+Total Resumen: $  105.447 CLP;  10-5-2021  21:4:10
+Producto: Ultimas ventas;  10-5-2021  21:4:10
+Precio del producto: $88.611;  10-5-2021  21:4:10
+Iva: IVA: $16.836;  10-5-2021  21:4:10
+Total: $105.447;  10-5-2021  21:4:10
+
+Total Resumen: $  105.447 CLP;  11-5-2021  13:4:32
+Producto: Ultimas ventas;  11-5-2021  13:4:32
+Precio del producto: $88.611;  11-5-2021  13:4:32
+Iva: IVA: $16.836;  11-5-2021  13:4:32
+Total: $105.447;  11-5-2021  13:4:32
+
+Total Resumen: $  28.119 CLP;  11-5-2021  15:21:44
+Producto: Propiedad destacada;  11-5-2021  15:21:44
+Precio del producto: $23.630;  11-5-2021  15:21:44
+Iva: IVA: $4.490;  11-5-2021  15:21:44
+Total: $28.120;  11-5-2021  15:21:44
+
+Total Resumen: $  105.447 CLP;  11-5-2021  15:21:44
+Producto: Ultimas ventas;  11-5-2021  15:21:44
+Precio del producto: $88.611;  11-5-2021  15:21:44
+Iva: IVA: $16.836;  11-5-2021  15:21:44
+Total: $105.447;  11-5-2021  15:21:44
+
+Total Resumen: $  28.119 CLP;  11-5-2021  15:28:12
+Producto: Propiedad destacada;  11-5-2021  15:28:12
+Precio del producto: $23.630;  11-5-2021  15:28:12
+Iva: IVA: $4.490;  11-5-2021  15:28:12
+Total: $28.120;  11-5-2021  15:28:12
+
+Total Resumen: $  105.447 CLP;  11-5-2021  15:28:12
+Producto: Ultimas ventas;  11-5-2021  15:28:12
+Precio del producto: $88.611;  11-5-2021  15:28:12
+Iva: IVA: $16.836;  11-5-2021  15:28:12
+Total: $105.447;  11-5-2021  15:28:12
+
+Total Resumen: $  28.119 CLP;  11-5-2021  15:51:24
+Producto: Propiedad destacada;  11-5-2021  15:51:24
+Precio del producto: $23.630;  11-5-2021  15:51:24
+Iva: IVA: $4.490;  11-5-2021  15:51:24
+Total: $28.120;  11-5-2021  15:51:24
+
+Total Resumen: $  105.447 CLP;  11-5-2021  15:51:24
+Producto: Ultimas ventas;  11-5-2021  15:51:24
+Precio del producto: $88.611;  11-5-2021  15:51:24
+Iva: IVA: $16.836;  11-5-2021  15:51:24
+Total: $105.447;  11-5-2021  15:51:24
+
+Total Resumen: $  28.123 CLP;  12-5-2021  18:27:7
+Producto: Propiedad destacada;  12-5-2021  18:27:7
+Precio del producto: $23.633;  12-5-2021  18:27:7
+Iva: IVA: $4.490;  12-5-2021  18:27:7
+Total: $28.123;  12-5-2021  18:27:7
+
+Total Resumen: $  105.461 CLP;  12-5-2021  18:27:7
+Producto: Ultimas ventas;  12-5-2021  18:27:7
+Precio del producto: $88.623;  12-5-2021  18:27:7
+Iva: IVA: $16.838;  12-5-2021  18:27:7
+Total: $105.461;  12-5-2021  18:27:7
+
+Total Resumen: $  28.123 CLP;  12-5-2021  18:42:33
+Producto: Propiedad destacada;  12-5-2021  18:42:33
+Precio del producto: $23.633;  12-5-2021  18:42:33
+Iva: IVA: $4.490;  12-5-2021  18:42:33
+Total: $28.123;  12-5-2021  18:42:33
+
+Total Resumen: $  105.461 CLP;  12-5-2021  18:42:33
+Producto: Ultimas ventas;  12-5-2021  18:42:33
+Precio del producto: $88.623;  12-5-2021  18:42:33
+Iva: IVA: $16.838;  12-5-2021  18:42:33
+Total: $105.461;  12-5-2021  18:42:33
+
+Total Resumen: $  70.307 CLP;  12-5-2021  18:42:33
+Producto: Mailing;  12-5-2021  18:42:33
+Precio del producto: $59.082;  12-5-2021  18:42:33
+Iva: IVA: $11.226;  12-5-2021  18:42:33
+Total: $70.308;  12-5-2021  18:42:33
+
+Total Resumen: $  703.073 CLP;  12-5-2021  18:42:33
+Producto: Banners;  12-5-2021  18:42:33
+Precio del producto: $590.818;  12-5-2021  18:42:33
+Iva: IVA: $112.255;  12-5-2021  18:42:33
+Total: $703.073;  12-5-2021  18:42:33
+
+Total Resumen: $  667.920 CLP;  12-5-2021  18:42:33
+Producto: Banner + 5 Propiedades destacadas;  12-5-2021  18:42:33
+Precio del producto: $561.277;  12-5-2021  18:42:33
+Iva: IVA: $106.643;  12-5-2021  18:42:33
+Total: $667.920;  12-5-2021  18:42:33
+
+Total Resumen: $  70.307 CLP;  12-5-2021  18:42:33
+Producto: Espacio landing (unidad);  12-5-2021  18:42:33
+Precio del producto: $59.082;  12-5-2021  18:42:33
+Iva: IVA: $11.226;  12-5-2021  18:42:33
+Total: $70.308;  12-5-2021  18:42:33
+
+Total Resumen: $  210.922 CLP;  12-5-2021  18:42:33
+Producto: Mail (500) + 5 Propiedades destacadas;  12-5-2021  18:42:33
+Precio del producto: $177.245;  12-5-2021  18:42:33
+Iva: IVA: $33.677;  12-5-2021  18:42:33
+Total: $210.922;  12-5-2021  18:42:33
+
+Total Resumen: $  175.768 CLP;  12-5-2021  18:42:33
+Producto: Api Contactos;  12-5-2021  18:42:33
+Precio del producto: $147.704;  12-5-2021  18:42:33
+Iva: IVA: $28.064;  12-5-2021  18:42:33
+Total: $175.768;  12-5-2021  18:42:33
+
+Total Resumen: $  140.615 CLP;  12-5-2021  18:42:33
+Producto: Propiedad destacada x5;  12-5-2021  18:42:33
+Precio del producto: $118.164;  12-5-2021  18:42:33
+Iva: IVA: $22.451;  12-5-2021  18:42:33
+Total: $140.615;  12-5-2021  18:42:33
+
+Total Resumen: $  386.690 CLP;  12-5-2021  18:42:33
+Producto: Propiedad destacada x15;  12-5-2021  18:42:33
+Precio del producto: $324.950;  12-5-2021  18:42:33
+Iva: IVA: $61.740;  12-5-2021  18:42:33
+Total: $386.690;  12-5-2021  18:42:33
+
+Total Resumen: $  703.073 CLP;  12-5-2021  18:42:33
+Producto: Propiedad destacada x30;  12-5-2021  18:42:33
+Precio del producto: $590.818;  12-5-2021  18:42:33
+Iva: IVA: $112.255;  12-5-2021  18:42:33
+Total: $703.073;  12-5-2021  18:42:33
+
+Total Resumen: $  1.230.378 CLP;  12-5-2021  18:42:33
+Producto: Propiedad destacada x60;  12-5-2021  18:42:33
+Precio del producto: $1.033.931;  12-5-2021  18:42:33
+Iva: IVA: $196.447;  12-5-2021  18:42:33
+Total: $1.230.378;  12-5-2021  18:42:33
+
+Total Resumen: $  28.123 CLP;  12-5-2021  19:14:51
+Producto: Propiedad destacada;  12-5-2021  19:14:51
+Precio del producto: $23.633;  12-5-2021  19:14:51
+Iva: IVA: $4.490;  12-5-2021  19:14:51
+Total: $28.123;  12-5-2021  19:14:51
+
+Total Resumen: 3.57;  13-5-2021  16:13:26
+Producto: Ultimas ventas;  13-5-2021  16:13:26
+
+Total Resumen: 3.57;  13-5-2021  16:21:34
+Producto: Ultimas ventas;  13-5-2021  16:21:34
+
+Total Resumen: 3.57;  13-5-2021  16:34:24
+Producto: Ultimas ventas;  13-5-2021  16:34:24
+Precio del producto: Precio: UF 3;  13-5-2021  16:34:24
+
+Total Resumen: 3.57;  13-5-2021  16:35:37
+Producto: Ultimas ventas;  13-5-2021  16:35:37
+Precio del producto: Precio: UF 3;  13-5-2021  16:35:37
+
+Total Resumen: 3.57;  13-5-2021  16:37:6
+Producto: Ultimas ventas;  13-5-2021  16:37:6
+Precio del producto: Precio: UF 3;  13-5-2021  16:37:6
+Iva: Iva: UF 0,57;  13-5-2021  16:37:6
+
+Total Resumen: 3.57;  13-5-2021  16:40:30
+Producto: Ultimas ventas;  13-5-2021  16:40:30
+Precio del producto: Precio: UF 3;  13-5-2021  16:40:30
+Iva: Iva: UF 0,57;  13-5-2021  16:40:30
+
+Total Resumen: 3.57;  13-5-2021  16:45:57
+Producto: Ultimas ventas;  13-5-2021  16:45:57
+Precio del producto: Precio: UF 3;  13-5-2021  16:45:57
+Iva: Iva: UF 0,57;  13-5-2021  16:45:57
+Total: UF 3,57;  13-5-2021  16:45:57
+
+Total Resumen: 3.57;  13-5-2021  16:52:29
+Producto: Ultimas ventas;  13-5-2021  16:52:29
+Precio del producto: Precio: UF 3;  13-5-2021  16:52:29
+Iva: Iva: UF 0,57;  13-5-2021  16:52:29
+Total: UF 3,57;  13-5-2021  16:52:29
+
+Total Resumen: 3.57;  13-5-2021  16:59:5
+Producto: Ultimas ventas;  13-5-2021  16:59:5
+Precio del producto: Precio: UF 3;  13-5-2021  16:59:5
+Iva: Iva: UF 0,57;  13-5-2021  16:59:5
+Total: UF 3,57;  13-5-2021  16:59:5
+
+Total Resumen: $  105.529 CLP;  17-5-2021  12:23:8
+Producto: Ultimas ventas;  17-5-2021  12:23:8
+Precio del producto: $88.680;  17-5-2021  12:23:8
+Iva: IVA: $16.849;  17-5-2021  12:23:8
+Total: $105.529;  17-5-2021  12:23:8
+
+Total Resumen: $  105.556 CLP;  19-5-2021  11:47:13
+Producto: Ultimas ventas;  19-5-2021  11:47:13
+Precio del producto: $88.703;  19-5-2021  11:47:13
+Iva: IVA: $16.853;  19-5-2021  11:47:13
+Total: $105.556;  19-5-2021  11:47:13
+
+Total Resumen: $  17.620 CLP;  31-5-2021  10:40:19
+Producto: Propiedad destacada;  31-5-2021  10:40:19
+Precio del producto: $14.807;  31-5-2021  10:40:19
+Iva: IVA: $2.813;  31-5-2021  10:40:19
+Total: $17.620;  31-5-2021  10:40:19
+
+Total Resumen: $  35.240 CLP;  31-5-2021  10:40:19
+Producto: Ultimas ventas;  31-5-2021  10:40:19
+Precio del producto: $29.613;  31-5-2021  10:40:19
+Iva: IVA: $5.627;  31-5-2021  10:40:19
+Total: $35.240;  31-5-2021  10:40:19
+
+Total Resumen: $  35.240 CLP;  31-5-2021  10:40:19
+Producto: Mailing;  31-5-2021  10:40:19
+Precio del producto: $29.613;  31-5-2021  10:40:19
+Iva: IVA: $5.627;  31-5-2021  10:40:19
+Total: $35.240;  31-5-2021  10:40:19
+
+Total Resumen: $  352.398 CLP;  31-5-2021  10:40:19
+Producto: Banners;  31-5-2021  10:40:19
+Precio del producto: $296.133;  31-5-2021  10:40:19
+Iva: IVA: $56.265;  31-5-2021  10:40:19
+Total: $352.398;  31-5-2021  10:40:19
+
+Total Resumen: $  396.462 CLP;  31-5-2021  10:40:19
+Producto: Banner + 5 Propiedades destacadas;  31-5-2021  10:40:19
+Precio del producto: $333.149;  31-5-2021  10:40:19
+Iva: IVA: $63.313;  31-5-2021  10:40:19
+Total: $396.462;  31-5-2021  10:40:19
+
+Total Resumen: $  28.192 CLP;  31-5-2021  10:40:19
+Producto: Espacio landing (unidad);  31-5-2021  10:40:19
+Precio del producto: $23.691;  31-5-2021  10:40:19
+Iva: IVA: $4.501;  31-5-2021  10:40:19
+Total: $28.192;  31-5-2021  10:40:19
+
+Total Resumen: $  123.339 CLP;  31-5-2021  10:40:19
+Producto: Mail (500) + 5 Propiedades destacadas;  31-5-2021  10:40:19
+Precio del producto: $103.646;  31-5-2021  10:40:19
+Iva: IVA: $19.693;  31-5-2021  10:40:19
+Total: $123.339;  31-5-2021  10:40:19
+
+Total Resumen: $  105.719 CLP;  31-5-2021  10:40:19
+Producto: Api Contactos;  31-5-2021  10:40:19
+Precio del producto: $88.840;  31-5-2021  10:40:19
+Iva: IVA: $16.880;  31-5-2021  10:40:19
+Total: $105.720;  31-5-2021  10:40:19
+
+Total Resumen: $  84.575 CLP;  31-5-2021  10:40:19
+Producto: Propiedad destacada x5;  31-5-2021  10:40:19
+Precio del producto: $71.072;  31-5-2021  10:40:19
+Iva: IVA: $13.504;  31-5-2021  10:40:19
+Total: $84.576;  31-5-2021  10:40:19
+
+Total Resumen: $  236.107 CLP;  31-5-2021  10:40:19
+Producto: Propiedad destacada x15;  31-5-2021  10:40:19
+Precio del producto: $198.409;  31-5-2021  10:40:19
+Iva: IVA: $37.698;  31-5-2021  10:40:19
+Total: $236.107;  31-5-2021  10:40:19
+
+Total Resumen: $  454.593 CLP;  31-5-2021  10:40:19
+Producto: Propiedad destacada x30;  31-5-2021  10:40:19
+Precio del producto: $382.011;  31-5-2021  10:40:19
+Iva: IVA: $72.582;  31-5-2021  10:40:19
+Total: $454.593;  31-5-2021  10:40:19
+
+Total Resumen: $  859.851 CLP;  31-5-2021  10:40:19
+Producto: Propiedad destacada x60;  31-5-2021  10:40:19
+Precio del producto: $722.564;  31-5-2021  10:40:19
+Iva: IVA: $137.287;  31-5-2021  10:40:19
+Total: $859.851;  31-5-2021  10:40:19
+
+Total Resumen: $  35.244 CLP;  1-6-2021  16:37:9
+Producto: Ultimas ventas;  1-6-2021  16:37:9
+Precio del producto: $29.617;  1-6-2021  16:37:9
+Iva: IVA: $5.627;  1-6-2021  16:37:9
+Total: $35.244;  1-6-2021  16:37:9
+
+Total Resumen: $  28.217 CLP;  Mon Jun 07 2021 11:47:00 GMT-0400 (hora estándar de Chile)
+Producto: Propiedad destacada;  Mon Jun 07 2021 11:47:06 GMT-0400 (hora estándar de Chile)
+Precio:  $23.712;  Mon Jun 07 2021 11:47:06 GMT-0400 (hora estándar de Chile)
+Iva: IVA: $4.505;  Mon Jun 07 2021 11:47:06 GMT-0400 (hora estándar de Chile)
+Total: $28.217;  Mon Jun 07 2021 11:47:06 GMT-0400 (hora estándar de Chile)

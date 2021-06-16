@@ -37,7 +37,7 @@
             "name": "Navega a la Pagina",
             "result": {
               "status": "passed",
-              "duration": 1013000000
+              "duration": 262000000
             }
           },
           {
@@ -47,7 +47,7 @@
             "name": "Ingresa credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 744000000
+              "duration": 817000000
             }
           },
           {
@@ -57,7 +57,7 @@
             "name": "Selecciona el articulo #3",
             "result": {
               "status": "passed",
-              "duration": 54000000
+              "duration": 75000000
             }
           },
           {
@@ -67,7 +67,7 @@
             "name": "Compra el Articulo #3",
             "result": {
               "status": "passed",
-              "duration": 20000000
+              "duration": 28000000
             }
           }
         ]
@@ -96,7 +96,7 @@
             "name": "Navega a la Pagina",
             "result": {
               "status": "passed",
-              "duration": 206000000
+              "duration": 112000000
             }
           },
           {
@@ -106,7 +106,7 @@
             "name": "Ingresa credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 699000000
+              "duration": 766000000
             }
           },
           {
@@ -116,7 +116,7 @@
             "name": "Selecciona el articulo #2",
             "result": {
               "status": "passed",
-              "duration": 53000000
+              "duration": 61000000
             }
           },
           {
@@ -126,7 +126,7 @@
             "name": "Compra el Articulo #2",
             "result": {
               "status": "passed",
-              "duration": 19000000
+              "duration": 24000000
             }
           }
         ]
@@ -155,7 +155,7 @@
             "name": "Navega a la Pagina",
             "result": {
               "status": "passed",
-              "duration": 109000000
+              "duration": 106000000
             }
           },
           {
@@ -165,7 +165,7 @@
             "name": "Ingresa credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 708000000
+              "duration": 745000000
             }
           },
           {
@@ -175,7 +175,7 @@
             "name": "Selecciona el articulo #1",
             "result": {
               "status": "passed",
-              "duration": 118000000
+              "duration": 150000000
             }
           },
           {
@@ -185,7 +185,7 @@
             "name": "Compra el Articulo #1",
             "result": {
               "status": "passed",
-              "duration": 12000000
+              "duration": 14000000
             }
           }
         ]
@@ -214,7 +214,7 @@
             "name": "Navega a la Pagina",
             "result": {
               "status": "passed",
-              "duration": 98000000
+              "duration": 1648000000
             }
           },
           {
@@ -224,7 +224,7 @@
             "name": "Ingresa credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 680000000
+              "duration": 802000000
             }
           },
           {
@@ -234,7 +234,7 @@
             "name": "Selecciona el articulo #4",
             "result": {
               "status": "passed",
-              "duration": 109000000
+              "duration": 223000000
             }
           },
           {
@@ -244,7 +244,7 @@
             "name": "Compra el Articulo #4",
             "result": {
               "status": "passed",
-              "duration": 10000000
+              "duration": 33000000
             }
           }
         ]
@@ -273,7 +273,7 @@
             "name": "Navega a la Pagina",
             "result": {
               "status": "passed",
-              "duration": 71000000
+              "duration": 112000000
             }
           },
           {
@@ -283,7 +283,7 @@
             "name": "Ingresa credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 681000000
+              "duration": 743000000
             }
           },
           {
@@ -293,7 +293,7 @@
             "name": "Selecciona el articulo #5",
             "result": {
               "status": "passed",
-              "duration": 121000000
+              "duration": 164000000
             }
           },
           {
@@ -303,7 +303,7 @@
             "name": "Compra el Articulo #5",
             "result": {
               "status": "passed",
-              "duration": 9000000
+              "duration": 12000000
             }
           }
         ]
@@ -332,7 +332,7 @@
             "name": "Navega a la Pagina",
             "result": {
               "status": "passed",
-              "duration": 77000000
+              "duration": 131000000
             }
           },
           {
@@ -342,7 +342,7 @@
             "name": "Ingresa credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 697000000
+              "duration": 759000000
             }
           },
           {
@@ -352,7 +352,7 @@
             "name": "Selecciona el articulo #6",
             "result": {
               "status": "passed",
-              "duration": 117000000
+              "duration": 146000000
             }
           },
           {
@@ -362,7 +362,7 @@
             "name": "Compra el Articulo #6",
             "result": {
               "status": "passed",
-              "duration": 10000000
+              "duration": 16000000
             }
           }
         ]

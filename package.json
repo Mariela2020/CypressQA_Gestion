@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run",
-    "cypress open": "npx cypress open"
+    "cypress open": "npx cypress open",
+    "testdata": "cypress run --browser chrome --spec 'cypress/integration/test_API_Testproject.js'",
+    "testdata1": "cypress run --spec 'cypress/integration/test_API_Testproject.js'"
   },
   "keywords": [
     "qa",
@@ -16,9 +18,12 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^7.2.0",
-    "node-fetch": "^2.6.1"
+    "cypress-xpath": "^1.6.2",
+    "node-fetch": "^2.6.1",
+    "react-select": "^4.3.0"
   },
   "devDependencies": {
+    "@bahmutov/cy-api": "^1.5.0",
     "cucumber-html-reporter": "^5.4.0",
     "cypress-cucumber-preprocessor": "^4.1.0",
     "cypress-file-upload": "^5.0.6"

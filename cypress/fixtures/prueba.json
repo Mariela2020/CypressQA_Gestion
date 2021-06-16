@@ -7,6 +7,10 @@
       {
         "name": "Bob",
         "number": "2"
+      },
+      {
+        "precioUF": "5.00"
       }
+
     ]
   }

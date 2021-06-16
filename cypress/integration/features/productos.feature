@@ -1,5 +1,5 @@
 @productos
-Feature: Catalogo de Planes - Productos Marketing
+Feature: Catalogo de Productos Marketing
  
   Como usuario quiero contratar un servicio de Producto Marketing.
 
@@ -8,7 +8,7 @@ Feature: Catalogo de Planes - Productos Marketing
     Given El usuario está en Gestión Corredor
       And Inicia cuenta con credenciales valida
       And Hace click en el catalogo de Productos Marketing
-     When Selecciona y visualiza información del Producto Propiedad Detacada
+     When Selecciona y visualiza información del Producto Propiedad Destacada
       And Verifica los datos almacenados 
       And Declara conocer y aceptar los Términos y condiciones de TOCTOC
       And Visualiza Detalle del contrato del producto a contratar
@@ -27,7 +27,7 @@ Feature: Catalogo de Planes - Productos Marketing
 
 @producto-Mailing
   Scenario: Ingresar al catologo de productos Markenting (Mailing)
-    Given El usuario está en Gestión Corredor
+   Given El usuario está en Gestión Corredor
       And Inicia cuenta con credenciales valida
       And Hace click en el catalogo de Productos Marketing
      When Selecciona y visualiza información del Producto Mailing
@@ -49,7 +49,7 @@ Feature: Catalogo de Planes - Productos Marketing
 
 @producto-Banner+5prop
   Scenario: Ingresar al catologo de productos Markenting (Banner + 5 PropDestacada)
-    Given El usuario está en Gestión Corredor
+   Given El usuario está en Gestión Corredor
       And Inicia cuenta con credenciales valida
       And Hace click en el catalogo de Productos Marketing
      When Selecciona y visualiza información del Producto Banner + 5 PropDestacada
@@ -104,7 +104,7 @@ Feature: Catalogo de Planes - Productos Marketing
 
 @producto-PropDestacadax15
   Scenario: Ingresar al catologo de productos Markenting (Prop.Destacada x15)
-    Given El usuario está en Gestión Corredor
+   Given El usuario está en Gestión Corredor
       And Inicia cuenta con credenciales valida
       And Hace click en el catalogo de Productos Marketing
      When Selecciona y visualiza información del Producto Propiedad Destacada x15
@@ -126,7 +126,7 @@ Feature: Catalogo de Planes - Productos Marketing
 
 @producto-PropDestacadax60
   Scenario: Ingresar al catologo de productos Markenting (Prop.Destacada x60)
-    Given El usuario está en Gestión Corredor
+   Given El usuario está en Gestión Corredor
       And Inicia cuenta con credenciales valida
       And Hace click en el catalogo de Productos Marketing
     When Selecciona y visualiza información del Producto Propiedad Destacada x60

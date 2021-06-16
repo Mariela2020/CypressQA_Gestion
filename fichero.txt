@@ -344,4 +344,547 @@ Valor del producto: IVA: $5.606;  3-5-2021
 Iva del producto: $35.112;  3-5-2021n
 Total Resumen: $ 35.112 CLP;  3-5-2021
 Producto: Plan Inicia;  3-5-2021
+Precio del producto: $29.506;  3-5-2021n
+Total Resumen: $ 35.112 CLP;  3-5-2021
+Producto: Plan Inicia;  3-5-2021
+Precio del producto: $29.506;  3-5-2021n
+Total Resumen: $ 35.112 CLP;  3-5-2021
+Producto: Plan Inicia;  3-5-2021
+Precio del producto: $29.506;  3-5-2021n
+Total Resumen: $ 35.112 CLP;  3-5-2021
+Producto: Plan Inicia;  3-5-2021
 Precio del producto: $29.506;  3-5-2021
+Valor del producto: IVA: $5.606;  3-5-2021
+Iva del producto: $35.112;  3-5-2021n
+Total Resumen: $ 35.117 CLP;  4-5-2021
+Producto: Plan Inicia;  4-5-2021
+Precio del producto: $29.510;  4-5-2021
+Valor del producto: IVA: $5.607;  4-5-2021
+Iva del producto: $35.117;  4-5-2021n
+Total Resumen: $ 35.117 CLP;  4-5-2021
+Producto: Plan Inicia;  4-5-2021
+Precio del producto: $29.510;  4-5-2021
+Valor del producto: IVA: $5.607;  4-5-2021
+Iva del producto: $35.117;  4-5-2021n
+Total Resumen: $ 35.117 CLP;  4-5-2021
+Producto: Plan Inicia;  4-5-2021
+Precio del producto: $29.510;  4-5-2021n
+Total Resumen: $ 35.117 CLP;  4-5-2021
+Producto: Plan Inicia;  4-5-2021
+Precio del producto: $29.510;  4-5-2021
+Valor del producto: IVA: $5.607;  4-5-2021
+Iva del producto: $35.117;  4-5-2021n
+Total Resumen: $ 35.117 CLP;  4-5-2021
+Producto: Plan Inicia;  4-5-2021
+Precio del producto: $29.510;  4-5-2021
+Valor del producto: IVA: $5.607;  4-5-2021
+Iva del producto: $35.117;  4-5-2021n
+Total Resumen: $ 35.117 CLP;  4-5-2021
+Producto: Plan Inicia;  4-5-2021
+Precio del producto: $29.510;  4-5-2021
+Valor del producto: IVA: $5.607;  4-5-2021
+Iva del producto: $35.117;  4-5-2021n
+Total Resumen: $ 35.117 CLP;  4-5-2021
+Producto: Plan Inicia;  4-5-2021
+Precio del producto: $29.510;  4-5-2021
+Valor del producto: IVA: $5.607;  4-5-2021
+Iva del producto: $35.117;  4-5-2021n
+Total Resumen: $ 35.117 CLP;  4-5-2021
+Producto: Plan Inicia;  4-5-2021
+Precio del producto: $29.510;  4-5-2021
+Valor del producto: IVA: $5.607;  4-5-2021
+Iva del producto: $35.117;  4-5-2021n
+Total Resumen: $ 35.117 CLP;  4-5-2021
+Producto: Plan Inicia;  4-5-2021
+Precio del producto: $29.510;  4-5-2021
+Valor del producto: IVA: $5.607;  4-5-2021
+Iva del producto: $35.117;  4-5-2021n
+Total Resumen: $ 70.243 CLP;  5-5-2021  13:4:59
+
+Producto: Plan Crece;  5-5-202113:4:59n
+Total Resumen: $ 35.126 CLP;  6-5-2021  19:8:39n
+Total Resumen: $ 35.126 CLP;  6-5-2021  19:11:13n
+Total Resumen: $ 35.126 CLP;  6-5-2021  19:13:17n
+Total Resumen: $ 35.126 CLP;  6-5-2021  19:15:34n
+Total Resumen: $ 35.126 CLP;  6-5-2021  19:17:6n
+Total Resumen: $ 35.126 CLP;  6-5-2021  19:18:45
+Producto: Plan Inicia;  6-5-2021  19:18:45n
+Total Resumen: $ 35.126 CLP;  6-5-2021  19:19:46
+Producto: Plan Inicia;  6-5-2021  19:19:46n
+Total Resumen: $ 35.126 CLP;  6-5-2021  19:21:5
+Producto: Plan Inicia;  6-5-2021  19:21:5n
+Total Resumen: $ 35.126 CLP;  6-5-2021  19:22:2
+Producto: Plan Inicia;  6-5-2021  19:22:2
+Precio del producto: $29.518;  6-5-2021  19:22:2
+Valor del producto: IVA: $5.608;  6-5-2021  19:22:2
+Iva del producto: $35.126;  6-5-2021  19:22:2n
+Total Resumen: $ 35.126 CLP;  6-5-2021  19:41:56
+Producto: Plan Inicia;  6-5-2021  19:41:56
+Precio del producto: $29.518;  6-5-2021  19:41:56n
+Total Resumen: $ 35.131 CLP;  7-5-2021  9:43:1
+Producto: Plan Inicia;  7-5-2021  9:43:1
+Precio del producto: $29.522;  7-5-2021  9:43:1
+Valor del producto: IVA: $5.609;  7-5-2021  9:43:1
+Iva del producto: $35.131;  7-5-2021  9:43:1n
+Total Resumen: $ 35.131 CLP;  7-5-2021  9:45:11
+Producto: Plan Inicia;  7-5-2021  9:45:11
+Precio del producto: $29.522;  7-5-2021  9:45:11
+Valor del producto: IVA: $5.609;  7-5-2021  9:45:11
+Iva del producto: $35.131;  7-5-2021  9:45:11n
+Total Resumen: $ 35.131 CLP;  7-5-2021  9:56:14
+Producto: Plan Inicia;  7-5-2021  9:56:14
+Precio del producto: $29.522;  7-5-2021  9:56:14
+Valor del producto: IVA: $5.609;  7-5-2021  9:56:14
+Iva del producto: $35.131;  7-5-2021  9:56:14n
+Total Resumen: $ 35.131 CLP;  7-5-2021  10:11:1
+Producto: Plan Inicia;  7-5-2021  10:11:1
+Precio del producto: $29.522;  7-5-2021  10:11:1
+Valor del producto: IVA: $5.609;  7-5-2021  10:11:1
+Iva del producto: $35.131;  7-5-2021  10:11:1n
+Total Resumen: $ 35.131 CLP;  7-5-2021  10:55:25
+Producto: Plan Inicia;  7-5-2021  10:55:25
+Precio del producto: $29.522;  7-5-2021  10:55:25
+Valor del producto: IVA: $5.609;  7-5-2021  10:55:25n
+Total Resumen: $ 35.131 CLP;  7-5-2021  10:57:32
+Producto: Plan Inicia;  7-5-2021  10:57:32
+Precio del producto: $29.522;  7-5-2021  10:57:32
+Valor del producto: IVA: $5.609;  7-5-2021  10:57:32
+Iva del producto: $35.131;  7-5-2021  10:57:32n
+Total Resumen: $ 35.131 CLP;  7-5-2021  11:1:33
+Producto: Plan Inicia;  7-5-2021  11:1:33
+Precio del producto: $29.522;  7-5-2021  11:1:33
+Valor del producto: IVA: $5.609;  7-5-2021  11:1:33
+Iva del producto: $35.131;  7-5-2021  11:1:33n
+Total Resumen: $ 70.261 CLP;  7-5-2021  11:19:47
+Producto: Plan Crece;  7-5-2021  11:19:47
+Precio del producto: $59.043;  7-5-2021  11:19:47
+Valor del producto: IVA: $11.218;  7-5-2021  11:19:47
+Iva del producto: $70.261;  7-5-2021  11:19:47n
+Total Resumen: $ 105.392 CLP;  7-5-2021  11:19:47
+Producto: Plan Acelera;  7-5-2021  11:19:47
+Precio del producto: $88.565;  7-5-2021  11:19:47
+Valor del producto: IVA: $16.827;  7-5-2021  11:19:47
+Iva del producto: $105.392;  7-5-2021  11:19:47n
+Total Resumen: $ 175.654 CLP;  7-5-2021  11:19:47
+Producto: Plan Escala;  7-5-2021  11:19:47
+Precio del producto: $147.608;  7-5-2021  11:19:47
+Valor del producto: IVA: $28.046;  7-5-2021  11:19:47
+Iva del producto: $175.654;  7-5-2021  11:19:47n
+Total Resumen: $ 70.261 CLP;  7-5-2021  11:40:52
+Producto: Plan Crece;  7-5-2021  11:40:52
+Precio del producto: $59.043;  7-5-2021  11:40:52
+Valor del producto: IVA: $11.218;  7-5-2021  11:40:52
+Iva del producto: $70.261;  7-5-2021  11:40:52n
+Total Resumen: $ 35.131 CLP;  7-5-2021  11:47:26
+Producto: Plan Inicia;  7-5-2021  11:47:26
+Precio del producto: $29.522;  7-5-2021  11:47:26
+Valor del producto: IVA: $5.609;  7-5-2021  11:47:26
+Iva del producto: $35.131;  7-5-2021  11:47:26n
+Total Resumen: $ 35.131 CLP;  7-5-2021  11:58:29
+Producto: Plan Inicia;  7-5-2021  11:58:29
+Precio del producto: $29.522;  7-5-2021  11:58:29
+Valor del producto: IVA: $5.609;  7-5-2021  11:58:29
+Iva del producto: $35.131;  7-5-2021  11:58:29n
+Total Resumen: $ 70.261 CLP;  7-5-2021  12:52:24
+Producto: Plan Crece;  7-5-2021  12:52:24n
+Total Resumen: $ 105.392 CLP;  7-5-2021  12:52:24
+Producto: Plan Acelera;  7-5-2021  12:52:24n
+Total Resumen: $ 175.654 CLP;  7-5-2021  12:52:24
+Producto: Plan Escala;  7-5-2021  12:52:24n
+Total Resumen: $ 35.131 CLP;  7-5-2021  13:4:20
+Producto: Plan Inicia;  7-5-2021  13:4:20
+Precio del producto: $29.522;  7-5-2021  13:4:20
+Valor del producto: IVA: $5.609;  7-5-2021  13:4:20
+Iva del producto: $35.131;  7-5-2021  13:4:20n
+Total Resumen: $ 70.261 CLP;  7-5-2021  13:4:20
+Producto: Plan Crece;  7-5-2021  13:4:20
+Precio del producto: $59.043;  7-5-2021  13:4:20n
+Total Resumen: $ 105.392 CLP;  7-5-2021  13:4:20
+Producto: Plan Acelera;  7-5-2021  13:4:20
+Precio del producto: $88.565;  7-5-2021  13:4:20n
+Total Resumen: $ 175.654 CLP;  7-5-2021  13:4:20
+Producto: Plan Escala;  7-5-2021  13:4:20
+Precio del producto: $147.608;  7-5-2021  13:4:20n
+Total Resumen: $ 70.261 CLP;  7-5-2021  13:18:27
+Producto: Plan Crece;  7-5-2021  13:18:27
+Precio del producto: $59.043;  7-5-2021  13:18:27
+Valor del producto: IVA: $11.218;  7-5-2021  13:18:27
+Iva del producto: $70.261;  7-5-2021  13:18:27n
+Total Resumen: $ 105.392 CLP;  7-5-2021  13:18:27
+Producto: Plan Acelera;  7-5-2021  13:18:27
+Precio del producto: $88.565;  7-5-2021  13:18:27
+Valor del producto: IVA: $16.827;  7-5-2021  13:18:27
+Iva del producto: $105.392;  7-5-2021  13:18:27n
+Total Resumen: $ 70.261 CLP;  7-5-2021  13:31:48
+Producto: Plan Crece;  7-5-2021  13:31:48
+Precio del producto: $59.043;  7-5-2021  13:31:48
+Valor del producto: IVA: $11.218;  7-5-2021  13:31:48
+Iva del producto: $70.261;  7-5-2021  13:31:48n
+Total Resumen: $ 105.392 CLP;  7-5-2021  13:31:48
+Producto: Plan Acelera;  7-5-2021  13:31:48
+Precio del producto: $88.565;  7-5-2021  13:31:48
+Valor del producto: IVA: $16.827;  7-5-2021  13:31:48
+Iva del producto: $105.392;  7-5-2021  13:31:48n
+Total Resumen: $ 70.261 CLP;  7-5-2021  13:49:16
+Producto: Plan Crece;  7-5-2021  13:49:16
+Precio del producto: $59.043;  7-5-2021  13:49:16
+Valor del producto: IVA: $11.218;  7-5-2021  13:49:16
+Iva del producto: $70.261;  7-5-2021  13:49:16n
+Total Resumen: $ 105.392 CLP;  7-5-2021  13:49:16
+Producto: Plan Acelera;  7-5-2021  13:49:16
+Precio del producto: $88.565;  7-5-2021  13:49:16
+Valor del producto: IVA: $16.827;  7-5-2021  13:49:16
+Iva del producto: $105.392;  7-5-2021  13:49:16n
+Total Resumen: $ 70.261 CLP;  7-5-2021  15:7:39
+Producto: Plan Crece;  7-5-2021  15:7:39
+Precio del producto: $59.043;  7-5-2021  15:7:39
+Valor del producto: IVA: $11.218;  7-5-2021  15:7:39
+Iva del producto: $70.261;  7-5-2021  15:7:39n
+Total Resumen: $ 105.392 CLP;  7-5-2021  15:7:39
+Producto: Plan Acelera;  7-5-2021  15:7:39
+Precio del producto: $88.565;  7-5-2021  15:7:39
+Valor del producto: IVA: $16.827;  7-5-2021  15:7:39
+Iva del producto: $105.392;  7-5-2021  15:7:39n
+Total Resumen: $ 105.392 CLP;  7-5-2021  15:14:36
+Producto: Plan Acelera;  7-5-2021  15:14:36
+Precio del producto: $88.565;  7-5-2021  15:14:36
+Valor del producto: IVA: $16.827;  7-5-2021  15:14:36
+Iva del producto: $105.392;  7-5-2021  15:14:36n
+Total Resumen: $ 175.654 CLP;  7-5-2021  15:14:36
+Producto: Plan Escala;  7-5-2021  15:14:36
+Precio del producto: $147.608;  7-5-2021  15:14:36
+Valor del producto: IVA: $28.046;  7-5-2021  15:14:36
+Iva del producto: $175.654;  7-5-2021  15:14:36n
+Total Resumen: $ 105.392 CLP;  7-5-2021  15:17:53
+Producto: Plan Acelera;  7-5-2021  15:17:53
+Precio del producto: $88.565;  7-5-2021  15:17:53
+Valor del producto: IVA: $16.827;  7-5-2021  15:17:53
+Iva del producto: $105.392;  7-5-2021  15:17:53n
+Total Resumen: $ 175.654 CLP;  7-5-2021  15:17:53
+Producto: Plan Escala;  7-5-2021  15:17:53
+Precio del producto: $147.608;  7-5-2021  15:17:53
+Valor del producto: IVA: $28.046;  7-5-2021  15:17:53
+Iva del producto: $175.654;  7-5-2021  15:17:53n
+Total Resumen: $ 105.392 CLP;  7-5-2021  15:37:1
+Producto: Plan Acelera;  7-5-2021  15:37:1
+Precio del producto: $88.565;  7-5-2021  15:37:1
+Valor del producto: IVA: $16.827;  7-5-2021  15:37:1
+Iva del producto: $105.392;  7-5-2021  15:37:1n
+Total Resumen: $ 175.654 CLP;  7-5-2021  15:37:1
+Producto: Plan Escala;  7-5-2021  15:37:1
+Precio del producto: $147.608;  7-5-2021  15:37:1
+Valor del producto: IVA: $28.046;  7-5-2021  15:37:1
+Iva del producto: $175.654;  7-5-2021  15:37:1n
+Total Resumen: $ 35.145 CLP;  10-5-2021  19:42:8n
+Total Resumen: $ 35.149 CLP;  10-5-2021  20:17:34
+Producto: Plan Inicia;  10-5-2021  20:17:34
+Precio del producto: $29.537;  10-5-2021  20:17:34n
+Total Resumen: $ 35.149 CLP;  10-5-2021  20:20:55
+Producto: Plan Inicia;  10-5-2021  20:20:55
+Precio del producto: $29.537;  10-5-2021  20:20:55
+Valor del producto: IVA: $5.612;  10-5-2021  20:20:55
+Iva del producto: $35.149;  10-5-2021  20:20:55n
+Total Resumen: $ 35.149 CLP;  10-5-2021  20:31:48
+Producto: Plan Inicia;  10-5-2021  20:31:48
+Precio del producto: $29.537;  10-5-2021  20:31:48
+Valor del producto: IVA: $5.612;  10-5-2021  20:31:48
+Iva del producto: $35.149;  10-5-2021  20:31:48n
+Total Resumen: $ 35.149 CLP;  10-5-2021  20:38:30
+Producto: Plan Inicia;  10-5-2021  20:38:30
+Precio del producto: $29.537;  10-5-2021  20:38:30
+Valor del producto: IVA: $5.612;  10-5-2021  20:38:30
+Iva del producto: $35.149;  10-5-2021  20:38:30n
+Total Resumen: $ 35.149 CLP;  10-5-2021  20:54:6
+Producto: Plan Inicia;  10-5-2021  20:54:6
+Precio del producto: $29.537;  10-5-2021  20:54:6
+Valor del producto: IVA: $5.612;  10-5-2021  20:54:6
+Iva del producto: $35.149;  10-5-2021  20:54:6n
+Total Resumen: $ 35.149 CLP;  10-5-2021  21:4:10
+Producto: Plan Inicia;  10-5-2021  21:4:10
+Precio del producto: $29.537;  10-5-2021  21:4:10
+Valor del producto: IVA: $5.612;  10-5-2021  21:4:10
+Iva del producto: $35.149;  10-5-2021  21:4:10n
+Total Resumen: $ 35.149 CLP;  11-5-2021  13:4:32
+Producto: Plan Inicia;  11-5-2021  13:4:32
+Precio del producto: $29.537;  11-5-2021  13:4:32
+Valor del producto: IVA: $5.612;  11-5-2021  13:4:32
+Iva del producto: $35.149;  11-5-2021  13:4:32n
+Total Resumen: $ 105.447 CLP;  11-5-2021  13:28:2
+Producto: Plan Acelera;  11-5-2021  13:28:2
+Precio del producto: $88.611;  11-5-2021  13:28:2
+Valor del producto: IVA: $16.836;  11-5-2021  13:28:2
+Iva del producto: $105.447;  11-5-2021  13:28:2n
+Total Resumen: $ 175.746 CLP;  11-5-2021  13:28:2
+Producto: Plan Escala;  11-5-2021  13:28:2
+Precio del producto: $147.685;  11-5-2021  13:28:2
+Valor del producto: IVA: $28.060;  11-5-2021  13:28:2
+Iva del producto: $175.745;  11-5-2021  13:28:2n
+Total Resumen: $ 105.447 CLP;  11-5-2021  13:41:10
+Producto: Plan Acelera;  11-5-2021  13:41:10
+Precio del producto: $88.611;  11-5-2021  13:41:10
+Valor del producto: IVA: $16.836;  11-5-2021  13:41:10
+Iva del producto: $105.447;  11-5-2021  13:41:10n
+Total Resumen: $ 175.746 CLP;  11-5-2021  13:41:10
+Producto: Plan Escala;  11-5-2021  13:41:10
+Precio del producto: $147.685;  11-5-2021  13:41:10
+Valor del producto: IVA: $28.060;  11-5-2021  13:41:10
+Iva del producto: $175.745;  11-5-2021  13:41:10n
+Total Resumen: $ 105.447 CLP;  11-5-2021  13:43:44
+Producto: Plan Acelera;  11-5-2021  13:43:44
+Precio del producto: $88.611;  11-5-2021  13:43:44
+Valor del producto: IVA: $16.836;  11-5-2021  13:43:44
+Iva del producto: $105.447;  11-5-2021  13:43:44n
+Total Resumen: $ 175.746 CLP;  11-5-2021  13:43:44
+Producto: Plan Escala;  11-5-2021  13:43:44
+Precio del producto: $147.685;  11-5-2021  13:43:44
+Valor del producto: IVA: $28.060;  11-5-2021  13:43:44
+Iva del producto: $175.745;  11-5-2021  13:43:44n
+Total Resumen: $ 105.447 CLP;  11-5-2021  13:54:45
+Producto: Plan Acelera;  11-5-2021  13:54:45
+Precio del producto: $88.611;  11-5-2021  13:54:45
+Valor del producto: IVA: $16.836;  11-5-2021  13:54:45
+Iva del producto: $105.447;  11-5-2021  13:54:45n
+Total Resumen: $ 175.746 CLP;  11-5-2021  13:54:45
+Producto: Plan Escala;  11-5-2021  13:54:45
+Precio del producto: $147.685;  11-5-2021  13:54:45
+Valor del producto: IVA: $28.060;  11-5-2021  13:54:45
+Iva del producto: $175.745;  11-5-2021  13:54:45n
+Total Resumen: $ 105.461 CLP;  12-5-2021  12:55:42
+Producto: Plan Acelera;  12-5-2021  12:55:42
+Precio del producto: $88.623;  12-5-2021  12:55:42
+Valor del producto: IVA: $16.838;  12-5-2021  12:55:42
+Iva del producto: $105.461;  12-5-2021  12:55:42n
+Total Resumen: $ 175.768 CLP;  12-5-2021  12:55:42
+Producto: Plan Escala;  12-5-2021  12:55:42
+Precio del producto: $147.704;  12-5-2021  12:55:42
+Valor del producto: IVA: $28.064;  12-5-2021  12:55:42
+Iva del producto: $175.768;  12-5-2021  12:55:42n
+Total Resumen: $ 105.461 CLP;  12-5-2021  13:5:32
+Producto: Plan Acelera;  12-5-2021  13:5:32
+Precio del producto: $88.623;  12-5-2021  13:5:32
+Valor del producto: IVA: $16.838;  12-5-2021  13:5:32
+Iva del producto: $105.461;  12-5-2021  13:5:32n
+Total Resumen: $ 175.768 CLP;  12-5-2021  13:5:32
+Producto: Plan Escala;  12-5-2021  13:5:32
+Precio del producto: $147.704;  12-5-2021  13:5:32
+Valor del producto: IVA: $28.064;  12-5-2021  13:5:32
+Iva del producto: $175.768;  12-5-2021  13:5:32n
+Total Resumen: $ 105.461 CLP;  12-5-2021  13:9:28n
+Total Resumen: $ 105.461 CLP;  12-5-2021  13:27:21
+Producto: Plan Acelera;  12-5-2021  13:27:21
+Precio del producto: $88.623;  12-5-2021  13:27:21
+Valor del producto: IVA: $16.838;  12-5-2021  13:27:21
+Iva del producto: $105.461;  12-5-2021  13:27:21n
+Total Resumen: $ 175.768 CLP;  12-5-2021  13:27:21
+Producto: Plan Escala;  12-5-2021  13:27:21
+Precio del producto: $147.704;  12-5-2021  13:27:21
+Valor del producto: IVA: $28.064;  12-5-2021  13:27:21
+Iva del producto: $175.768;  12-5-2021  13:27:21n
+Total Resumen: $ 105.461 CLP;  12-5-2021  15:34:12
+Producto: Plan Acelera;  12-5-2021  15:34:12
+Precio del producto: $88.623;  12-5-2021  15:34:12
+Valor del producto: IVA: $16.838;  12-5-2021  15:34:12
+Iva del producto: $105.461;  12-5-2021  15:34:12n
+Total Resumen: $ 175.768 CLP;  12-5-2021  15:34:12
+Producto: Plan Escala;  12-5-2021  15:34:12
+Precio del producto: $147.704;  12-5-2021  15:34:12
+Valor del producto: IVA: $28.064;  12-5-2021  15:34:12
+Iva del producto: $175.768;  12-5-2021  15:34:12n
+Total Resumen: $ 105.461 CLP;  12-5-2021  16:50:35
+Producto: Plan Acelera;  12-5-2021  16:50:35
+Precio del producto: $88.623;  12-5-2021  16:50:35
+Valor del producto: IVA: $16.838;  12-5-2021  16:50:35
+Iva del producto: $105.461;  12-5-2021  16:50:35n
+Total Resumen: $ 105.461 CLP;  12-5-2021  17:0:56
+Producto: Plan Acelera;  12-5-2021  17:0:56
+Precio del producto: $88.623;  12-5-2021  17:0:56
+Valor del producto: IVA: $16.838;  12-5-2021  17:0:56
+Iva del producto: $105.461;  12-5-2021  17:0:56n
+Total Resumen: $ 175.768 CLP;  12-5-2021  17:0:56
+Producto: Plan Escala;  12-5-2021  17:0:56
+Precio del producto: $147.704;  12-5-2021  17:0:56
+Valor del producto: IVA: $28.064;  12-5-2021  17:0:56
+Iva del producto: $175.768;  12-5-2021  17:0:56
+
+Total Resumen: $ 35.154 CLP;  12-5-2021  17:13:42
+Producto: Plan Inicia;  12-5-2021  17:13:42
+Precio del producto: $29.541;  12-5-2021  17:13:42
+Valor del producto: IVA: $5.613;  12-5-2021  17:13:42
+Iva del producto: $35.154;  12-5-2021  17:13:42
+
+Total Resumen: $ 70.307 CLP;  12-5-2021  17:13:42
+Producto: Plan Crece;  12-5-2021  17:13:42
+Precio del producto: $59.082;  12-5-2021  17:13:42
+Valor del producto: IVA: $11.226;  12-5-2021  17:13:42
+Iva del producto: $70.308;  12-5-2021  17:13:42
+
+Total Resumen: $ 105.461 CLP;  12-5-2021  17:13:42
+Producto: Plan Acelera;  12-5-2021  17:13:42
+Precio del producto: $88.623;  12-5-2021  17:13:42
+Valor del producto: IVA: $16.838;  12-5-2021  17:13:42
+Iva del producto: $105.461;  12-5-2021  17:13:42
+
+Total Resumen: $ 175.768 CLP;  12-5-2021  17:13:42
+Producto: Plan Escala;  12-5-2021  17:13:42
+Precio del producto: $147.704;  12-5-2021  17:13:42
+Valor del producto: IVA: $28.064;  12-5-2021  17:13:42
+Iva del producto: $175.768;  12-5-2021  17:13:42
+
+Total Resumen: $ 35.154 CLP;  12-5-2021  17:22:20
+Producto: Plan Inicia;  12-5-2021  17:22:20
+Precio del producto: $29.541;  12-5-2021  17:22:20
+Valor del producto: IVA: $5.613;  12-5-2021  17:22:20
+Iva del producto: $35.154;  12-5-2021  17:22:20
+
+Total Resumen: $ 70.307 CLP;  12-5-2021  17:22:20
+Producto: Plan Crece;  12-5-2021  17:22:20
+Precio del producto: $59.082;  12-5-2021  17:22:20
+Valor del producto: IVA: $11.226;  12-5-2021  17:22:20
+Iva del producto: $70.308;  12-5-2021  17:22:20
+
+Total Resumen: $ 105.461 CLP;  12-5-2021  17:22:20
+Producto: Plan Acelera;  12-5-2021  17:22:20
+Precio del producto: $88.623;  12-5-2021  17:22:20
+Valor del producto: IVA: $16.838;  12-5-2021  17:22:20
+Iva del producto: $105.461;  12-5-2021  17:22:20
+
+Total Resumen: $ 175.768 CLP;  12-5-2021  17:22:20
+Producto: Plan Escala;  12-5-2021  17:22:20
+Precio del producto: $147.704;  12-5-2021  17:22:20
+Valor del producto: IVA: $28.064;  12-5-2021  17:22:20
+Iva del producto: $175.768;  12-5-2021  17:22:20
+Total Resumen: $  35.158 CLP;  Thu May 13 2021 17:16:57 GMT-0400 (hora estándar de Chile)
+Producto: Plan Inicia;  Thu May 13 2021 17:17:07 GMT-0400 (hora estándar de Chile)
+Precio del producto:  $29.545;  Thu May 13 2021 17:17:07 GMT-0400 (hora estándar de Chile)
+Valor del producto: IVA: $5.613;  Thu May 13 2021 17:17:07 GMT-0400 (hora estándar de Chile)
+Iva del producto: $35.158;  Thu May 13 2021 17:17:07 GMT-0400 (hora estándar de Chile)n
+Total Resumen: $  35.176 CLP;  17-5-2021  12:23:8
+Producto: Plan Inicia;  17-5-2021  12:23:8
+Precio del producto: $29.560;  17-5-2021  12:23:8
+Valor del producto: IVA: $5.616;  17-5-2021  12:23:8
+Iva del producto: $35.176;  17-5-2021  12:23:8n
+Total Resumen: $  35.185 CLP;  19-5-2021  11:47:13
+Producto: Plan Inicia;  19-5-2021  11:47:13
+Precio del producto: $29.568;  19-5-2021  11:47:13
+Valor del producto: IVA: $5.618;  19-5-2021  11:47:13
+Iva del producto: $35.186;  19-5-2021  11:47:13n
+Total Resumen: $  35.244 CLP;  1-6-2021  16:37:9
+Producto: Plan Inicia;  1-6-2021  16:37:9
+Precio del producto: $29.617;  1-6-2021  16:37:9
+Valor del producto: IVA: $5.627;  1-6-2021  16:37:9
+Iva del producto: $35.244;  1-6-2021  16:37:9
+Total Resumen: $  35.249 CLP;  Wed Jun 02 2021 15:54:40 GMT-0400 (hora estándar de Chile)
+
+Producto: Plan Inicia;  Wed Jun 02 2021 15:54:43 GMT-0400 (hora estándar de Chile)
+Precio del producto:  $29.621;  Wed Jun 02 2021 15:54:43 GMT-0400 (hora estándar de Chile)
+Valor del producto: IVA: $5.628;  Wed Jun 02 2021 15:54:44 GMT-0400 (hora estándar de Chile)
+Iva del producto: $35.249;  Wed Jun 02 2021 15:54:44 GMT-0400 (hora estándar de Chile)
+Total Resumen: $  35.249 CLP;  Wed Jun 02 2021 17:02:20 GMT-0400 (hora estándar de Chile)
+Producto: Plan Inicia;  Wed Jun 02 2021 17:02:24 GMT-0400 (hora estándar de Chile)
+Precio del producto:  $29.621;  Wed Jun 02 2021 17:02:24 GMT-0400 (hora estándar de Chile)
+Valor del producto: IVA: $5.628;  Wed Jun 02 2021 17:02:24 GMT-0400 (hora estándar de Chile)
+Iva del producto: $35.249;  Wed Jun 02 2021 17:02:24 GMT-0400 (hora estándar de Chile)
+Total Resumen: 1.19 UF ;  Mon Jun 07 2021 11:28:16 GMT-0400 (hora estándar de Chile)
+Producto: Cobro por mes adelantado. Contrato mensual con renovación automática;  Mon Jun 07 2021 11:28:20 GMT-0400 (hora estándar de Chile)
+Total Resumen: 1.19 UF ;  Mon Jun 07 2021 11:31:16 GMT-0400 (hora estándar de Chile)
+Producto: Cobro por mes adelantado. Contrato mensual con renovación automática;  Mon Jun 07 2021 11:31:18 GMT-0400 (hora estándar de Chile)
+Precio del producto: Precio: UF 1;  Mon Jun 07 2021 11:31:19 GMT-0400 (hora estándar de Chile)
+Iva del producto: Iva: UF 0,19;  Mon Jun 07 2021 11:31:19 GMT-0400 (hora estándar de Chile)
+Iva del producto:  UF 1,19;  Mon Jun 07 2021 11:31:19 GMT-0400 (hora estándar de Chile)
+
+Total Resumen: 1.19 UF ;  7-6-2021  11:35:30
+Producto: Plan Inicia;  7-6-2021  11:35:30
+Precio del producto: Precio: UF 1;  7-6-2021  11:35:30
+Iva del producto: Iva: UF 0,19;  7-6-2021  11:35:30
+Iva del producto:  UF 1,19;  7-6-2021  11:35:30
+
+Total Resumen: 1.19 UF ;  7-6-2021  11:43:32
+Producto: Plan Inicia;  7-6-2021  11:43:32
+Precio del producto: Precio: UF 1;  7-6-2021  11:43:32
+Iva del producto: Iva: UF 0,19;  7-6-2021  11:43:32
+Total del producto:  UF 1,19;  7-6-2021  11:43:32n
+Total Resumen: 1.19 UF ;  7-6-2021  11:48:15
+Producto: Plan Inicia;  7-6-2021  11:48:15
+Precio del producto: Precio: UF 1;  7-6-2021  11:48:15
+Valor del producto: Iva: UF 0,19;  7-6-2021  11:48:15
+Iva del producto:  UF 1,19;  7-6-2021  11:48:15n
+Total Resumen: 1.19 UF ;  7-6-2021  13:11:11
+Producto: Plan Inicia;  7-6-2021  13:11:11
+Precio del producto: Precio: UF 1;  7-6-2021  13:11:11
+Valor del producto: Iva: UF 0,19;  7-6-2021  13:11:11
+Iva del producto:  UF 1,19;  7-6-2021  13:11:11n
+Total Resumen: 1.19 UF ;  7-6-2021  13:25:27
+Producto: Plan Inicia;  7-6-2021  13:25:27
+
+Total Resumen: 1.19 UF ;  7-6-2021  13:48:51
+Producto: Plan Inicia;  7-6-2021  13:48:51
+
+Total Resumen: 1.19 UF ;  7-6-2021  13:55:52
+Producto: Plan Inicia;  7-6-2021  13:55:52
+Precio del producto: Precio: UF 1;  7-6-2021  13:55:52
+Valor del producto: Iva: UF 0,19;  7-6-2021  13:55:52
+Iva del producto:  UF 1,19;  7-6-2021  13:55:52
+
+Total Resumen: 1.19 UF ;  7-6-2021  15:17:37
+Producto: Plan Inicia;  7-6-2021  15:17:37
+Precio del producto: Precio: UF 1;  7-6-2021  15:17:37
+
+Total Resumen: 1.19 UF ;  7-6-2021  15:19:11
+Producto: Plan Inicia;  7-6-2021  15:19:11
+Precio del producto: Precio: UF 1;  7-6-2021  15:19:11
+Valor del producto: Iva: UF 0,19;  7-6-2021  15:19:11
+
+Total Resumen: 1.19 UF ;  7-6-2021  15:20:48
+Producto: Plan Inicia;  7-6-2021  15:20:48
+Precio del producto: Precio: UF 1;  7-6-2021  15:20:48
+Valor del producto: Iva: UF 0,19;  7-6-2021  15:20:48
+Iva del producto:  UF 1,19;  7-6-2021  15:20:48
+
+Total Resumen: 1.19 UF ;  7-6-2021  15:24:12
+Producto: Plan Inicia;  7-6-2021  15:24:12
+Precio del producto: Precio: UF 1;  7-6-2021  15:24:12
+Valor del producto: Iva: UF 0,19;  7-6-2021  15:24:12
+Iva del producto:  UF 1,19;  7-6-2021  15:24:12
+
+Total Resumen: 1.19 UF ;  7-6-2021  15:27:46
+Producto: Plan Inicia;  7-6-2021  15:27:46
+Precio del producto: Precio: UF 1;  7-6-2021  15:27:46
+Valor del producto: Iva: UF 0,19;  7-6-2021  15:27:46
+Iva del producto:  UF 1,19;  7-6-2021  15:27:46
+
+Total Resumen: 1.19 UF ;  7-6-2021  15:36:17
+Producto: Plan Inicia;  7-6-2021  15:36:17
+Precio del producto: Precio: UF 1;  7-6-2021  15:36:17
+Valor del producto: Iva: UF 0,19;  7-6-2021  15:36:17
+Iva del producto:  UF 1,19;  7-6-2021  15:36:17
+
+Total Resumen: 1.19 UF ;  7-6-2021  15:39:51
+Producto: Plan Inicia;  7-6-2021  15:39:51
+Precio del producto: Precio: UF 1;  7-6-2021  15:39:51
+Valor del producto: Iva: UF 0,19;  7-6-2021  15:39:51
+
+Total Resumen: 1.19 UF ;  7-6-2021  15:42:48
+Producto: Plan Inicia;  7-6-2021  15:42:48
+Precio del producto: Precio: UF 1;  7-6-2021  15:42:48
+
+Total Resumen: 1.19 UF ;  7-6-2021  15:48:55
+Producto: Plan Inicia;  7-6-2021  15:48:55
+Precio del producto: Precio: UF 1;  7-6-2021  15:48:55
+
+Total Resumen: 1.19 UF ;  7-6-2021  15:55:8
+Producto: Plan Inicia;  7-6-2021  15:55:8
+Precio del producto: Precio: UF 1;  7-6-2021  15:55:8
+Valor del producto: Iva: UF 0,19;  7-6-2021  15:55:8
+Iva del producto:  UF 1,19;  7-6-2021  15:55:8
+
+Total Resumen: 1.19 UF ;  7-6-2021  15:58:29
+Producto: Plan Inicia;  7-6-2021  15:58:29
+Precio del producto: Precio: UF 1;  7-6-2021  15:58:29
+Valor del producto: Iva: UF 0,19;  7-6-2021  15:58:29
+Iva del producto:  UF 1,19;  7-6-2021  15:58:29
+
+Total Resumen: 1.19 UF ;  16-6-2021  11:55:23
+Producto: Plan Inicia;  16-6-2021  11:55:23
+Precio del producto: Precio: UF 1;  16-6-2021  11:55:23
+Iva del producto: Iva: UF 0,19;  16-6-2021  11:55:23
+Total del producto:  UF 1,19;  16-6-2021  11:55:23

@@ -1,0 +1,61 @@
+{
+  "id": "ox5T48O_6ECV9-pc1LICzQ",
+  "platform": "Web",
+  "executionStart": "2021-06-16T07:15:53.49Z",
+  "executionEnd": "2021-06-16T07:17:47.947Z",
+  "resultType": "Passed",
+  "passRatio": 100,
+  "agentName": "My First Agent",
+  "agentId": "Y6lXhtcjIUGxs1-gG3DpgQ",
+  "jobId": "xOTUaBRM1EuqTg_3rojB6Q",
+  "jobName": "Retasalo",
+  "passedTests": 3,
+  "failedTests": 0,
+  "skippedTests": 0,
+  "trigger": "CI Jenkins build: 26",
+  "testResults": [
+    {
+      "name": "Retasalo1",
+      "executionStart": "2021-06-16T07:16:00.249Z",
+      "executionEnd": "0001-01-01T00:00:00Z",
+      "duration": "00:01:08.129",
+      "result": "Passed",
+      "targets": [
+        {
+          "targetName": "Chrome 91.0.4472.106",
+          "result": "Passed",
+          "passRatio": 100,
+          "failRatio": 0,
+          "executionStart": "2021-06-16T07:16:00.249Z",
+          "executionEnd": "2021-06-16T07:16:26.363Z",
+          "duration": "00:00:26.114",
+          "failedSteps": []
+        },
+        {
+          "targetName": "Firefox 89.0",
+          "result": "Passed",
+          "passRatio": 100,
+          "failRatio": 0,
+          "executionStart": "2021-06-16T07:16:43.58Z",
+          "executionEnd": "2021-06-16T07:17:03.731Z",
+          "duration": "00:00:20.151",
+          "failedSteps": []
+        },
+        {
+          "targetName": "Edge 91.0.864.48",
+          "result": "Passed",
+          "passRatio": 100,
+          "failRatio": 0,
+          "executionStart": "2021-06-16T07:17:25.811Z",
+          "executionEnd": "2021-06-16T07:17:47.679Z",
+          "duration": "00:00:21.868",
+          "failedSteps": []
+        }
+      ]
+    }
+  ],
+  "reportUrl": "https://app.testproject.io/#/reports/projects/526859/jobs/xOTUaBRM1EuqTg_3rojB6Q/execution/ox5T48O_6ECV9-pc1LICzQ?es=2021-06-16T07:15:53.490Z",
+  "tags": [
+    "Retasalo"
+  ]
+}

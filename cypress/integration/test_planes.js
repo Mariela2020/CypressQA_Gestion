@@ -2,6 +2,14 @@ describe('Tests Suites', function()
 {
  // var uf= 29064.70; 
   var iva= 0.19;
+  const d = new Date
+   const date = [d.getDate(),
+    d.getMonth() + 1,
+    d.getFullYear()].join('-') 
+
+  const hora = [d.getHours(),
+    d.getMinutes(),
+    d.getSeconds()].join(':')
 
   it('Flujo Planes Inicia',function ()  
   {
@@ -29,14 +37,14 @@ describe('Tests Suites', function()
       cy.get('#aceptaTerminos').click()
       cy.get('.btn-danger').click()
       cy.wait(3000)
-      cy.get('#verDetalle').click()
+      //cy.get('#verDetalle').click()
       
       
-      cy.get(':nth-child(2) > span.total').then(function($valorelem){
+      cy.get('.item-flex > span.total').then(function($valorelem){
         const totalrestxt= $valorelem.text()
        // var totalres = totalrestxt
         cy.log(totalrestxt)       
-        cy.writeFile('fichero.txt', '\nTotal Resumen: ' +totalrestxt + ';  ' + Date(), {flag: 'a+'} )
+        cy.writeFile('fichero.txt', '\n\nTotal Resumen: ' +totalrestxt + ';  '  + date + '  ' + hora, {flag: 'a+'} )
                   
       })
       
@@ -44,27 +52,27 @@ describe('Tests Suites', function()
       cy.get('div.pago__Productos__Extra__detalle.contenedor-padre:nth-child(4) section.flujo__pago div.container.detallePago div.row.detalle__datos:nth-child(5) div.btn-next.col-12 a.btn.btn-danger.button.btn-block > span:nth-child(1)').click()
       cy.get('.modal-footer > .btn').click()
          
-      cy.get('.col-md-8 > :nth-child(2)').then(function($valorelem){
+      cy.get('.detalle > :nth-child(1) > .text').then(function($valorelem){
         
         const productotxt= $valorelem.text()
         cy.log(productotxt)       
-        cy.writeFile('fichero.txt', '\nProducto: ' +productotxt + ';  ' + Date(), {flag: 'a+'} )
+        cy.writeFile('fichero.txt', '\nProducto: ' +productotxt + ';  '  + date + '  ' + hora, {flag: 'a+'} )
                   
       })
 
-      cy.get('.body-process > :nth-child(2) > .row > .col-md-4 > .title-c').then(function($valorelem){
+      cy.get('.desktop > .title-c').then(function($valorelem){
         
         const preciotxt= $valorelem.text()
         cy.log(preciotxt)
-        cy.writeFile('fichero.txt', '\nPrecio del producto: ' +preciotxt + ';  ' + Date(), {flag: 'a+'} )
+        cy.writeFile('fichero.txt', '\nPrecio del producto: ' +preciotxt + ';  '  + date + '  ' + hora, {flag: 'a+'} )
                   
       })
       
-      cy.get(':nth-child(3) > .col-sm-12 > .title-c').then(function($valorelem){
+      cy.get('.iva > .col-sm-12 > .title-c').then(function($valorelem){
         
           const ivatxt= $valorelem.text()
           cy.log(ivatxt)             
-          cy.writeFile('fichero.txt', '\nValor del producto: ' +ivatxt + ';  ' + Date(), {flag: 'a+'} )
+          cy.writeFile('fichero.txt', '\nIva del producto: ' +ivatxt + ';  '  + date + '  ' + hora, {flag: 'a+'} )
                       
       })  
 
@@ -75,7 +83,7 @@ describe('Tests Suites', function()
         cy.log(totaldetxt)
         //const valoresp= '$29.99'
         //expect(totalres).eq(totaldet)
-        cy.writeFile('fichero.txt', '\nIva del producto: ' +totaldetxt + ';  ' + Date(), {flag: 'a+'} )
+        cy.writeFile('fichero.txt', '\nTotal del producto: ' +totaldetxt + ';  '  + date + '  ' + hora, {flag: 'a+'} )
     
       
     })  

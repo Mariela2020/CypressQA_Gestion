@@ -1,0 +1,29 @@
+Fecha: 15-6-2021; Flujo: Login; Chrome :00:00:26.562; Firefox :00:00:16.372; Edge :00:00:19.267; Resultado: Failed
+Fecha: 15-6-2021; Flujo: Planes; Chrome :00:00:39.901; Firefox :00:00:39.528; Edge :00:00:47.854; Resultado: Passed
+Fecha: 15-6-2021; Flujo: Producto; Chrome :00:00:55.229; Firefox :00:00:20.381; Edge :00:00:52.853; Resultado: Failed
+Fecha: 15-6-2021; Flujo: Retasalo; Chrome :00:00:23.989; Edge :00:00:25.242; Firefox :00:00:20.626; Resultado: Passed
+
+Fecha: 16-6-2021; Flujo: Login; Chrome :00:00:16.486; Firefox :00:00:15.089; Edge :00:00:19.455; Resultado: Passed
+Fecha: 16-6-2021; Flujo: Planes; Chrome :00:00:43.420; Firefox :00:00:43.845; Edge :00:00:50.918; Resultado: Passed
+Fecha: 16-6-2021; Flujo: Producto; Chrome :00:01:18.522; Firefox :00:00:25.262; Edge :00:01:08.866; Resultado: Failed
+Fecha: 16-6-2021; Flujo: Retasalo; Chrome :00:00:26.114; Firefox :00:00:20.151; Edge :00:00:21.868; Resultado: Passed
+
+Fecha: 16-6-2021; Flujo: Login; Chrome :00:00:16.486; Firefox :00:00:15.089; Edge :00:00:19.455; Resultado: Passed
+Fecha: 16-6-2021; Flujo: Planes; Chrome :00:00:43.420; Firefox :00:00:43.845; Edge :00:00:50.918; Resultado: Passed
+Fecha: 16-6-2021; Flujo: Producto; Chrome :00:00:23.472; Firefox :00:00:26.386; Edge :00:01:15.287; Resultado: Failed
+Fecha: 16-6-2021; Flujo: Retasalo; Chrome :00:00:26.114; Firefox :00:00:20.151; Edge :00:00:21.868; Resultado: Passed
+
+Fecha: 16-6-2021; Flujo: Login; Chrome :00:00:16.486; Firefox :00:00:15.089; Edge :00:00:19.455; Resultado: Passed
+Fecha: 16-6-2021; Flujo: Planes; Chrome :00:00:43.420; Firefox :00:00:43.845; Edge :00:00:50.918; Resultado: Passed
+Fecha: 16-6-2021; Flujo: Producto; Chrome :00:01:45.762; Edge :00:00:35.216; Firefox :00:00:25.191; Resultado: Failed
+Fecha: 16-6-2021; Flujo: Retasalo; Chrome :00:00:26.114; Firefox :00:00:20.151; Edge :00:00:21.868; Resultado: Passed
+
+Fecha: 16-6-2021; Flujo: Login; Chrome :00:00:16.486; Firefox :00:00:15.089; Edge :00:00:19.455; Resultado: Passed
+Fecha: 16-6-2021; Flujo: Planes; Chrome :00:00:43.420; Firefox :00:00:43.845; Edge :00:00:50.918; Resultado: Passed
+Fecha: 16-6-2021; Flujo: Producto; Chrome :00:01:45.762; Edge :00:00:35.216; Firefox :00:00:25.191; Resultado: Failed
+Fecha: 16-6-2021; Flujo: Retasalo; Chrome :00:00:26.114; Firefox :00:00:20.151; Edge :00:00:21.868; Resultado: Passed
+
+Fecha: 16-6-2021; Flujo: Login; Chrome :00:00:16.486; Firefox :00:00:15.089; Edge :00:00:19.455; Resultado: Passed
+Fecha: 16-6-2021; Flujo: Planes; Chrome :00:00:43.420; Firefox :00:00:43.845; Edge :00:00:50.918; Resultado: Passed
+Fecha: 16-6-2021; Flujo: Producto; Chrome :00:01:45.762; Edge :00:00:35.216; Firefox :00:00:25.191; Resultado: Failed
+Fecha: 16-6-2021; Flujo: Retasalo; Chrome :00:00:26.114; Firefox :00:00:20.151; Edge :00:00:21.868; Resultado: Passed

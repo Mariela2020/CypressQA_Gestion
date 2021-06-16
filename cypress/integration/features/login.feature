@@ -5,7 +5,6 @@ Feature: Login HomePage Toctoc
     Background: Login 
         Given El usuario esta en la página de Toctoc, cierra el mensaje y hace click en botón Entrar
           
-
    Scenario: Iniciar sesión con Credenciales valida
          
         When Ingresa los credenciales valida 

@@ -11,7 +11,7 @@ describe('Test Login Home', function() {
         cy.intercept("${ssoGatewayUrl}/**").as('sso')
         //cy.route2("${ssoGatewayUrl}/**").as('sso')
         cy.get('[id="IngresoUsuario.CorreoElectronico"]').type('hurtadomariela2@gmail.com')
-        cy.get('[id="IngresoUsuario.Contrasena"]').type('prueba')
+        cy.get('[id="IngresoUsuario.Contrasena"]').type('prueba',{sensitive: true})
         cy.get(':nth-child(5) > .btn').click()
         cy.get('.nom-user').should('be.visible').and('contain','Mariela')  
     })
