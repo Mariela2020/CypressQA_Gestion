@@ -2,7 +2,6 @@
     "experimentalNetworkStubbing": true,
     "chromeWebSecurity": false,
     
-   
         
     "env": {
           "TAGS1": "@noejecutar",

@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npx cypress run",
     "cypress open": "npx cypress open",
-    "testdata": "cypress run --browser chrome --spec 'cypress/integration/test_API_Testproject.js'",
+    "testdata": "cypress run --spec 'cypress/integration/test_API_Testproject.js'",
     "testdata1": "cypress run --spec 'cypress/integration/test_data_reporte_cy.js' | grep Flujo >> log.txt"
   },
   "keywords": [
