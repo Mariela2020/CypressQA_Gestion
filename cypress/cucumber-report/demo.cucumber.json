@@ -5,12 +5,7 @@
     "name": "Demo",
     "line": 2,
     "id": "demo",
-    "tags": [
-      {
-        "name": "@Demo",
-        "line": 1
-      }
-    ],
+    "tags": [],
     "uri": "demo.feature",
     "elements": [
       {
@@ -19,10 +14,6 @@
         "line": 7,
         "name": "Seleccionar articulo #3",
         "tags": [
-          {
-            "name": "@Demo",
-            "line": 1
-          },
           {
             "name": "@ejecutar",
             "line": 6
@@ -37,7 +28,7 @@
             "name": "Navega a la Pagina",
             "result": {
               "status": "passed",
-              "duration": 262000000
+              "duration": 412000000
             }
           },
           {
@@ -47,7 +38,7 @@
             "name": "Ingresa credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 817000000
+              "duration": 783000000
             }
           },
           {
@@ -57,7 +48,7 @@
             "name": "Selecciona el articulo #3",
             "result": {
               "status": "passed",
-              "duration": 75000000
+              "duration": 73000000
             }
           },
           {
@@ -67,7 +58,7 @@
             "name": "Compra el Articulo #3",
             "result": {
               "status": "passed",
-              "duration": 28000000
+              "duration": 37000000
             }
           }
         ]
@@ -78,10 +69,6 @@
         "line": 14,
         "name": "Seleccionar articulo #2",
         "tags": [
-          {
-            "name": "@Demo",
-            "line": 1
-          },
           {
             "name": "@noejecutar",
             "line": 13
@@ -96,7 +83,7 @@
             "name": "Navega a la Pagina",
             "result": {
               "status": "passed",
-              "duration": 112000000
+              "duration": 166000000
             }
           },
           {
@@ -106,7 +93,7 @@
             "name": "Ingresa credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 766000000
+              "duration": 737000000
             }
           },
           {
@@ -116,7 +103,7 @@
             "name": "Selecciona el articulo #2",
             "result": {
               "status": "passed",
-              "duration": 61000000
+              "duration": 45000000
             }
           },
           {
@@ -126,7 +113,7 @@
             "name": "Compra el Articulo #2",
             "result": {
               "status": "passed",
-              "duration": 24000000
+              "duration": 15000000
             }
           }
         ]
@@ -137,10 +124,6 @@
         "line": 21,
         "name": "Seleccionar articulo #1",
         "tags": [
-          {
-            "name": "@Demo",
-            "line": 1
-          },
           {
             "name": "@noejecutar",
             "line": 20
@@ -155,7 +138,7 @@
             "name": "Navega a la Pagina",
             "result": {
               "status": "passed",
-              "duration": 106000000
+              "duration": 124000000
             }
           },
           {
@@ -165,7 +148,7 @@
             "name": "Ingresa credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 745000000
+              "duration": 711000000
             }
           },
           {
@@ -175,7 +158,7 @@
             "name": "Selecciona el articulo #1",
             "result": {
               "status": "passed",
-              "duration": 150000000
+              "duration": 122000000
             }
           },
           {
@@ -185,7 +168,7 @@
             "name": "Compra el Articulo #1",
             "result": {
               "status": "passed",
-              "duration": 14000000
+              "duration": 13000000
             }
           }
         ]
@@ -196,10 +179,6 @@
         "line": 28,
         "name": "Seleccionar articulo #4",
         "tags": [
-          {
-            "name": "@Demo",
-            "line": 1
-          },
           {
             "name": "@ejecutar",
             "line": 27
@@ -214,7 +193,7 @@
             "name": "Navega a la Pagina",
             "result": {
               "status": "passed",
-              "duration": 1648000000
+              "duration": 96000000
             }
           },
           {
@@ -224,7 +203,7 @@
             "name": "Ingresa credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 802000000
+              "duration": 691000000
             }
           },
           {
@@ -234,7 +213,7 @@
             "name": "Selecciona el articulo #4",
             "result": {
               "status": "passed",
-              "duration": 223000000
+              "duration": 116000000
             }
           },
           {
@@ -244,7 +223,7 @@
             "name": "Compra el Articulo #4",
             "result": {
               "status": "passed",
-              "duration": 33000000
+              "duration": 12000000
             }
           }
         ]
@@ -255,10 +234,6 @@
         "line": 35,
         "name": "Seleccionar articulo #5",
         "tags": [
-          {
-            "name": "@Demo",
-            "line": 1
-          },
           {
             "name": "@ejecutar",
             "line": 34
@@ -273,7 +248,7 @@
             "name": "Navega a la Pagina",
             "result": {
               "status": "passed",
-              "duration": 112000000
+              "duration": 88000000
             }
           },
           {
@@ -283,7 +258,7 @@
             "name": "Ingresa credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 743000000
+              "duration": 698000000
             }
           },
           {
@@ -293,7 +268,7 @@
             "name": "Selecciona el articulo #5",
             "result": {
               "status": "passed",
-              "duration": 164000000
+              "duration": 120000000
             }
           },
           {
@@ -303,7 +278,7 @@
             "name": "Compra el Articulo #5",
             "result": {
               "status": "passed",
-              "duration": 12000000
+              "duration": 10000000
             }
           }
         ]
@@ -314,10 +289,6 @@
         "line": 42,
         "name": "Seleccionar articulo #6",
         "tags": [
-          {
-            "name": "@Demo",
-            "line": 1
-          },
           {
             "name": "@noejecutar",
             "line": 41
@@ -332,7 +303,7 @@
             "name": "Navega a la Pagina",
             "result": {
               "status": "passed",
-              "duration": 131000000
+              "duration": 93000000
             }
           },
           {
@@ -342,7 +313,7 @@
             "name": "Ingresa credenciales valida",
             "result": {
               "status": "passed",
-              "duration": 759000000
+              "duration": 690000000
             }
           },
           {
@@ -352,7 +323,7 @@
             "name": "Selecciona el articulo #6",
             "result": {
               "status": "passed",
-              "duration": 146000000
+              "duration": 117000000
             }
           },
           {
@@ -362,7 +333,7 @@
             "name": "Compra el Articulo #6",
             "result": {
               "status": "passed",
-              "duration": 16000000
+              "duration": 12000000
             }
           }
         ]

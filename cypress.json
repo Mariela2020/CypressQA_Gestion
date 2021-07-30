@@ -2,10 +2,11 @@
     "experimentalNetworkStubbing": true,
     "chromeWebSecurity": false,
     
-    
+   
         
     "env": {
-          "TAGS": "not @ignore"
+          "TAGS1": "@noejecutar",
+          "Tags": "@ejecutar"
            }, 
     
     "video":false

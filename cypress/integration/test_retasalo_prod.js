@@ -51,9 +51,11 @@ describe('Tests Suites', function()
 
   it('Login de Retasalo',function ()  
   {
+   // cy.get('#email').type('camilo.olivos@toctoc.com')
+   // cy.get('#password').type('josefa41',{sensitive: true})
     cy.get('#email').type('hurtadomariela2@gmail.com')
     cy.get('#password').type('prueba',{sensitive: true})
-    cy.get('.contenido > .row > .btn').click()  
+   // cy.get('.contenido > .row > .btn').click()  
     cy.wait(3000)
 
    // cy.get('#email').type('camilo.olivos@toctoc.com')
@@ -67,7 +69,7 @@ describe('Tests Suites', function()
     cy.get('.btn').click()
     cy.wait(3000)
   })
-
+   
   it('visualizar partes del informe', function()
   {
     

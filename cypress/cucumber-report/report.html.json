@@ -1,5 +1,4707 @@
 [
   {
+    "description": "Como usuario quiero contratar un servicio de un Plan o Producto Marketing.",
+    "keyword": "Feature",
+    "name": "Catalogo de Planes - Productos Marketing - Corredoras",
+    "line": 1,
+    "id": "catalogo-de-planes---productos-marketing---corredoras",
+    "tags": [],
+    "uri": "corredora.feature",
+    "elements": [
+      {
+        "id": "catalogo-de-planes---productos-marketing---corredoras;ingresar-al-catalogo-de-planes-en-la-página-gestion-corredor-y-contratar-un-servicio",
+        "keyword": "Scenario",
+        "line": 25,
+        "name": "Ingresar al catalogo de planes en la página Gestion Corredor y Contratar un servicio",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 24
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 26,
+            "name": "El usuario se encuentra en la página de Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 5990000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 27,
+            "name": "Hace click sobre el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 131000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 28,
+            "name": "Visualiza la información del plan seleccionado y hace click al botón Contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2279000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 29,
+            "name": "Registra el Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1787000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 30,
+            "name": "Llena los formularios con los campos solicitados",
+            "result": {
+              "status": "passed",
+              "duration": 4406000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 31,
+            "name": "Tilda el checkbox Declaro conocer y aceptar los Términos y condiciones de TOCTOC del Plan",
+            "result": {
+              "status": "passed",
+              "duration": 3338000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 32,
+            "name": "Visualizar el Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2777000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 33,
+            "name": "Visualizar el Detalle de Pago y medio disponible",
+            "result": {
+              "status": "passed",
+              "duration": 339000000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "    Selecciona un Articulo",
+    "keyword": "Feature",
+    "name": "Demo",
+    "line": 2,
+    "id": "demo",
+    "tags": [
+      {
+        "name": "@Demo",
+        "line": 1
+      }
+    ],
+    "uri": "demo.feature",
+    "elements": [
+      {
+        "id": "demo;seleccionar-articulo-#3",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Seleccionar articulo #3",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@ejecutar",
+            "line": 6
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 262000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 817000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "Selecciona el articulo #3",
+            "result": {
+              "status": "passed",
+              "duration": 75000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "Compra el Articulo #3",
+            "result": {
+              "status": "passed",
+              "duration": 28000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#2",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "Seleccionar articulo #2",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@noejecutar",
+            "line": 13
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 15,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 112000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 766000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "Selecciona el articulo #2",
+            "result": {
+              "status": "passed",
+              "duration": 61000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "Compra el Articulo #2",
+            "result": {
+              "status": "passed",
+              "duration": 24000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#1",
+        "keyword": "Scenario",
+        "line": 21,
+        "name": "Seleccionar articulo #1",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@noejecutar",
+            "line": 20
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 22,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 106000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 745000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "Selecciona el articulo #1",
+            "result": {
+              "status": "passed",
+              "duration": 150000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "Compra el Articulo #1",
+            "result": {
+              "status": "passed",
+              "duration": 14000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#4",
+        "keyword": "Scenario",
+        "line": 28,
+        "name": "Seleccionar articulo #4",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@ejecutar",
+            "line": 27
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 29,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 1648000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 30,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 802000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 31,
+            "name": "Selecciona el articulo #4",
+            "result": {
+              "status": "passed",
+              "duration": 223000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 32,
+            "name": "Compra el Articulo #4",
+            "result": {
+              "status": "passed",
+              "duration": 33000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#5",
+        "keyword": "Scenario",
+        "line": 35,
+        "name": "Seleccionar articulo #5",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@ejecutar",
+            "line": 34
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 36,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 112000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 37,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 743000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 38,
+            "name": "Selecciona el articulo #5",
+            "result": {
+              "status": "passed",
+              "duration": 164000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 39,
+            "name": "Compra el Articulo #5",
+            "result": {
+              "status": "passed",
+              "duration": 12000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#6",
+        "keyword": "Scenario",
+        "line": 42,
+        "name": "Seleccionar articulo #6",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@noejecutar",
+            "line": 41
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 43,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 131000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 44,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 759000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 45,
+            "name": "Selecciona el articulo #6",
+            "result": {
+              "status": "passed",
+              "duration": 146000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 46,
+            "name": "Compra el Articulo #6",
+            "result": {
+              "status": "passed",
+              "duration": 16000000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "    Como usuario quiero iniciar sesión ",
+    "keyword": "Feature",
+    "name": "Login HomePage Toctoc",
+    "line": 1,
+    "id": "login-homepage-toctoc",
+    "tags": [],
+    "uri": "login.feature",
+    "elements": [
+      {
+        "id": "login-homepage-toctoc;iniciar-sesión-con-credenciales-valida",
+        "keyword": "Scenario",
+        "line": 9,
+        "name": "Iniciar sesión con Credenciales valida",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "El usuario esta en la página de Toctoc, cierra el mensaje y hace click en botón Entrar",
+            "result": {
+              "status": "passed",
+              "duration": 25962000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "email",
+                      "validopassword"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "hurtadomariela2@gmail.com",
+                      "prueba"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "When ",
+            "line": 11,
+            "name": "Ingresa los credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 1132000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "El sistema valida credenciales y da la bienvenida al usuario",
+            "result": {
+              "status": "passed",
+              "duration": 10559000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "login-homepage-toctoc;iniciar-sesión-con-credenciales-invalida",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "Iniciar sesión con Credenciales invalida",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "El usuario esta en la página de Toctoc, cierra el mensaje y hace click en botón Entrar",
+            "result": {
+              "status": "passed",
+              "duration": 13200000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "email",
+                      "invalidopassword"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "hurtadomariela2@gmail.com",
+                      "12345"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "When ",
+            "line": 18,
+            "name": "Ingresa los credenciales invalida",
+            "result": {
+              "status": "passed",
+              "duration": 842000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "Hace click sobre el boton Ingresar",
+            "result": {
+              "status": "passed",
+              "duration": 209000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "mensaje"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "La información entregada no permite ingresar al sistema,"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "El sistema muestra mensaje de error",
+            "result": {
+              "status": "failed",
+              "error_message": "AssertionError: Timed out retrying after 4000ms: Expected to find content: 'La información entregada no permite ingresar al sistema,' within the element: <div.alert.alert-danger.d-none> but never did.\n    at eval (https://www.toctoc.com/__cypress/tests?p=cypress\\integration\\features\\login.feature:413:22)\nat Array.forEach (<anonymous>)\n    at Context.eval (https://www.toctoc.com/__cypress/tests?p=cypress\\integration\\features\\login.feature:412:22)\n    at Context.resolveAndRunStepDefinition (https://www.toctoc.com/__cypress/tests?p=cypress\\integration\\features\\login.feature:11058:9)\n    at Context.eval (https://www.toctoc.com/__cypress/tests?p=cypress\\integration\\features\\login.feature:10397:35)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "login-homepage-toctoc;recuperar-contraseña",
+        "keyword": "Scenario",
+        "line": 26,
+        "name": "Recuperar contraseña",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "El usuario esta en la página de Toctoc, cierra el mensaje y hace click en botón Entrar",
+            "result": {
+              "status": "passed",
+              "duration": 15392000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 28,
+            "name": "El usuario hace click en el Link",
+            "result": {
+              "status": "passed",
+              "duration": 3083000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "email"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "hurtado_mariela@hotmail.com"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "And ",
+            "line": 29,
+            "name": "El sistema solicita correo registrado",
+            "result": {
+              "status": "passed",
+              "duration": 915000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "mensaje"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Se ha enviado un correo"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "Then ",
+            "line": 32,
+            "name": "Se envia un codigo al correo ingresado",
+            "result": {
+              "status": "passed",
+              "duration": 76000000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "  Como usuario quiero contratar un servicio de un Plan de Publicación",
+    "keyword": "Feature",
+    "name": "Catalogo de Planes",
+    "line": 2,
+    "id": "catalogo-de-planes",
+    "tags": [
+      {
+        "name": "@planes",
+        "line": 1
+      }
+    ],
+    "uri": "planes.feature",
+    "elements": [
+      {
+        "id": "catalogo-de-planes;obtiene-el-valor-de-la-uf-del-dia",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Obtiene el Valor de la UF del dia",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@api",
+            "line": 6
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "Verifica el registro de la UF",
+            "result": {
+              "status": "passed",
+              "duration": 112000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-planes;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-inicia)",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "Ingresar al catalogo de planes de Gestion Corredor (Plan Inicia)",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@planes-Inicia",
+            "line": 10
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "El usuario se encuentra en Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 5625000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "Hace click en el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 130000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "Selecciona el plan Inicia",
+            "result": {
+              "status": "passed",
+              "duration": 789000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "Registra datos del Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1734000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "Llena los formularios del contrato",
+            "result": {
+              "status": "passed",
+              "duration": 4351000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 17,
+            "name": "Aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 3302000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 18,
+            "name": "Visualizar Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 4118000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 19,
+            "name": "Visualizar Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 282000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-planes;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-crece)",
+        "keyword": "Scenario",
+        "line": 22,
+        "name": "Ingresar al catalogo de planes de Gestion Corredor (Plan Crece)",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@planes-Crece",
+            "line": 21
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 23,
+            "name": "El usuario se encuentra en Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3051000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "Hace click en el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 126000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "Selecciona el plan Crece",
+            "result": {
+              "status": "passed",
+              "duration": 641000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 26,
+            "name": "Registra datos del Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1731000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 27,
+            "name": "Llena los formularios del contrato",
+            "result": {
+              "status": "passed",
+              "duration": 4652000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 28,
+            "name": "Aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 3307000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 29,
+            "name": "Visualizar Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 1492000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 30,
+            "name": "Visualizar Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 340000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-planes;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-acelera)",
+        "keyword": "Scenario",
+        "line": 33,
+        "name": "Ingresar al catalogo de planes de Gestion Corredor (Plan Acelera)",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@planes-Acelera",
+            "line": 32
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 34,
+            "name": "El usuario se encuentra en Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 1252000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 35,
+            "name": "Hace click en el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 108000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 36,
+            "name": "Selecciona el plan Acelera",
+            "result": {
+              "status": "passed",
+              "duration": 591000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 37,
+            "name": "Registra datos del Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1651000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 38,
+            "name": "Llena los formularios del contrato",
+            "result": {
+              "status": "passed",
+              "duration": 4225000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 39,
+            "name": "Aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 3301000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 40,
+            "name": "Visualizar Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 1031000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 41,
+            "name": "Visualizar Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 749000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-planes;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-escala)",
+        "keyword": "Scenario",
+        "line": 44,
+        "name": "Ingresar al catalogo de planes de Gestion Corredor (Plan Escala)",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@planes-Escala",
+            "line": 43
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 45,
+            "name": "El usuario se encuentra en Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 2651000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 46,
+            "name": "Hace click en el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 134000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 47,
+            "name": "Selecciona el plan Escala",
+            "result": {
+              "status": "passed",
+              "duration": 750000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 48,
+            "name": "Registra datos del Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1751000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 49,
+            "name": "Llena los formularios del contrato",
+            "result": {
+              "status": "passed",
+              "duration": 4470000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 50,
+            "name": "Aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 3310000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 51,
+            "name": "Visualizar Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 1054000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 52,
+            "name": "Visualizar Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 459000000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "  Como usuario quiero contratar un servicio de Producto Marketing.",
+    "keyword": "Feature",
+    "name": "Catalogo de Productos Marketing",
+    "line": 2,
+    "id": "catalogo-de-productos-marketing",
+    "tags": [
+      {
+        "name": "@productos",
+        "line": 1
+      }
+    ],
+    "uri": "productos.feature",
+    "elements": [
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(propiedad-detacada)",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Ingresar al catologo de productos Markenting (Propiedad Detacada)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-PropDestacada",
+            "line": 6
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 31178000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 13305000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 209000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "Selecciona y visualiza información del Producto Propiedad Destacada",
+            "result": {
+              "status": "passed",
+              "duration": 2835000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3251000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 291000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 5385000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 15,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1069000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(ultima-ventas)",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "Ingresar al catologo de productos Markenting (Ultima Ventas)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-UltimaV",
+            "line": 17
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 19,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 4953000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 11001000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 224000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 22,
+            "name": "Selecciona y visualiza información del Producto Ultima Ventas",
+            "result": {
+              "status": "passed",
+              "duration": 4295000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3248000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 271000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2340000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1090000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(mailing)",
+        "keyword": "Scenario",
+        "line": 29,
+        "name": "Ingresar al catologo de productos Markenting (Mailing)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-Mailing",
+            "line": 28
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 30,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3423000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 31,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 8942000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 32,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 187000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 33,
+            "name": "Selecciona y visualiza información del Producto Mailing",
+            "result": {
+              "status": "passed",
+              "duration": 2639000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 34,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3237000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 35,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 283000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 36,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2032000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 37,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 993000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(banner)",
+        "keyword": "Scenario",
+        "line": 40,
+        "name": "Ingresar al catologo de productos Markenting (Banner)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-Banner",
+            "line": 39
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 41,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3617000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 42,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 8725000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 43,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 195000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 44,
+            "name": "Selecciona y visualiza información del Producto Banner",
+            "result": {
+              "status": "passed",
+              "duration": 2946000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 45,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3266000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 46,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 290000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 47,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2380000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 48,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 984000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(banner-+-5-propdestacada)",
+        "keyword": "Scenario",
+        "line": 51,
+        "name": "Ingresar al catologo de productos Markenting (Banner + 5 PropDestacada)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-Banner+5prop",
+            "line": 50
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 52,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3347000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 53,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 8430000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 54,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 193000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 55,
+            "name": "Selecciona y visualiza información del Producto Banner + 5 PropDestacada",
+            "result": {
+              "status": "passed",
+              "duration": 3194000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 56,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3239000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 57,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 266000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 58,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2174000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 59,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 993000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(espacio-landing)",
+        "keyword": "Scenario",
+        "line": 62,
+        "name": "Ingresar al catologo de productos Markenting (Espacio Landing)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-EspacioLanding",
+            "line": 61
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 63,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3604000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 64,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 8772000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 65,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 192000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 66,
+            "name": "Selecciona y visualiza información del Producto Espacio Landing",
+            "result": {
+              "status": "passed",
+              "duration": 2519000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 67,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3249000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 68,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 357000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 69,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 3346000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 70,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1491000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(mail-500)",
+        "keyword": "Scenario",
+        "line": 73,
+        "name": "Ingresar al catologo de productos Markenting (Mail 500)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-Mail500",
+            "line": 72
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 74,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3444000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 75,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 9721000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 76,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 209000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 77,
+            "name": "Selecciona y visualiza información del Producto Mail500",
+            "result": {
+              "status": "passed",
+              "duration": 2405000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 78,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3245000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 79,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 276000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 80,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 1987000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 81,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 979000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(api-contacto)",
+        "keyword": "Scenario",
+        "line": 84,
+        "name": "Ingresar al catologo de productos Markenting (Api Contacto)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-ApiContacto",
+            "line": 83
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 85,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3255000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 86,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 8224000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 87,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 193000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 88,
+            "name": "Selecciona y visualiza información del Producto Api Contacto",
+            "result": {
+              "status": "passed",
+              "duration": 2880000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 89,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3255000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 90,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 382000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 91,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2296000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 92,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1120000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x5)",
+        "keyword": "Scenario",
+        "line": 95,
+        "name": "Ingresar al catologo de productos Markenting (Prop.Destacada x5)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-PropDestacadax5",
+            "line": 94
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 96,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3582000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 97,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 9176000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 98,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 209000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 99,
+            "name": "Selecciona y visualiza información del Producto Propiedad Destacada x5",
+            "result": {
+              "status": "passed",
+              "duration": 3296000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 100,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3293000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 101,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 288000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 102,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2194000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 103,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1408000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x15)",
+        "keyword": "Scenario",
+        "line": 106,
+        "name": "Ingresar al catologo de productos Markenting (Prop.Destacada x15)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-PropDestacadax15",
+            "line": 105
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 107,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3625000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 108,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 9554000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 109,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 270000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 110,
+            "name": "Selecciona y visualiza información del Producto Propiedad Destacada x15",
+            "result": {
+              "status": "passed",
+              "duration": 2838000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 111,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3255000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 112,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 296000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 113,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2278000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 114,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 972000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x30)",
+        "keyword": "Scenario",
+        "line": 117,
+        "name": "Ingresar al catologo de productos Markenting (Prop.Destacada x30)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-PropDestacadax30",
+            "line": 116
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 118,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3938000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 119,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 14098000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 120,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 205000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 121,
+            "name": "Selecciona y visualiza información del Producto Propiedad Destacada x30",
+            "result": {
+              "status": "passed",
+              "duration": 2696000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 122,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3246000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 123,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 286000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 124,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2155000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 125,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1043000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x60)",
+        "keyword": "Scenario",
+        "line": 128,
+        "name": "Ingresar al catologo de productos Markenting (Prop.Destacada x60)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-PropDestacadax60",
+            "line": 127
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 129,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 2983000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 130,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 13480000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 131,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 195000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 132,
+            "name": "Selecciona y visualiza información del Producto Propiedad Destacada x60",
+            "result": {
+              "status": "passed",
+              "duration": 3222000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 133,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3278000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 134,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 284000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 135,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 3103000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 136,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1132000000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Como usuario quiero contratar un servicio de un Plan o Producto Marketing.",
+    "keyword": "Feature",
+    "name": "Catalogo de Planes - Productos Marketing - Corredoras",
+    "line": 1,
+    "id": "catalogo-de-planes---productos-marketing---corredoras",
+    "tags": [],
+    "uri": "corredora.feature",
+    "elements": [
+      {
+        "id": "catalogo-de-planes---productos-marketing---corredoras;ingresar-al-catalogo-de-planes-en-la-página-gestion-corredor-y-contratar-un-servicio",
+        "keyword": "Scenario",
+        "line": 25,
+        "name": "Ingresar al catalogo de planes en la página Gestion Corredor y Contratar un servicio",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 24
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 26,
+            "name": "El usuario se encuentra en la página de Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 5990000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 27,
+            "name": "Hace click sobre el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 131000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 28,
+            "name": "Visualiza la información del plan seleccionado y hace click al botón Contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2279000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 29,
+            "name": "Registra el Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1787000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 30,
+            "name": "Llena los formularios con los campos solicitados",
+            "result": {
+              "status": "passed",
+              "duration": 4406000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 31,
+            "name": "Tilda el checkbox Declaro conocer y aceptar los Términos y condiciones de TOCTOC del Plan",
+            "result": {
+              "status": "passed",
+              "duration": 3338000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 32,
+            "name": "Visualizar el Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2777000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 33,
+            "name": "Visualizar el Detalle de Pago y medio disponible",
+            "result": {
+              "status": "passed",
+              "duration": 339000000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "    Selecciona un Articulo",
+    "keyword": "Feature",
+    "name": "Demo",
+    "line": 2,
+    "id": "demo",
+    "tags": [
+      {
+        "name": "@Demo",
+        "line": 1
+      }
+    ],
+    "uri": "demo.feature",
+    "elements": [
+      {
+        "id": "demo;seleccionar-articulo-#3",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Seleccionar articulo #3",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@ejecutar",
+            "line": 6
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 262000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 817000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "Selecciona el articulo #3",
+            "result": {
+              "status": "passed",
+              "duration": 75000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "Compra el Articulo #3",
+            "result": {
+              "status": "passed",
+              "duration": 28000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#2",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "Seleccionar articulo #2",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@noejecutar",
+            "line": 13
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 15,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 112000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 766000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "Selecciona el articulo #2",
+            "result": {
+              "status": "passed",
+              "duration": 61000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "Compra el Articulo #2",
+            "result": {
+              "status": "passed",
+              "duration": 24000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#1",
+        "keyword": "Scenario",
+        "line": 21,
+        "name": "Seleccionar articulo #1",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@noejecutar",
+            "line": 20
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 22,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 106000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 745000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "Selecciona el articulo #1",
+            "result": {
+              "status": "passed",
+              "duration": 150000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "Compra el Articulo #1",
+            "result": {
+              "status": "passed",
+              "duration": 14000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#4",
+        "keyword": "Scenario",
+        "line": 28,
+        "name": "Seleccionar articulo #4",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@ejecutar",
+            "line": 27
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 29,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 1648000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 30,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 802000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 31,
+            "name": "Selecciona el articulo #4",
+            "result": {
+              "status": "passed",
+              "duration": 223000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 32,
+            "name": "Compra el Articulo #4",
+            "result": {
+              "status": "passed",
+              "duration": 33000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#5",
+        "keyword": "Scenario",
+        "line": 35,
+        "name": "Seleccionar articulo #5",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@ejecutar",
+            "line": 34
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 36,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 112000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 37,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 743000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 38,
+            "name": "Selecciona el articulo #5",
+            "result": {
+              "status": "passed",
+              "duration": 164000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 39,
+            "name": "Compra el Articulo #5",
+            "result": {
+              "status": "passed",
+              "duration": 12000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo;seleccionar-articulo-#6",
+        "keyword": "Scenario",
+        "line": 42,
+        "name": "Seleccionar articulo #6",
+        "tags": [
+          {
+            "name": "@Demo",
+            "line": 1
+          },
+          {
+            "name": "@noejecutar",
+            "line": 41
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 43,
+            "name": "Navega a la Pagina",
+            "result": {
+              "status": "passed",
+              "duration": 131000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 44,
+            "name": "Ingresa credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 759000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 45,
+            "name": "Selecciona el articulo #6",
+            "result": {
+              "status": "passed",
+              "duration": 146000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 46,
+            "name": "Compra el Articulo #6",
+            "result": {
+              "status": "passed",
+              "duration": 16000000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "    Como usuario quiero iniciar sesión ",
+    "keyword": "Feature",
+    "name": "Login HomePage Toctoc",
+    "line": 1,
+    "id": "login-homepage-toctoc",
+    "tags": [],
+    "uri": "login.feature",
+    "elements": [
+      {
+        "id": "login-homepage-toctoc;iniciar-sesión-con-credenciales-valida",
+        "keyword": "Scenario",
+        "line": 9,
+        "name": "Iniciar sesión con Credenciales valida",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "El usuario esta en la página de Toctoc, cierra el mensaje y hace click en botón Entrar",
+            "result": {
+              "status": "passed",
+              "duration": 25962000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "email",
+                      "validopassword"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "hurtadomariela2@gmail.com",
+                      "prueba"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "When ",
+            "line": 11,
+            "name": "Ingresa los credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 1132000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "El sistema valida credenciales y da la bienvenida al usuario",
+            "result": {
+              "status": "passed",
+              "duration": 10559000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "login-homepage-toctoc;iniciar-sesión-con-credenciales-invalida",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "Iniciar sesión con Credenciales invalida",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "El usuario esta en la página de Toctoc, cierra el mensaje y hace click en botón Entrar",
+            "result": {
+              "status": "passed",
+              "duration": 13200000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "email",
+                      "invalidopassword"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "hurtadomariela2@gmail.com",
+                      "12345"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "When ",
+            "line": 18,
+            "name": "Ingresa los credenciales invalida",
+            "result": {
+              "status": "passed",
+              "duration": 842000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "Hace click sobre el boton Ingresar",
+            "result": {
+              "status": "passed",
+              "duration": 209000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "mensaje"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "La información entregada no permite ingresar al sistema,"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "El sistema muestra mensaje de error",
+            "result": {
+              "status": "failed",
+              "error_message": "AssertionError: Timed out retrying after 4000ms: Expected to find content: 'La información entregada no permite ingresar al sistema,' within the element: <div.alert.alert-danger.d-none> but never did.\n    at eval (https://www.toctoc.com/__cypress/tests?p=cypress\\integration\\features\\login.feature:413:22)\nat Array.forEach (<anonymous>)\n    at Context.eval (https://www.toctoc.com/__cypress/tests?p=cypress\\integration\\features\\login.feature:412:22)\n    at Context.resolveAndRunStepDefinition (https://www.toctoc.com/__cypress/tests?p=cypress\\integration\\features\\login.feature:11058:9)\n    at Context.eval (https://www.toctoc.com/__cypress/tests?p=cypress\\integration\\features\\login.feature:10397:35)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "login-homepage-toctoc;recuperar-contraseña",
+        "keyword": "Scenario",
+        "line": 26,
+        "name": "Recuperar contraseña",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "El usuario esta en la página de Toctoc, cierra el mensaje y hace click en botón Entrar",
+            "result": {
+              "status": "passed",
+              "duration": 15392000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 28,
+            "name": "El usuario hace click en el Link",
+            "result": {
+              "status": "passed",
+              "duration": 3083000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "email"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "hurtado_mariela@hotmail.com"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "And ",
+            "line": 29,
+            "name": "El sistema solicita correo registrado",
+            "result": {
+              "status": "passed",
+              "duration": 915000000
+            }
+          },
+          {
+            "arguments": [
+              {
+                "rows": [
+                  {
+                    "cells": [
+                      "mensaje"
+                    ]
+                  },
+                  {
+                    "cells": [
+                      "Se ha enviado un correo"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "keyword": "Then ",
+            "line": 32,
+            "name": "Se envia un codigo al correo ingresado",
+            "result": {
+              "status": "passed",
+              "duration": 76000000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "  Como usuario quiero contratar un servicio de un Plan de Publicación",
+    "keyword": "Feature",
+    "name": "Catalogo de Planes",
+    "line": 2,
+    "id": "catalogo-de-planes",
+    "tags": [
+      {
+        "name": "@planes",
+        "line": 1
+      }
+    ],
+    "uri": "planes.feature",
+    "elements": [
+      {
+        "id": "catalogo-de-planes;obtiene-el-valor-de-la-uf-del-dia",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Obtiene el Valor de la UF del dia",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@api",
+            "line": 6
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "Verifica el registro de la UF",
+            "result": {
+              "status": "passed",
+              "duration": 112000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-planes;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-inicia)",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "Ingresar al catalogo de planes de Gestion Corredor (Plan Inicia)",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@planes-Inicia",
+            "line": 10
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "El usuario se encuentra en Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 5625000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "Hace click en el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 130000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "Selecciona el plan Inicia",
+            "result": {
+              "status": "passed",
+              "duration": 789000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "Registra datos del Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1734000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "Llena los formularios del contrato",
+            "result": {
+              "status": "passed",
+              "duration": 4351000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 17,
+            "name": "Aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 3302000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 18,
+            "name": "Visualizar Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 4118000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 19,
+            "name": "Visualizar Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 282000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-planes;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-crece)",
+        "keyword": "Scenario",
+        "line": 22,
+        "name": "Ingresar al catalogo de planes de Gestion Corredor (Plan Crece)",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@planes-Crece",
+            "line": 21
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 23,
+            "name": "El usuario se encuentra en Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3051000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "Hace click en el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 126000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "Selecciona el plan Crece",
+            "result": {
+              "status": "passed",
+              "duration": 641000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 26,
+            "name": "Registra datos del Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1731000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 27,
+            "name": "Llena los formularios del contrato",
+            "result": {
+              "status": "passed",
+              "duration": 4652000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 28,
+            "name": "Aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 3307000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 29,
+            "name": "Visualizar Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 1492000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 30,
+            "name": "Visualizar Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 340000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-planes;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-acelera)",
+        "keyword": "Scenario",
+        "line": 33,
+        "name": "Ingresar al catalogo de planes de Gestion Corredor (Plan Acelera)",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@planes-Acelera",
+            "line": 32
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 34,
+            "name": "El usuario se encuentra en Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 1252000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 35,
+            "name": "Hace click en el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 108000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 36,
+            "name": "Selecciona el plan Acelera",
+            "result": {
+              "status": "passed",
+              "duration": 591000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 37,
+            "name": "Registra datos del Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1651000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 38,
+            "name": "Llena los formularios del contrato",
+            "result": {
+              "status": "passed",
+              "duration": 4225000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 39,
+            "name": "Aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 3301000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 40,
+            "name": "Visualizar Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 1031000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 41,
+            "name": "Visualizar Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 749000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-planes;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-escala)",
+        "keyword": "Scenario",
+        "line": 44,
+        "name": "Ingresar al catalogo de planes de Gestion Corredor (Plan Escala)",
+        "tags": [
+          {
+            "name": "@planes",
+            "line": 1
+          },
+          {
+            "name": "@planes-Escala",
+            "line": 43
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 45,
+            "name": "El usuario se encuentra en Gestion Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 2651000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 46,
+            "name": "Hace click en el botón Ver Planes",
+            "result": {
+              "status": "passed",
+              "duration": 134000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 47,
+            "name": "Selecciona el plan Escala",
+            "result": {
+              "status": "passed",
+              "duration": 750000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 48,
+            "name": "Registra datos del Usuario",
+            "result": {
+              "status": "passed",
+              "duration": 1751000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 49,
+            "name": "Llena los formularios del contrato",
+            "result": {
+              "status": "passed",
+              "duration": 4470000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 50,
+            "name": "Aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 3310000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 51,
+            "name": "Visualizar Detalle del contrato del plan a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 1054000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 52,
+            "name": "Visualizar Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 459000000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "  Como usuario quiero contratar un servicio de Producto Marketing.",
+    "keyword": "Feature",
+    "name": "Catalogo de Productos Marketing",
+    "line": 2,
+    "id": "catalogo-de-productos-marketing",
+    "tags": [
+      {
+        "name": "@productos",
+        "line": 1
+      }
+    ],
+    "uri": "productos.feature",
+    "elements": [
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(propiedad-detacada)",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Ingresar al catologo de productos Markenting (Propiedad Detacada)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-PropDestacada",
+            "line": 6
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 31178000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 13305000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 209000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "Selecciona y visualiza información del Producto Propiedad Destacada",
+            "result": {
+              "status": "passed",
+              "duration": 2835000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3251000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 291000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 5385000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 15,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1069000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(ultima-ventas)",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "Ingresar al catologo de productos Markenting (Ultima Ventas)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-UltimaV",
+            "line": 17
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 19,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 4953000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 11001000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 224000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 22,
+            "name": "Selecciona y visualiza información del Producto Ultima Ventas",
+            "result": {
+              "status": "passed",
+              "duration": 4295000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3248000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 271000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2340000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1090000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(mailing)",
+        "keyword": "Scenario",
+        "line": 29,
+        "name": "Ingresar al catologo de productos Markenting (Mailing)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-Mailing",
+            "line": 28
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 30,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3423000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 31,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 8942000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 32,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 187000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 33,
+            "name": "Selecciona y visualiza información del Producto Mailing",
+            "result": {
+              "status": "passed",
+              "duration": 2639000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 34,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3237000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 35,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 283000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 36,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2032000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 37,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 993000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(banner)",
+        "keyword": "Scenario",
+        "line": 40,
+        "name": "Ingresar al catologo de productos Markenting (Banner)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-Banner",
+            "line": 39
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 41,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3617000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 42,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 8725000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 43,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 195000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 44,
+            "name": "Selecciona y visualiza información del Producto Banner",
+            "result": {
+              "status": "passed",
+              "duration": 2946000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 45,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3266000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 46,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 290000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 47,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2380000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 48,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 984000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(banner-+-5-propdestacada)",
+        "keyword": "Scenario",
+        "line": 51,
+        "name": "Ingresar al catologo de productos Markenting (Banner + 5 PropDestacada)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-Banner+5prop",
+            "line": 50
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 52,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3347000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 53,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 8430000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 54,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 193000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 55,
+            "name": "Selecciona y visualiza información del Producto Banner + 5 PropDestacada",
+            "result": {
+              "status": "passed",
+              "duration": 3194000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 56,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3239000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 57,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 266000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 58,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2174000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 59,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 993000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(espacio-landing)",
+        "keyword": "Scenario",
+        "line": 62,
+        "name": "Ingresar al catologo de productos Markenting (Espacio Landing)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-EspacioLanding",
+            "line": 61
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 63,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3604000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 64,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 8772000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 65,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 192000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 66,
+            "name": "Selecciona y visualiza información del Producto Espacio Landing",
+            "result": {
+              "status": "passed",
+              "duration": 2519000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 67,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3249000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 68,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 357000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 69,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 3346000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 70,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1491000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(mail-500)",
+        "keyword": "Scenario",
+        "line": 73,
+        "name": "Ingresar al catologo de productos Markenting (Mail 500)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-Mail500",
+            "line": 72
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 74,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3444000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 75,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 9721000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 76,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 209000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 77,
+            "name": "Selecciona y visualiza información del Producto Mail500",
+            "result": {
+              "status": "passed",
+              "duration": 2405000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 78,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3245000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 79,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 276000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 80,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 1987000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 81,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 979000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(api-contacto)",
+        "keyword": "Scenario",
+        "line": 84,
+        "name": "Ingresar al catologo de productos Markenting (Api Contacto)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-ApiContacto",
+            "line": 83
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 85,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3255000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 86,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 8224000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 87,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 193000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 88,
+            "name": "Selecciona y visualiza información del Producto Api Contacto",
+            "result": {
+              "status": "passed",
+              "duration": 2880000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 89,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3255000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 90,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 382000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 91,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2296000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 92,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1120000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x5)",
+        "keyword": "Scenario",
+        "line": 95,
+        "name": "Ingresar al catologo de productos Markenting (Prop.Destacada x5)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-PropDestacadax5",
+            "line": 94
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 96,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3582000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 97,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 9176000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 98,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 209000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 99,
+            "name": "Selecciona y visualiza información del Producto Propiedad Destacada x5",
+            "result": {
+              "status": "passed",
+              "duration": 3296000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 100,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3293000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 101,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 288000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 102,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2194000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 103,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1408000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x15)",
+        "keyword": "Scenario",
+        "line": 106,
+        "name": "Ingresar al catologo de productos Markenting (Prop.Destacada x15)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-PropDestacadax15",
+            "line": 105
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 107,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3625000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 108,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 9554000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 109,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 270000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 110,
+            "name": "Selecciona y visualiza información del Producto Propiedad Destacada x15",
+            "result": {
+              "status": "passed",
+              "duration": 2838000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 111,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3255000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 112,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 296000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 113,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2278000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 114,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 972000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x30)",
+        "keyword": "Scenario",
+        "line": 117,
+        "name": "Ingresar al catologo de productos Markenting (Prop.Destacada x30)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-PropDestacadax30",
+            "line": 116
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 118,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 3938000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 119,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 14098000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 120,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 205000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 121,
+            "name": "Selecciona y visualiza información del Producto Propiedad Destacada x30",
+            "result": {
+              "status": "passed",
+              "duration": 2696000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 122,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3246000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 123,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 286000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 124,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 2155000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 125,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1043000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "catalogo-de-productos-marketing;ingresar-al-catologo-de-productos-markenting-(prop.destacada-x60)",
+        "keyword": "Scenario",
+        "line": 128,
+        "name": "Ingresar al catologo de productos Markenting (Prop.Destacada x60)",
+        "tags": [
+          {
+            "name": "@productos",
+            "line": 1
+          },
+          {
+            "name": "@producto-PropDestacadax60",
+            "line": 127
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 129,
+            "name": "El usuario está en Gestión Corredor",
+            "result": {
+              "status": "passed",
+              "duration": 2983000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 130,
+            "name": "Inicia cuenta con credenciales valida",
+            "result": {
+              "status": "passed",
+              "duration": 13480000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 131,
+            "name": "Hace click en el catalogo de Productos Marketing",
+            "result": {
+              "status": "passed",
+              "duration": 195000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 132,
+            "name": "Selecciona y visualiza información del Producto Propiedad Destacada x60",
+            "result": {
+              "status": "passed",
+              "duration": 3222000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 133,
+            "name": "Verifica los datos almacenados",
+            "result": {
+              "status": "passed",
+              "duration": 3278000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 134,
+            "name": "Declara conocer y aceptar los Términos y condiciones de TOCTOC",
+            "result": {
+              "status": "passed",
+              "duration": 284000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 135,
+            "name": "Visualiza Detalle del contrato del producto a contratar",
+            "result": {
+              "status": "passed",
+              "duration": 3103000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 136,
+            "name": "Visualiza Detalle de Pago",
+            "result": {
+              "status": "passed",
+              "duration": 1132000000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "description": "  Como usuario quiero contratar un servicio de un Plan o Producto Marketing.",
     "keyword": "Feature",
     "name": "Catalogo de Planes - Productos Marketing",

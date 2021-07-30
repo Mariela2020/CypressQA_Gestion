@@ -110,3 +110,118 @@ Valor del producto: $49.99;  5-5-202111:57:5
 Valor del producto: $7.99;  5-5-202111:57:5
 
 Valor del producto: $15.99;  5-5-202111:57:5
+
+Valor del producto: $15.99;  30-7-20219:48:17
+
+Valor del producto: $9.99;  30-7-20219:48:17
+
+Valor del producto: $29.99;  30-7-20219:48:17
+
+Valor del producto: $49.99;  30-7-20219:48:17
+
+Valor del producto: $7.99;  30-7-20219:48:17
+
+Valor del producto: $15.99;  30-7-20219:48:17
+valor del producto: $15.99;  Fri Jul 30 2021 09:56:56 GMT-0400 (hora estándar de Chile)
+
+Valor del producto: $9.99;  30-7-202110:14:3
+
+Valor del producto: $29.99;  30-7-202110:14:3
+
+Valor del producto: $15.99;  30-7-202110:14:3
+
+Valor del producto: $9.99;  30-7-202110:16:47
+
+Valor del producto: $29.99;  30-7-202110:16:47
+
+Valor del producto: $15.99;  30-7-202110:16:47
+
+Valor del producto: $9.99;  30-7-202110:17:55
+
+Valor del producto: $29.99;  30-7-202110:17:55
+
+Valor del producto: $15.99;  30-7-202110:17:55
+
+Valor del producto: $15.99;  30-7-202110:18:54
+
+Valor del producto: $9.99;  30-7-202110:18:54
+
+Valor del producto: $29.99;  30-7-202110:18:54
+
+Valor del producto: $49.99;  30-7-202110:18:54
+
+Valor del producto: $7.99;  30-7-202110:18:54
+
+Valor del producto: $15.99;  30-7-202110:18:54
+
+Valor del producto: $15.99;  30-7-202110:20:16
+
+Valor del producto: $9.99;  30-7-202110:20:16
+
+Valor del producto: $29.99;  30-7-202110:20:16
+
+Valor del producto: $49.99;  30-7-202110:20:16
+
+Valor del producto: $7.99;  30-7-202110:20:16
+
+Valor del producto: $15.99;  30-7-202110:20:16
+
+Valor del producto: $15.99;  30-7-202110:21:1
+
+Valor del producto: $9.99;  30-7-202110:21:1
+
+Valor del producto: $29.99;  30-7-202110:21:1
+
+Valor del producto: $49.99;  30-7-202110:21:1
+
+Valor del producto: $7.99;  30-7-202110:21:1
+
+Valor del producto: $15.99;  30-7-202110:21:1
+
+Valor del producto: $15.99;  30-7-202110:21:53
+
+Valor del producto: $9.99;  30-7-202110:21:53
+
+Valor del producto: $29.99;  30-7-202110:21:53
+
+Valor del producto: $49.99;  30-7-202110:21:53
+
+Valor del producto: $7.99;  30-7-202110:21:53
+
+Valor del producto: $15.99;  30-7-202110:21:53
+
+Valor del producto: $15.99;  30-7-202110:23:41
+
+Valor del producto: $9.99;  30-7-202110:23:41
+
+Valor del producto: $29.99;  30-7-202110:23:41
+
+Valor del producto: $49.99;  30-7-202110:23:41
+
+Valor del producto: $7.99;  30-7-202110:23:41
+
+Valor del producto: $15.99;  30-7-202110:23:41
+
+Valor del producto: $15.99;  30-7-202110:25:49
+
+Valor del producto: $9.99;  30-7-202110:25:49
+
+Valor del producto: $29.99;  30-7-202110:25:49
+
+Valor del producto: $49.99;  30-7-202110:25:49
+
+Valor del producto: $7.99;  30-7-202110:25:49
+
+Valor del producto: $15.99;  30-7-202110:25:49
+
+Valor del producto: $15.99;  30-7-202110:27:8
+
+Valor del producto: $9.99;  30-7-202110:27:8
+
+Valor del producto: $29.99;  30-7-202110:27:8
+
+Valor del producto: $49.99;  30-7-202110:27:8
+
+Valor del producto: $7.99;  30-7-202110:27:8
+
+Valor del producto: $15.99;  30-7-202110:27:8

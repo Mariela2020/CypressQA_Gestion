@@ -33,28 +33,11 @@ describe('LLamado a la API', function(){
             cy.writeFile('registroUF.txt', '\nUF: ' + value + ' ' + date + '  ' + hora, {flag:'a+'})
           })
 
-        }  
-    }) 
-     
-    
-  }) 
-  
-  /*
-  beforeEach(function(){
-        cy.request(`https://mindicador.cl/api/uf/${date}`).as('respuestaUF')
-      })
-   
-    it('Guarda el valor de la UF', function(){  
-  
-      cy.get('@respuestaUF').then((response) => {
-        var value = response.body.serie.map(e => e.valor).toString();
-        //var value1 = Math.round (value)
-        var someArr = { uf : (value),
-                        fecha : (date)};
-        cy.writeFile('cypress/fixtures/dataUF.json', someArr);
-        cy.writeFile('registroUF.txt', '\nUF: ' + value + ' ' + date + '  ' + hora, {flag:'a+'})
-      })
+        } 
 
-    })  */
+      })    
+  
+
+  })
 
 })

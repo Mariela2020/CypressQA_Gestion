@@ -14,35 +14,6 @@
     "uri": "planes.feature",
     "elements": [
       {
-        "id": "catalogo-de-planes;obtiene-el-valor-de-la-uf-del-dia",
-        "keyword": "Scenario",
-        "line": 7,
-        "name": "Obtiene el Valor de la UF del dia",
-        "tags": [
-          {
-            "name": "@planes",
-            "line": 1
-          },
-          {
-            "name": "@api",
-            "line": 6
-          }
-        ],
-        "type": "scenario",
-        "steps": [
-          {
-            "arguments": [],
-            "keyword": "Given ",
-            "line": 8,
-            "name": "Verifica el registro de la UF",
-            "result": {
-              "status": "passed",
-              "duration": 112000000
-            }
-          }
-        ]
-      },
-      {
         "id": "catalogo-de-planes;ingresar-al-catalogo-de-planes-de-gestion-corredor-(plan-inicia)",
         "keyword": "Scenario",
         "line": 11,
@@ -66,7 +37,7 @@
             "name": "El usuario se encuentra en Gestion Corredor",
             "result": {
               "status": "passed",
-              "duration": 5625000000
+              "duration": 3542000000
             }
           },
           {
@@ -76,7 +47,7 @@
             "name": "Hace click en el botón Ver Planes",
             "result": {
               "status": "passed",
-              "duration": 130000000
+              "duration": 141000000
             }
           },
           {
@@ -86,7 +57,7 @@
             "name": "Selecciona el plan Inicia",
             "result": {
               "status": "passed",
-              "duration": 789000000
+              "duration": 1958000000
             }
           },
           {
@@ -96,7 +67,7 @@
             "name": "Registra datos del Usuario",
             "result": {
               "status": "passed",
-              "duration": 1734000000
+              "duration": 1627000000
             }
           },
           {
@@ -106,7 +77,7 @@
             "name": "Llena los formularios del contrato",
             "result": {
               "status": "passed",
-              "duration": 4351000000
+              "duration": 4442000000
             }
           },
           {
@@ -116,7 +87,7 @@
             "name": "Aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 3302000000
+              "duration": 3282000000
             }
           },
           {
@@ -126,7 +97,7 @@
             "name": "Visualizar Detalle del contrato del plan a contratar",
             "result": {
               "status": "passed",
-              "duration": 4118000000
+              "duration": 3101000000
             }
           },
           {
@@ -135,8 +106,8 @@
             "line": 19,
             "name": "Visualizar Detalle de Pago",
             "result": {
-              "status": "passed",
-              "duration": 282000000
+              "status": "undefined",
+              "duration": 456000000
             }
           }
         ]
@@ -165,7 +136,7 @@
             "name": "El usuario se encuentra en Gestion Corredor",
             "result": {
               "status": "passed",
-              "duration": 3051000000
+              "duration": 2850000000
             }
           },
           {
@@ -175,7 +146,7 @@
             "name": "Hace click en el botón Ver Planes",
             "result": {
               "status": "passed",
-              "duration": 126000000
+              "duration": 174000000
             }
           },
           {
@@ -185,7 +156,7 @@
             "name": "Selecciona el plan Crece",
             "result": {
               "status": "passed",
-              "duration": 641000000
+              "duration": 1852000000
             }
           },
           {
@@ -195,7 +166,7 @@
             "name": "Registra datos del Usuario",
             "result": {
               "status": "passed",
-              "duration": 1731000000
+              "duration": 1982000000
             }
           },
           {
@@ -205,7 +176,7 @@
             "name": "Llena los formularios del contrato",
             "result": {
               "status": "passed",
-              "duration": 4652000000
+              "duration": 5403000000
             }
           },
           {
@@ -215,7 +186,7 @@
             "name": "Aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 3307000000
+              "duration": 3399000000
             }
           },
           {
@@ -224,8 +195,8 @@
             "line": 29,
             "name": "Visualizar Detalle del contrato del plan a contratar",
             "result": {
-              "status": "passed",
-              "duration": 1492000000
+              "status": "failed",
+              "error_message": "AssertionError: El Total del Resumen obtenido debe ser igual al Total esperado: expected 2.38 to equal 1.19\n    + expected - actual\n\n    -2.38\n    +1.19\n\n    at Context.eval (https://ww2.toctoc.com/__cypress/tests?p=cypress\\integration\\features\\planes.feature:775:91)"
             }
           },
           {
@@ -234,8 +205,7 @@
             "line": 30,
             "name": "Visualizar Detalle de Pago",
             "result": {
-              "status": "passed",
-              "duration": 340000000
+              "status": "skipped"
             }
           }
         ]
@@ -264,7 +234,7 @@
             "name": "El usuario se encuentra en Gestion Corredor",
             "result": {
               "status": "passed",
-              "duration": 1252000000
+              "duration": 2045000000
             }
           },
           {
@@ -274,7 +244,7 @@
             "name": "Hace click en el botón Ver Planes",
             "result": {
               "status": "passed",
-              "duration": 108000000
+              "duration": 190000000
             }
           },
           {
@@ -284,7 +254,7 @@
             "name": "Selecciona el plan Acelera",
             "result": {
               "status": "passed",
-              "duration": 591000000
+              "duration": 2048000000
             }
           },
           {
@@ -294,7 +264,7 @@
             "name": "Registra datos del Usuario",
             "result": {
               "status": "passed",
-              "duration": 1651000000
+              "duration": 2076000000
             }
           },
           {
@@ -304,7 +274,7 @@
             "name": "Llena los formularios del contrato",
             "result": {
               "status": "passed",
-              "duration": 4225000000
+              "duration": 5661000000
             }
           },
           {
@@ -314,7 +284,7 @@
             "name": "Aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 3301000000
+              "duration": 3466000000
             }
           },
           {
@@ -323,8 +293,8 @@
             "line": 40,
             "name": "Visualizar Detalle del contrato del plan a contratar",
             "result": {
-              "status": "passed",
-              "duration": 1031000000
+              "status": "failed",
+              "error_message": "AssertionError: El Total del Resumen obtenido debe ser igual al Total esperado: expected 3.57 to equal 1.19\n    + expected - actual\n\n    -3.57\n    +1.19\n\n    at Context.eval (https://ww2.toctoc.com/__cypress/tests?p=cypress\\integration\\features\\planes.feature:775:91)"
             }
           },
           {
@@ -333,8 +303,7 @@
             "line": 41,
             "name": "Visualizar Detalle de Pago",
             "result": {
-              "status": "passed",
-              "duration": 749000000
+              "status": "skipped"
             }
           }
         ]
@@ -363,7 +332,7 @@
             "name": "El usuario se encuentra en Gestion Corredor",
             "result": {
               "status": "passed",
-              "duration": 2651000000
+              "duration": 2273000000
             }
           },
           {
@@ -373,7 +342,7 @@
             "name": "Hace click en el botón Ver Planes",
             "result": {
               "status": "passed",
-              "duration": 134000000
+              "duration": 225000000
             }
           },
           {
@@ -383,7 +352,7 @@
             "name": "Selecciona el plan Escala",
             "result": {
               "status": "passed",
-              "duration": 750000000
+              "duration": 1704000000
             }
           },
           {
@@ -393,7 +362,7 @@
             "name": "Registra datos del Usuario",
             "result": {
               "status": "passed",
-              "duration": 1751000000
+              "duration": 2121000000
             }
           },
           {
@@ -403,7 +372,7 @@
             "name": "Llena los formularios del contrato",
             "result": {
               "status": "passed",
-              "duration": 4470000000
+              "duration": 5872000000
             }
           },
           {
@@ -413,7 +382,7 @@
             "name": "Aceptar los Términos y condiciones de TOCTOC",
             "result": {
               "status": "passed",
-              "duration": 3310000000
+              "duration": 3478000000
             }
           },
           {
@@ -422,8 +391,8 @@
             "line": 51,
             "name": "Visualizar Detalle del contrato del plan a contratar",
             "result": {
-              "status": "passed",
-              "duration": 1054000000
+              "status": "failed",
+              "error_message": "AssertionError: El Total del Resumen obtenido debe ser igual al Total esperado: expected 5.95 to equal 1.19\n    + expected - actual\n\n    -5.95\n    +1.19\n\n    at Context.eval (https://ww2.toctoc.com/__cypress/tests?p=cypress\\integration\\features\\planes.feature:775:91)"
             }
           },
           {
@@ -432,8 +401,7 @@
             "line": 52,
             "name": "Visualizar Detalle de Pago",
             "result": {
-              "status": "passed",
-              "duration": 459000000
+              "status": "skipped"
             }
           }
         ]

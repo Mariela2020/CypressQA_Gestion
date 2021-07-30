@@ -1,9 +1,9 @@
-@Demo
+
 Feature: Demo
 
     Selecciona un Articulo
 
-   @ejecutar
+    @ejecutar
     Scenario: Seleccionar articulo #3
       Given Navega a la Pagina 
         And Ingresa credenciales valida

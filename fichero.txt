@@ -888,3 +888,31 @@ Producto: Plan Inicia;  16-6-2021  11:55:23
 Precio del producto: Precio: UF 1;  16-6-2021  11:55:23
 Iva del producto: Iva: UF 0,19;  16-6-2021  11:55:23
 Total del producto:  UF 1,19;  16-6-2021  11:55:23
+
+Total Resumen: 1.19 UF ;  2-7-2021  11:50:43
+Producto: Plan Inicia;  2-7-2021  11:50:43
+Precio del producto: Precio: UF 1;  2-7-2021  11:50:43
+Iva del producto: Iva: UF 0,19;  2-7-2021  11:50:43
+Total del producto:  UF 1,19;  2-7-2021  11:50:43
+
+Total Resumen: 1.19 UF ;  2-7-2021  12:13:39
+Producto: Plan Inicia;  2-7-2021  12:13:39
+Precio del producto: Precio: UF 1;  2-7-2021  12:13:39
+Iva del producto: Iva: UF 0,19;  2-7-2021  12:13:39
+Total del producto:  UF 1,19;  2-7-2021  12:13:39
+
+Total Resumen: 1.19 UF ;  30-7-2021  9:47:46
+Producto: Plan Inicia;  30-7-2021  9:47:46
+Precio del producto: Precio: UF 1;  30-7-2021  9:47:46
+Valor del producto: Iva: UF 0,19;  30-7-2021  9:47:46
+Iva del producto:  UF 1,19;  30-7-2021  9:47:46
+
+Total Resumen: 1.19 UF ;  30-7-2021  9:49:9
+Nombre del producto: Sauce Labs Backpack;  Fri Jul 30 2021 09:56:08 GMT-0400 (hora estándar de Chile)
+valor del producto: $29.99;  Fri Jul 30 2021 09:56:08 GMT-0400 (hora estándar de Chile)
+
+Total Resumen: 1.19 UF ;  30-7-2021  9:57:57
+Producto: Plan Inicia;  30-7-2021  9:57:57
+Precio del producto: Precio: UF 1;  30-7-2021  9:57:57
+Iva del producto: Iva: UF 0,19;  30-7-2021  9:57:57
+Total del producto:  UF 1,19;  30-7-2021  9:57:57

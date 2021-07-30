@@ -52,7 +52,8 @@ const d = new Date
         cy.get('.btn').click()
         cy.title().should('eq','Pago de servicios')
 
-        cy.get('.col-md-8 > :nth-child(2)').then(function($valorelem){
+        cy.get('.btn-danger > span').then(function($valorelem){
+       // cy.get('.col-md-8 > :nth-child(2)').then(function($valorelem){
         
           const productotxt= $valorelem.text()
           cy.log(productotxt)
