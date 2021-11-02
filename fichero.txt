@@ -916,3 +916,6 @@ Producto: Plan Inicia;  30-7-2021  9:57:57
 Precio del producto: Precio: UF 1;  30-7-2021  9:57:57
 Iva del producto: Iva: UF 0,19;  30-7-2021  9:57:57
 Total del producto:  UF 1,19;  30-7-2021  9:57:57
+
+Total Resumen: 1.19 UF $  35.355 CLP;  19-8-2021  18:24:53
+Producto: Plan IniciaCobro por mes adelantado. Contrato mensual con renovación automática. Se debe avisar baja del servicio con un mes de anticipación. Periodo: 19/08/2021 - 19/09/2021. Contato: PL-2021819-2355;  19-8-2021  18:24:53

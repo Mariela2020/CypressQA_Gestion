@@ -19,7 +19,7 @@ const d = new Date
    
     it('Flujo Producto Marketing', function() {
      
-        cy.visit('https://ww2.toctoc.com/gestioncorredor/')
+        cy.visit('https://ww2.qatoctoc.com/gestioncorredor/')
         cy.title().should('eq','TOCTOC.com - Gestión corredor - Planes de publicación') 
         cy.get('.menu__section--profile > a').click()
         //cy.route2("${ssoGatewayUrl}/**").as('sso')

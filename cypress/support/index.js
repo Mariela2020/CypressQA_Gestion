@@ -25,6 +25,8 @@ require('cypress-xpath')
 
 require("coda-js")
 
+require('markdown-link-check')
+
 require('cypress-grep')
 
 Cypress.on('uncaught:exception', (err, runnable) => {

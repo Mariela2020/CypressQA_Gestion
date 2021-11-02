@@ -7,7 +7,8 @@
     "test": "npx cypress run",
     "cypress open": "npx cypress open",
     "testdata": "cypress run --spec 'cypress/integration/test_API_Testproject.js'",
-    "testdata1": "cypress run --spec 'cypress/integration/test_data_reporte_cy.js' | grep Flujo >> log.txt"
+    "testdata1": "cypress run --spec 'cypress/integration/test_data_reporte_cy.js' | grep Flujo >> log.txt",
+    "cyber": "cypress run --spec 'cypress/integration/test_caluga_cyber.js'"
   },
   "keywords": [
     "qa",
@@ -28,7 +29,8 @@
     "cucumber-html-reporter": "^5.4.0",
     "cypress-cucumber-preprocessor": "^4.1.0",
     "cypress-file-upload": "^5.0.6",
-    "cypress-grep": "^2.5.3"
+    "cypress-grep": "^2.5.3",
+    "markdown-link-check": "^3.8.7"
   },
   "cypress-cucumber-preprocessor": {
     "step_definitions": "cypress/integration/features/step_definitions/**/",

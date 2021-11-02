@@ -1,0 +1,1564 @@
+ Proyecto: Edificio Ottawa 4277 Depto 302
+id: 1 Precio caluga: Normal: UF 8.849 Proyecto: Villagra 161 Depto 203A
+id: 2 Precio caluga: Normal: UF 3.570 Proyecto: Edificio Visviri 1700 Depto 24
+id: 3 Precio caluga: Normal: UF 12.590 Proyecto: Siena Plaza Blanco Viel 1400 Depto 1114
+id: 4 Precio caluga: Normal: UF 2.809 Proyecto: Parque Victor Lamas - Edificio B Depto 1505
+id: 5 Precio caluga: Normal: UF 2.360 Proyecto: Edificio Martín de Zamora 4253 Depto 314
+id: 6 Precio caluga: Normal: UF 6.840 Proyecto: HAMBURGO 557 Depto 203
+id: 7 Precio caluga: Normal: UF 4.676 Proyecto: HOY Depto 204-B
+id: 8 Precio caluga: Normal: UF 3.101 Proyecto: Departamental II Depto 401
+id: 9 Precio caluga: Normal: UF 2.700 Proyecto: Isa Castillo Velasco Depto 506
+id: 10 Precio caluga: Normal: UF 6.915 Proyecto: Zenteno Depto 517
+id: 11 Precio caluga: Normal: UF 3.148 Proyecto: Mirador Playa Brava 2 Depto 906
+id: 12 Precio caluga: Normal: UF 8.160 Proyecto: LA VERBENA 4885 Depto 100
+id: 13 Precio caluga: Normal: UF 6.774 Proyecto: Proyecto Mirador Azul - La Florida Depto 25 B
+id: 14 Precio caluga: Normal: UF 3.360 Proyecto: Edificio Mirador Placeres Depto 1413
+id: 15 Precio caluga: Normal: UF 3.441 Proyecto: Edificio Nueva Arlegui Depto 506
+id: 16 Precio caluga: Normal: UF 4.128 Proyecto: Av. Perú Plaza Depto 1104
+id: 17 Precio caluga: Normal: UF 5.179 Proyecto: Av. Perú Plaza Depto 508
+id: 18 Precio caluga: Normal: UF 3.555 Proyecto: Edificio Plaza Pedro de Valdivia Depto 309 A
+id: 19 Precio caluga: Normal: UF 12.933 Proyecto: 2 Norte 1230 Depto B302
+id: 20 Precio caluga: Normal: UF 5.717 Proyecto: Edificio Mirador Martin de Zamora Depto 204
+id: 21 Precio caluga: Normal: UF 8.702 Proyecto: Clic Depto 1112
+id: 22 Precio caluga: Normal: UF 2.380 Proyecto: Edificio El Retiro Depto D14
+id: 23 Precio caluga: Normal: UF 2.524 Proyecto: Edificio Simón Bolívar 2543 Depto 104
+id: 24 Precio caluga: Normal: UF 7.230 Proyecto: Edificio Visviri 1700 Depto 74
+id: 25 Precio caluga: Normal: UF 13.000 Proyecto: EDIFICIO JULIO PRADO 2110 Depto 304
+id: 26 Precio caluga: Normal: UF 5.430 Proyecto: Edificio San José Depto 310
+id: 27 Precio caluga: Normal: UF 4.460 Proyecto: Edificio San José Depto 107
+id: 28 Precio caluga: Normal: UF 3.378 Proyecto: Brown Plaza Ñuñoa Depto 504
+id: 29 Precio caluga: Normal: UF 3.100 Proyecto: Touch Depto 506
+id: 30 Precio caluga: Normal: UF 2.867 Proyecto: Edificio Nueva Arlegui Depto 502
+id: 31 Precio caluga: Normal: UF 3.961 Proyecto: Quilín 4811 Depto 504
+id: 32 Precio caluga: Normal: UF 3.010 Proyecto: Plaza Fluvial Depto 805
+id: 33 Precio caluga: Normal: UF 3.075 Proyecto: Edificio Ottawa 4277 Depto 309
+id: 34 Precio caluga: Normal: UF 8.677 Proyecto: Av. Perú Plaza Depto 1018
+id: 35 Precio caluga: Normal: UF 3.617 Proyecto: Edificio Simón Bolívar 2543 Depto 151
+id: 36 Precio caluga: Normal: UF 10.330 Proyecto: Proyecto Mirador Azul - La Florida Depto 23 B
+id: 37 Precio caluga: Normal: UF 3.300 Proyecto: Edificio NEW Depto 1202
+id: 38 Precio caluga: Normal: UF 4.110 Proyecto: Isa Castillo Velasco Depto 502
+id: 39 Precio caluga: Normal: UF 6.238 Proyecto: HAMBURGO 557 Depto 307
+id: 40 Precio caluga: Normal: UF 6.720 Proyecto: Prado 1810 Depto 107
+id: 41 Precio caluga: Normal: UF 5.830 Proyecto: HOLANDA 3451 Depto 200
+id: 42 Precio caluga: Normal: UF 6.568 Proyecto: Exequiel II Depto 801
+id: 43 Precio caluga: Normal: UF 4.082 Proyecto: Pajaritos del Parque Torre 6 Depto 1732
+id: 44 Precio caluga: Normal: UF 4.096 Proyecto: Av. Perú Plaza Depto 913
+id: 45 Precio caluga: Normal: UF 3.585 Proyecto: Edificio Martín de Zamora 4253 Depto 212
+id: 46 Precio caluga: Normal: UF 10.410 Proyecto: Parque Los Abedules Depto B706
+id: 47 Precio caluga: Normal: UF 3.191 Proyecto: ALike Depto 205
+id: 48 Precio caluga: Normal: UF 4.044 Proyecto: 2 Norte 1230 Depto A403
+id: 49 Precio caluga: Normal: UF 5.296 Proyecto: 2 Norte 1230 Depto B308
+id: 50 Precio caluga: Normal: UF 3.648 Proyecto: Edificio Ottawa 4277 Depto 307
+id: 51 Precio caluga: Normal: UF 8.807 Proyecto: Parque Los Abedules Depto B1103
+id: 52 Precio caluga: Normal: UF 4.207 Proyecto: Exequiel II Depto 604
+id: 53 Precio caluga: Normal: UF 4.298 Proyecto: Touch Depto 304
+id: 54 Precio caluga: Normal: UF 3.912 Proyecto: Edificio Mirador Martin de Zamora Depto 301
+id: 55 Precio caluga: Normal: UF 12.986 Proyecto: Parque Los Abedules Depto B1102
+id: 56 Precio caluga: Normal: UF 4.526 Proyecto: Parque Los Abedules Depto B705
+id: 57 Precio caluga: Normal: UF 2.623 Proyecto: Lyon View Depto 407B
+id: 58 Precio caluga: Normal: UF 5.833 Proyecto: Ñuñoa View Depto 203
+id: 59 Precio caluga: Normal: UF 3.710 Proyecto: Siena Plaza Blanco Viel 1400 Depto 1402
+id: 60 Precio caluga: Normal: UF 2.786 Proyecto: Pajaritos del Parque Torre 6 Depto 1735
+id: 61 Precio caluga: Normal: UF 3.222 Proyecto: ALike Depto 1714
+id: 62 Precio caluga: Normal: UF 4.024 Proyecto: Santa Petronila Plaza Depto 2404
+id: 63 Precio caluga: Normal: UF 2.905 Proyecto: Pajaritos del Parque Torre 6 Depto 1634
+id: 64 Precio caluga: Normal: UF 3.222 Proyecto: EDIFICIO PORTA PINZON Depto 201
+id: 65 Precio caluga: Normal: UF 15.055 Proyecto: Edificio Ottawa 4277 Depto 205
+id: 66 Precio caluga: Normal: UF 7.308 Proyecto: Edificio Ilumina Depto 74
+id: 67 Precio caluga: Normal: UF 4.199 Proyecto: HOY Depto 721-B
+id: 68 Precio caluga: Normal: UF 2.121 Proyecto: Parque Victor Lamas - Edificio B Depto 1405
+id: 69 Precio caluga: Normal: UF 2.345 Proyecto: Edificio Mirador Martin de Zamora Depto 402
+id: 70 Precio caluga: Normal: UF 11.767 Proyecto: Mirador Playa Brava 3 Depto 3302
+id: 71 Precio caluga: Normal: UF 4.348 Proyecto: Exequiel II Depto 1110
+id: 72 Precio caluga: Normal: UF 3.674 Proyecto: Proyecto Mirador Azul - La Florida Depto 131 B
+id: 73 Precio caluga: Normal: UF 3.820 Proyecto: Edificio San José Depto 102
+id: 74 Precio caluga: Normal: UF 3.020 Proyecto: Villagra 161 Depto 507B
+id: 75 Precio caluga: Normal: UF 3.790 Proyecto: HOLANDA 1101 Depto 204
+id: 76 Precio caluga: Normal: UF 10.124 Proyecto: Edificio Ottawa 4277 Depto 201
+id: 77 Precio caluga: Normal: UF 7.346 Proyecto: Quilín 4811 Depto 215
+id: 78 Precio caluga: Normal: UF 4.400 Proyecto: 2 Norte 1230 Depto B405
+id: 79 Precio caluga: Normal: UF 3.793 Proyecto: Touch Depto 1707
+id: 80 Precio caluga: Normal: UF 4.360 Proyecto: Mirador Playa Brava 3 Depto 3301
+id: 81 Precio caluga: Normal: UF 3.950 Proyecto: Edificio Ottawa 4277 Depto 306
+id: 82 Precio caluga: Normal: UF 7.319 Proyecto: ALike Depto 105
+id: 83 Precio caluga: Normal: UF 3.446 Proyecto: Edificio Alto Villaseca Depto M203
+id: 84 Precio caluga: Normal: UF 5.190 Proyecto: Edificio Chiloé-Prat Depto 434
+id: 85 Precio caluga: Normal: UF 3.371 Proyecto: Edificio El Retiro Depto D12
+id: 86 Precio caluga: Normal: UF 2.578 Proyecto: Plaza Fluvial Depto 709
+id: 87 Precio caluga: Normal: UF 4.795 Proyecto: Edificio NEW Depto 511
+id: 88 Precio caluga: Normal: UF 3.090 Proyecto: Perú Plaza II Depto 1105
+id: 89 Precio caluga: Normal: UF 4.780 Proyecto: Santa Petronila Plaza Depto 717
+id: 90 Precio caluga: Normal: UF 1.855 Proyecto: Edificio Martín de Zamora 4253 Depto 310
+id: 91 Precio caluga: Normal: UF 12.020 Proyecto: Edificio Lyon 800 Depto 203
+id: 92 Precio caluga: Normal: UF 8.840 Proyecto: Edificio Martín de Zamora 4253 Depto 205
+id: 93 Precio caluga: Normal: UF 10.120 Proyecto: Edificio El Retiro Depto D201
+id: 94 Precio caluga: Normal: UF 3.292 Proyecto: Departamental II Depto 714
+id: 95 Precio caluga: Normal: UF 3.550 Proyecto: Santa Petronila Plaza Depto 2412
+id: 96 Precio caluga: Normal: UF 3.005 Proyecto: Av. Perú Plaza Depto 414
+id: 97 Precio caluga: Normal: UF 3.653 Proyecto: Edificio Ottawa 4277 Depto 202
+id: 98 Precio caluga: Normal: UF 8.835 Proyecto: Edificio Nueva Arlegui Depto 201
+id: 99 Precio caluga: Normal: UF 4.963 Proyecto: Departamental II Depto 409
+id: 100 Precio caluga: Normal: UF 3.390 Proyecto: Perú Plaza II Depto 1013
+id: 101 Precio caluga: Normal: UF 4.230 Proyecto: Edificio San José Depto 201
+id: 102 Precio caluga: Normal: UF 3.378 Proyecto: Edificio San José Depto 203
+id: 103 Precio caluga: Normal: UF 4.140 Proyecto: Parque Victor Lamas - Edificio B Depto 1402
+id: 104 Precio caluga: Normal: UF 2.286 Proyecto: Perú Plaza II Depto 315
+id: 105 Precio caluga: Normal: UF 3.610 Proyecto: Edificio Mirador Martin de Zamora Depto 206
+id: 106 Precio caluga: Normal: UF 8.780 Proyecto: Edmundo Eluchans Plaza Depto 511
+id: 107 Precio caluga: Normal: UF 5.379 Proyecto: Edificio Lyon 800 Depto 1210
+id: 108 Precio caluga: Normal: UF 13.990 Proyecto: Edificio Mirador Martin de Zamora Depto 403
+id: 109 Precio caluga: Normal: UF 8.313 Proyecto: Edificio Ottawa 4277 Depto 404
+id: 110 Precio caluga: Normal: UF 8.865 Proyecto: HOLANDA 3451 Depto 500
+id: 111 Precio caluga: Normal: UF 7.006 Proyecto: Edificio Mirador Martin de Zamora Depto 203
+id: 112 Precio caluga: Normal: UF 7.883 Proyecto: Touch Depto 1706
+id: 113 Precio caluga: Normal: UF 2.820 Proyecto: Touch Depto 215
+id: 114 Precio caluga: Normal: UF 3.774 Proyecto: Edificio Ilumina Depto 43
+id: 115 Precio caluga: Normal: UF 4.233 Proyecto: Edificio El Retiro Depto D13
+id: 116 Precio caluga: Normal: UF 2.524 Proyecto: ALike Depto 1302
+id: 117 Precio caluga: Normal: UF 2.948 Proyecto: Edificio Nueva Arlegui Depto 302
+id: 118 Precio caluga: Normal: UF 4.593 Proyecto: Edificio San José Depto 207
+id: 119 Precio caluga: Normal: UF 3.445 Proyecto: Puerto Pewun Depto 507
+id: 120 Precio caluga: Normal: UF 3.865 Proyecto: Departamental II Depto 1401
+id: 121 Precio caluga: Normal: UF 2.650 Proyecto: ALike Depto 1803
+id: 122 Precio caluga: Normal: UF 6.533 Proyecto: Puerto Pewun Depto 308
+id: 123 Precio caluga: Normal: UF 5.458 Proyecto: Siena Plaza Blanco Viel 1400 Depto 1102
+id: 124 Precio caluga: Normal: UF 2.809 Proyecto: Isa Castillo Velasco Depto 405
+id: 125 Precio caluga: Normal: UF 4.904 Proyecto: HOY Depto 112-A
+id: 126 Precio caluga: Normal: UF 4.472 Proyecto: Edificio Mirador Martin de Zamora Depto 305
+id: 127 Precio caluga: Normal: UF 9.239 Proyecto: Siena Plaza Blanco Viel 1400 Depto 614
+id: 128 Precio caluga: Normal: UF 2.752 Proyecto: Lyon View Depto 203A
+id: 129 Precio caluga: Normal: UF 9.837 Proyecto: Edificio Lyon 800 Depto 209
+id: 130 Precio caluga: Normal: UF 13.900 Proyecto: Lyon View Depto 301A
+id: 131 Precio caluga: Normal: UF 8.754 Proyecto: Edificio Martín de Zamora 4253 Depto 316
+id: 132 Precio caluga: Normal: UF 10.400 Proyecto: Edificio Mirador Placeres Depto 2201
+id: 133 Precio caluga: Normal: UF 3.471 Proyecto: 2 Norte 1230 Depto B406
+id: 134 Precio caluga: Normal: UF 5.121 Proyecto: Perú Plaza II Depto 904
+id: 135 Precio caluga: Normal: UF 4.740 Proyecto: Edificio Chiloé-Prat Depto 427
+id: 136 Precio caluga: Normal: UF 2.731 Proyecto: Perú Plaza II Depto 307
+id: 137 Precio caluga: Normal: UF 2.960 Proyecto: EDIFICIO JULIO PRADO 2110 Depto 306
+id: 138 Precio caluga: Normal: UF 5.992 Proyecto: Proyecto Mirador Azul - La Florida Depto 223 B
+id: 139 Precio caluga: Normal: UF 3.720 Proyecto: Exequiel II Depto 1613
+id: 140 Precio caluga: Normal: UF 3.709 Proyecto: 2 Norte 1230 Depto B301
+id: 141 Precio caluga: Normal: UF 3.678 Proyecto: Av. Perú Plaza Depto 1103
+id: 142 Precio caluga: Normal: UF 3.693 Proyecto: Santa Petronila Plaza Depto 2411
+id: 143 Precio caluga: Normal: UF 3.012 Proyecto: Edificio Ottawa 4277 Depto 502
+id: 144 Precio caluga: Normal: UF 8.848 Proyecto: Parque Victor Lamas - Edificio B Depto 1602
+id: 145 Precio caluga: Normal: UF 2.316 Proyecto: Edificio El Retiro Depto D25
+id: 146 Precio caluga: Normal: UF 3.242 Proyecto: Villagra 161 Depto 204A
+id: 147 Precio caluga: Normal: UF 3.520 Proyecto: Proyecto Mirador Azul - La Florida Depto 33 B
+id: 148 Precio caluga: Normal: UF 3.400 Proyecto: Edmundo Eluchans Plaza Depto 510
+id: 149 Precio caluga: Normal: UF 5.379 Proyecto: Edificio Alto Villaseca Depto C306
+id: 150 Precio caluga: Normal: UF 4.390 Proyecto: Edificio Chiloé-Prat Depto 306
+id: 151 Precio caluga: Normal: UF 3.698 Proyecto: Isa Castillo Velasco Depto 504
+id: 152 Precio caluga: Normal: UF 7.401 Proyecto: Zenteno Depto 201
+id: 153 Precio caluga: Normal: UF 3.868 Proyecto: Mirador Playa Brava 2 Depto 3006
+id: 154 Precio caluga: Normal: UF 8.648 Proyecto: Parque Victor Lamas - Edificio B Depto 1305
+id: 155 Precio caluga: Normal: UF 2.330 Proyecto: Proyecto Mirador Azul - La Florida Depto 38 B
+id: 156 Precio caluga: Normal: UF 3.850 Proyecto: Edificio El Retiro Depto D303
+id: 157 Precio caluga: Normal: UF 2.624 Proyecto: Edificio Ilumina Depto 205
+id: 158 Precio caluga: Normal: UF 4.297 Proyecto: Edificio Simón Bolívar 2543 Depto 106
+id: 159 Precio caluga: Normal: UF 10.600 Proyecto: Edmundo Eluchans Plaza Depto 609
+id: 160 Precio caluga: Normal: UF 5.612 Proyecto: Santa Petronila Plaza Depto 1006
+id: 161 Precio caluga: Normal: UF 3.030 Proyecto: Edificio Visviri 1700 Depto 23
+id: 162 Precio caluga: Normal: UF 8.380 Proyecto: Ñuñoa View Depto 220
+id: 163 Precio caluga: Normal: UF 4.632 Proyecto: Edificio Nueva Arlegui Depto 504
+id: 164 Precio caluga: Normal: UF 4.565 Proyecto: Departamental II Depto 604
+id: 165 Precio caluga: Normal: UF 3.550 Proyecto: Departamental II Depto 1201
+id: 166 Precio caluga: Normal: UF 2.660 Proyecto: HAMBURGO 557 Depto 104
+id: 167 Precio caluga: Normal: UF 5.339 Proyecto: 2 Norte 1230 Depto A401
+id: 168 Precio caluga: Normal: UF 5.245 Proyecto: Isa Castillo Velasco Depto 501
+id: 169 Precio caluga: Normal: UF 8.553 Proyecto: Edificio Ilumina Depto 97
+id: 170 Precio caluga: Normal: UF 5.711 Proyecto: LA VERBENA 4885 Depto 205
+id: 171 Precio caluga: Normal: UF 6.714 Proyecto: Mirador Playa Brava 3 Depto 3201
+id: 172 Precio caluga: Normal: UF 3.928 Proyecto: Edificio Nueva Arlegui Depto 202
+id: 173 Precio caluga: Normal: UF 4.533 Proyecto: Isa Castillo Velasco Depto 508
+id: 174 Precio caluga: Normal: UF 4.669 Proyecto: Edificio Simón Bolívar 2543 Depto 97
+id: 175 Precio caluga: Normal: UF 7.180 Proyecto: Pajaritos del Parque Torre 6 Depto 1535
+id: 176 Precio caluga: Normal: UF 3.222 Proyecto: Clic Depto 206
+id: 177 Precio caluga: Normal: UF 3.181 Proyecto: Edificio Plaza Pedro de Valdivia Depto 308 A
+id: 178 Precio caluga: Normal: UF 8.651 Proyecto: Zenteno Depto 507
+ Proyecto: Villagra 161 Depto 204A
+id: 179 Precio caluga: Normal: UF 3.520 Proyecto: Edificio Ottawa 4277 Depto 304
+id: 180 Precio caluga: Normal: UF 8.850 Proyecto: 2 NORTE 1230 Depto B302
+id: 181 Precio caluga: Normal: UF 5.717 Proyecto: Edificio Ottawa 4277 Depto 202
+id: 182 Precio caluga: Normal: UF 8.835 Proyecto: Villagra 161 Depto 203A
+id: 183 Precio caluga: Normal: UF 3.570 Proyecto: Quilín 4811 Depto 205
+id: 184 Precio caluga: Normal: UF 2.920 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 402
+id: 185 Precio caluga: Normal: UF 11.767 Proyecto: Edificio Martín de Zamora 4253 Depto 310
+id: 186 Precio caluga: Normal: UF 12.020 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 401
+id: 187 Precio caluga: Normal: UF 13.323 Proyecto: Departamental II Depto 409
+id: 188 Precio caluga: Normal: UF 3.390 Proyecto: Av. Perú Plaza Depto 1103
+id: 189 Precio caluga: Normal: UF 3.693 Proyecto: Edificio Plaza Pedro de Valdivia Depto 306 A
+id: 190 Precio caluga: Normal: UF 11.547 Proyecto: HAMBURGO 557 Depto 307
+id: 191 Precio caluga: Normal: UF 6.720 Proyecto: LA VERBENA 4885 Depto 205
+id: 192 Precio caluga: Normal: UF 6.714 Proyecto: Edmundo Eluchans Plaza Depto 511
+id: 193 Precio caluga: Normal: UF 5.379 Proyecto: Proyecto Mirador Azul - La Florida Depto 135 B
+id: 194 Precio caluga: Normal: UF 3.820 Proyecto: Edificio Simón Bolívar 2543 Depto 97
+id: 195 Precio caluga: Normal: UF 7.180 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 203
+id: 196 Precio caluga: Normal: UF 7.883 Proyecto: Parque Victor Lamas - Edificio B Depto 1505
+id: 197 Precio caluga: Normal: UF 2.360 Proyecto: Edificio Lyon 800 Depto 1110
+id: 198 Precio caluga: Normal: UF 14.100 Proyecto: Zenteno Depto 201
+id: 199 Precio caluga: Normal: UF 3.868 Proyecto: Edificio El Retiro Depto D13
+id: 200 Precio caluga: Normal: UF 2.524 Proyecto: Ñuñoa View Depto 203
+id: 201 Precio caluga: Normal: UF 3.710 Proyecto: Edificio Ottawa 4277 Depto 205
+id: 202 Precio caluga: Normal: UF 7.308 Proyecto: Touch Depto 304
+id: 203 Precio caluga: Normal: UF 3.912 Proyecto: Ñuñoa View Depto 301
+id: 204 Precio caluga: Normal: UF 2.902 Proyecto: Edificio El Retiro Depto D11
+id: 205 Precio caluga: Normal: UF 3.222 Proyecto: Exequiel II Depto 1508
+id: 206 Precio caluga: Normal: UF 4.023 Proyecto: Av. Perú Plaza Depto 1018
+id: 207 Precio caluga: Normal: UF 3.617 Proyecto: Siena Plaza Blanco Viel 1400 Depto 1114
+id: 208 Precio caluga: Normal: UF 2.809 Proyecto: Perú Plaza II Depto 307
+id: 209 Precio caluga: Normal: UF 2.960 Proyecto: PARQUE LOS ABEDULES Depto B1103
+id: 210 Precio caluga: Normal: UF 4.207 Proyecto: Av. Perú Plaza Depto 506
+id: 211 Precio caluga: Normal: UF 2.846 Proyecto: Siena Plaza Blanco Viel 1400 Depto 1001
+id: 212 Precio caluga: Normal: UF 2.809 Proyecto: Touch Depto 1706
+id: 213 Precio caluga: Normal: UF 2.820 Proyecto: Edificio Chiloé-Prat Depto 409
+id: 214 Precio caluga: Normal: UF 4.078 Proyecto: Edmundo Eluchans Plaza Depto 708
+id: 215 Precio caluga: Normal: UF 5.667 Proyecto: Quilín 4811 Depto 215
+id: 216 Precio caluga: Normal: UF 4.400 Proyecto: Puerto Pewun Depto 507
+id: 217 Precio caluga: Normal: UF 3.865 Proyecto: Isa Castillo Velasco Depto 502
+id: 218 Precio caluga: Normal: UF 6.238 Proyecto: Prado 1810 Depto 107
+id: 219 Precio caluga: Normal: UF 5.830 Proyecto: Edificio Martín de Zamora 4253 Depto 212
+id: 220 Precio caluga: Normal: UF 10.410 Proyecto: Exequiel II Depto 1613
+id: 221 Precio caluga: Normal: UF 3.709 Proyecto: Edificio El Retiro Depto D205
+id: 222 Precio caluga: Normal: UF 3.292 Proyecto: Isa Castillo Velasco Depto 509
+id: 223 Precio caluga: Normal: UF 6.879 Proyecto: Edificio Lyon 800 Depto 203
+id: 224 Precio caluga: Normal: UF 8.840 Proyecto: Lyon View Depto 301A
+id: 225 Precio caluga: Normal: UF 8.754 Proyecto: Edificio Plaza Pedro de Valdivia Depto 308 A
+id: 226 Precio caluga: Normal: UF 8.651 Proyecto: Edificio Ilumina Depto 303
+id: 227 Precio caluga: Normal: UF 4.429 Proyecto: Edificio Alto Villaseca Depto C306
+id: 228 Precio caluga: Normal: UF 4.390 Proyecto: Edificio Chiloé-Prat Depto 306
+id: 229 Precio caluga: Normal: UF 3.698 Proyecto: HOLANDA 1101 Depto 504
+id: 230 Precio caluga: Normal: UF 11.344 Proyecto: Edificio Visviri 1700 Depto 23
+id: 231 Precio caluga: Normal: UF 8.380 Proyecto: Edificio Simón Bolívar 2543 Depto 151
+id: 232 Precio caluga: Normal: UF 10.330 Proyecto: Edificio Martín de Zamora 4253 Depto 309
+id: 233 Precio caluga: Normal: UF 11.770 Proyecto: Edificio San José Depto 310
+id: 234 Precio caluga: Normal: UF 4.460 Proyecto: Mirador Playa Brava 2 Depto 906
+id: 235 Precio caluga: Normal: UF 8.160 Proyecto: Siena Plaza Blanco Viel 1400 Depto 1402
+id: 236 Precio caluga: Normal: UF 2.786 Proyecto: Edificio Simón Bolívar 2543 Depto 107
+id: 237 Precio caluga: Normal: UF 7.290 Proyecto: ALike Depto 1302
+id: 238 Precio caluga: Normal: UF 2.948 Proyecto: Edificio Lyon 800 Depto 209
+id: 239 Precio caluga: Normal: UF 13.900 Proyecto: EDIFICIO PORTA PINZON Depto 205
+id: 240 Precio caluga: Normal: UF 15.226 Proyecto: Edificio Lyon 800 Depto 304
+id: 241 Precio caluga: Normal: UF 8.800 Proyecto: NUEVA ARLEGUI Depto 506
+id: 242 Precio caluga: Normal: UF 4.128 Proyecto: Departamental II Depto 1403
+id: 243 Precio caluga: Normal: UF 2.640 Proyecto: Touch Depto 215
+id: 244 Precio caluga: Normal: UF 3.774 Proyecto: Pajaritos del Parque Torre 6 Depto 1735
+id: 245 Precio caluga: Normal: UF 3.222 Proyecto: Edificio Alto Villaseca Depto M203
+id: 246 Precio caluga: Normal: UF 5.190 Proyecto: Lyon View Depto 203A
+id: 247 Precio caluga: Normal: UF 9.837 Proyecto: Santa Petronila Plaza Depto 717
+id: 248 Precio caluga: Normal: UF 1.855 Proyecto: Edificio Ilumina Depto 43
+id: 249 Precio caluga: Normal: UF 4.233 Proyecto: Parque Victor Lamas - Edificio B Depto 1405
+id: 250 Precio caluga: Normal: UF 2.345 Proyecto: Edificio El Retiro Depto D201
+id: 251 Precio caluga: Normal: UF 3.292 Proyecto: 2 NORTE 1230 Depto A401
+id: 252 Precio caluga: Normal: UF 5.245 Proyecto: HAMBURGO 557 Depto 104
+id: 253 Precio caluga: Normal: UF 5.339 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 302
+id: 254 Precio caluga: Normal: UF 11.602 Proyecto: Edificio Mirador Placeres Depto 1413
+id: 255 Precio caluga: Normal: UF 3.441 Proyecto: Edificio Chiloé-Prat Depto 427
+id: 256 Precio caluga: Normal: UF 2.731 Proyecto: 2 NORTE 1230 Depto B301
+id: 257 Precio caluga: Normal: UF 3.678 Proyecto: Edificio Ottawa 4277 Depto 404
+id: 258 Precio caluga: Normal: UF 8.865 Proyecto: Edificio NEW Depto 1202
+id: 259 Precio caluga: Normal: UF 4.110 Proyecto: Mirador Playa Brava 3 Depto 3202
+id: 260 Precio caluga: Normal: UF 4.314 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 202
+id: 261 Precio caluga: Normal: UF 11.033 Proyecto: Parque Victor Lamas - Edificio B Depto 1602
+id: 262 Precio caluga: Normal: UF 2.316 Proyecto: Edificio El Retiro Depto D14
+id: 263 Precio caluga: Normal: UF 2.524 Proyecto: HOY Depto 314-B
+id: 264 Precio caluga: Normal: UF 4.545 Proyecto: Edificio El Retiro Depto D25
+id: 265 Precio caluga: Normal: UF 3.242 Proyecto: HOY Depto 709-A
+id: 266 Precio caluga: Normal: UF 2.094 Proyecto: Perú Plaza II Depto 1013
+id: 267 Precio caluga: Normal: UF 4.230 Proyecto: Puerto Pewun Depto 305
+id: 268 Precio caluga: Normal: UF 8.353 Proyecto: Edificio Ilumina Depto 25
+id: 269 Precio caluga: Normal: UF 4.021 Proyecto: Edificio Ottawa 4277 Depto 306
+id: 270 Precio caluga: Normal: UF 7.319 Proyecto: Edificio San José Depto 203
+id: 271 Precio caluga: Normal: UF 4.140 Proyecto: Av. Perú Plaza Depto 414
+id: 272 Precio caluga: Normal: UF 3.653 Proyecto: Exequiel II Depto 604
+id: 273 Precio caluga: Normal: UF 4.298 Proyecto: LA VERBENA 4885 Depto 100
+id: 274 Precio caluga: Normal: UF 6.774 Proyecto: Mirador Playa Brava 3 Depto 3102
+id: 275 Precio caluga: Normal: UF 4.281 Proyecto: HOLANDA 1101 Depto 204
+id: 276 Precio caluga: Normal: UF 10.124 Proyecto: Departamental II Depto 604 Proyecto: Edificio Ottawa 4277 Depto 204
+id: 276 Precio caluga: Normal: UF 8.836 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 402
+id: 277 Precio caluga: Normal: UF 11.767 Proyecto: Edificio Mirador Placeres Depto 2201
+id: 278 Precio caluga: Normal: UF 3.471 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 302
+id: 279 Precio caluga: Normal: UF 11.602 Proyecto: Santa Petronila Plaza Depto 308
+id: 280 Precio caluga: Normal: UF 2.905 Proyecto: Edificio Simón Bolívar 2543 Depto 104
+id: 281 Precio caluga: Normal: UF 7.230 Proyecto: HOLANDA 3451 Depto 202
+id: 282 Precio caluga: Normal: UF 8.132 Proyecto: Proyecto Mirador Azul - La Florida Depto 33 B
+id: 283 Precio caluga: Normal: UF 3.400 Proyecto: ALike Depto 205
+id: 284 Precio caluga: Normal: UF 4.044 Proyecto: Edificio Visviri 1700 Depto 24
+id: 285 Precio caluga: Normal: UF 12.590 Proyecto: NUEVA ARLEGUI Depto 403
+id: 286 Precio caluga: Normal: UF 4.443 Proyecto: Exequiel II Depto 1613
+id: 287 Precio caluga: Normal: UF 3.709 Proyecto: Edificio Lyon 800 Depto 304
+id: 288 Precio caluga: Normal: UF 8.800 Proyecto: Perú Plaza II Depto 1103
+id: 289 Precio caluga: Normal: UF 5.550 Proyecto: Edificio Alto Villaseca Depto M203
+id: 290 Precio caluga: Normal: UF 5.190 Proyecto: Touch Depto 1706
+id: 291 Precio caluga: Normal: UF 2.820 Proyecto: Villagra 161 Depto 206-A
+id: 292 Precio caluga: Normal: UF 4.525
+
+_______________________________________________________________ modo 2
+
+id: 1 Proyecto: Quilín 4811 Depto 504 Precio caluga: Normal: UF 3.010
+id: 1 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 301 Precio caluga: Normal: UF 12.986
+id: 1 Proyecto: Touch Depto 215 Precio caluga: Normal: UF 3.774
+id: 2 Proyecto: Villagra 161 Depto 507B Precio caluga: Normal: UF 3.790
+id: 3 Proyecto: Mirador Playa Brava 3 Depto 3002 Precio caluga: Normal: UF 4.248
+
+_____________________________________________________________ 2da corrida
+
+id: 1 Proyecto: NUEVA ARLEGUI Depto 505 Precio caluga: Normal: UF 5.526
+id: 2 Proyecto: Edificio NEW Depto 511 Precio caluga: Normal: UF 3.090
+id: 3 Proyecto: Proyecto Mirador Azul - La Florida Depto 228 B Precio caluga: Normal: UF 4.170
+id: 4 Proyecto: Santa Petronila Plaza Depto 717 Precio caluga: Normal: UF 1.855
+id: 5 Proyecto: Edificio El Retiro Depto D14 Precio caluga: Normal: UF 2.524
+id: 6 Proyecto: Edificio Martín de Zamora 4253 Depto 309 Precio caluga: Normal: UF 11.770
+id: 7 Proyecto: Edificio Martín de Zamora 4253 Depto 310 Precio caluga: Normal: UF 12.020
+id: 8 Proyecto: Edificio Chiloé-Prat Depto 306 Precio caluga: Normal: UF 3.698
+id: 9 Proyecto: Av. Perú Plaza Depto 1216 Precio caluga: Normal: UF 3.801
+id: 10 Proyecto: Isa Castillo Velasco Depto 506 Precio caluga: Normal: UF 6.915
+id: 11 Proyecto: Edificio San José Depto 102 Precio caluga: Normal: UF 3.020
+id: 12 Proyecto: Siena Parque Quillayes Depto 416B Precio caluga: Normal: UF 2.804
+id: 13 Proyecto: Quilín 4811 Depto 205 Precio caluga: Normal: UF 2.920
+id: 14 Proyecto: Parque Victor Lamas - Edificio B Depto 1305 Precio caluga: Normal: UF 2.330
+id: 15 Proyecto: EDIFICIO PORTA PINZON Depto 201 Precio caluga: Normal: UF 15.055
+id: 16 Proyecto: Edificio Ilumina Depto 43 Precio caluga: Normal: UF 4.233
+id: 17 Proyecto: Edificio Chiloé-Prat Depto 402 Precio caluga: Normal: UF 3.898
+id: 18 Proyecto: Plaza Fluvial Depto 709 Precio caluga: Normal: UF 4.795
+id: 19 Proyecto: Santa Petronila Plaza Depto 1006 Precio caluga: Normal: UF 3.030
+id: 20 Proyecto: Edmundo Eluchans Plaza Depto 511 Precio caluga: Normal: UF 5.379
+id: 21 Proyecto: Edificio Ottawa 4277 Depto 409 Precio caluga: Normal: UF 8.691
+id: 22 Proyecto: Exequiel II Depto 801 Precio caluga: Normal: UF 4.082
+id: 23 Proyecto: Lyon View Depto 203A Precio caluga: Normal: UF 9.837
+id: 24 Proyecto: EDIFICIO PORTA PINZON Depto 205 Precio caluga: Normal: UF 15.226
+id: 25 Proyecto: Edificio Visviri 1700 Depto 25 Precio caluga: Normal: UF 8.420
+id: 26 Proyecto: Edificio El Retiro Depto D305 Precio caluga: Normal: UF 3.332
+id: 27 Proyecto: Edificio Ilumina Depto 97 Precio caluga: Normal: UF 5.711
+id: 28 Proyecto: Villagra 161 Depto 203A Precio caluga: Normal: UF 3.570
+id: 29 Proyecto: Santa Petronila Plaza Depto 2412 Precio caluga: Normal: UF 3.005
+id: 30 Proyecto: Edificio Mirador Placeres Depto 1913 Precio caluga: Normal: UF 3.461
+id: 31 Proyecto: Edificio Lyon 800 Depto 204 Precio caluga: Normal: UF 8.680
+id: 32 Proyecto: Perú Plaza II Depto 307 Precio caluga: Normal: UF 2.960
+id: 33 Proyecto: Mirador Playa Brava 3 Depto 3002 Precio caluga: Normal: UF 4.248
+id: 34 Proyecto: 2 NORTE 1230 Depto B302 Precio caluga: Normal: UF 5.717
+id: 35 Proyecto: Edificio Martín de Zamora 4253 Depto 314 Precio caluga: Normal: UF 6.840
+id: 36 Proyecto: Santa Petronila Plaza Depto 308 Precio caluga: Normal: UF 2.905
+id: 37 Proyecto: Touch Depto 506 Precio caluga: Normal: UF 2.867
+id: 38 Proyecto: Edmundo Eluchans Plaza Depto 408 Precio caluga: Normal: UF 5.572
+id: 39 Proyecto: Clic Depto 1118 Precio caluga: Normal: UF 3.686
+id: 40 Proyecto: Perú Plaza II Depto 904 Precio caluga: Normal: UF 4.740
+id: 41 Proyecto: Santa Petronila Plaza Depto 907 Precio caluga: Normal: UF 2.955
+id: 42 Proyecto: Clic Depto 206 Precio caluga: Normal: UF 3.181
+id: 43 Proyecto: Pajaritos del Parque Torre 6 Depto 1734 Precio caluga: Normal: UF 3.222
+id: 44 Proyecto: Edmundo Eluchans Plaza Depto 609 Precio caluga: Normal: UF 5.612
+id: 45 Proyecto: Isa Castillo Velasco Depto 508 Precio caluga: Normal: UF 4.669
+id: 46 Proyecto: Edificio Plaza Pedro de Valdivia Depto 306 A Precio caluga: Normal: UF 11.547
+id: 47 Proyecto: Edificio Simón Bolívar 2543 Depto 114 Precio caluga: Normal: UF 7.390
+id: 48 Proyecto: Quilín 4811 Depto 504 Precio caluga: Normal: UF 3.010
+id: 49 Proyecto: Edificio Ottawa 4277 Depto 205 Precio caluga: Normal: UF 7.308
+id: 50 Proyecto: Proyecto Mirador Azul - La Florida Depto 21 B Precio caluga: Normal: UF 3.360
+id: 51 Proyecto: Touch Depto 304 Precio caluga: Normal: UF 3.912
+id: 52 Proyecto: Isa Castillo Velasco Depto 501 Precio caluga: Normal: UF 8.553
+id: 53 Proyecto: HOLANDA 1101 Depto 202 Precio caluga: Normal: UF 11.702
+id: 54 Proyecto: 2 NORTE 1230 Depto A306 Precio caluga: Normal: UF 5.126
+id: 55 Proyecto: Edificio Ottawa 4277 Depto 302 Precio caluga: Normal: UF 8.849
+id: 56 Proyecto: PARQUE LOS ABEDULES Depto B705 Precio caluga: Normal: UF 2.623
+id: 57 Proyecto: Av. Perú Plaza Depto 913 Precio caluga: Normal: UF 3.585
+id: 58 Proyecto: Edificio Ilumina Depto 303 Precio caluga: Normal: UF 4.429
+id: 59 Proyecto: Isa Castillo Velasco Depto 509 Precio caluga: Normal: UF 6.879
+id: 60 Proyecto: Edificio Mirador Placeres Depto 1712 Precio caluga: Normal: UF 3.563
+id: 61 Proyecto: Edificio Simón Bolívar 2543 Depto 106 Precio caluga: Normal: UF 10.600
+id: 62 Proyecto: PARQUE LOS ABEDULES Depto B706 Precio caluga: Normal: UF 3.191
+id: 63 Proyecto: Parque Victor Lamas - Edificio B Depto 1805 Precio caluga: Normal: UF 2.405
+id: 64 Proyecto: Isa Castillo Velasco Depto 504 Precio caluga: Normal: UF 7.401
+id: 65 Proyecto: Santa Petronila Plaza Depto 602 Precio caluga: Normal: UF 2.333
+id: 66 Proyecto: NUEVA ARLEGUI Depto 504 Precio caluga: Normal: UF 4.565
+id: 67 Proyecto: HOY Depto 208-B Precio caluga: Normal: UF 5.166
+id: 68 Proyecto: Ñuñoa View Depto 203 Precio caluga: Normal: UF 3.710
+id: 69 Proyecto: Villagra 161 Depto 206-A Precio caluga: Normal: UF 4.525
+id: 70 Proyecto: Exequiel II Depto 1613 Precio caluga: Normal: UF 3.709
+id: 71 Proyecto: 2 NORTE 1230 Depto A401 Precio caluga: Normal: UF 5.245
+id: 72 Proyecto: HOLANDA 1101 Depto 504 Precio caluga: Normal: UF 11.344
+id: 73 Proyecto: Mirador Playa Brava 2 Depto 3006 Precio caluga: Normal: UF 8.648
+id: 74 Proyecto: Pajaritos del Parque Torre 6 Depto 1735 Precio caluga: Normal: UF 3.222
+id: 75 Proyecto: Exequiel II Depto 1508 Precio caluga: Normal: UF 4.023
+id: 76 Proyecto: Edificio Martín de Zamora 4253 Depto 302 Precio caluga: Normal: UF 6.940
+id: 77 Proyecto: Edificio NEW Depto 704 Precio caluga: Normal: UF 2.790
+id: 78 Proyecto: Ñuñoa View Depto 301 Precio caluga: Normal: UF 2.902
+id: 79 Proyecto: Edificio Simón Bolívar 2543 Depto 97 Precio caluga: Normal: UF 7.180
+id: 80 Proyecto: Mirador Playa Brava 3 Depto 3102 Precio caluga: Normal: UF 4.281
+id: 81 Proyecto: Edificio Simón Bolívar 2543 Depto 151 Precio caluga: Normal: UF 10.330
+id: 82 Proyecto: HOLANDA 1101 Depto 301 Precio caluga: Normal: UF 7.189
+id: 83 Proyecto: Brown Plaza Ñuñoa Depto 504 Precio caluga: Normal: UF 3.100
+id: 84 Proyecto: Edificio Ottawa 4277 Depto 306 Precio caluga: Normal: UF 7.319
+id: 85 Proyecto: Proyecto Mirador Azul - La Florida Depto 25 B Precio caluga: Normal: UF 3.360
+id: 86 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 402 Precio caluga: Normal: UF 11.767
+id: 87 Proyecto: Edificio Ottawa 4277 Depto 502 Precio caluga: Normal: UF 8.848
+id: 88 Proyecto: Mirador Playa Brava 2 Depto 906 Precio caluga: Normal: UF 8.160
+id: 89 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 302 Precio caluga: Normal: UF 11.602
+id: 90 Proyecto: NUEVA ARLEGUI Depto 506 Precio caluga: Normal: UF 4.128
+id: 91 Proyecto: 2 NORTE 1230 Depto A301 Precio caluga: Normal: UF 5.094
+id: 92 Proyecto: Departamental II Depto 1401 Precio caluga: Normal: UF 2.650
+id: 93 Proyecto: Siena Parque Quillayes Depto 503A Precio caluga: Normal: UF 3.520
+id: 94 Proyecto: Av. Perú Plaza Depto 414 Precio caluga: Normal: UF 3.653
+id: 95 Proyecto: Edificio El Retiro Depto D205 Precio caluga: Normal: UF 3.292
+id: 96 Proyecto: NUEVA ARLEGUI Depto 403 Precio caluga: Normal: UF 4.443
+id: 97 Proyecto: Ñuñoa View Depto 220 Precio caluga: Normal: UF 4.632
+id: 98 Proyecto: Mirador Playa Brava 3 Depto 2902 Precio caluga: Normal: UF 4.214
+id: 99 Proyecto: Parque Victor Lamas - Edificio B Depto 305 Precio caluga: Normal: UF 2.516
+id: 100 Proyecto: Touch Depto 215 Precio caluga: Normal: UF 3.774
+id: 101 Proyecto: HAMBURGO 557 Depto 307 Precio caluga: Normal: UF 6.720
+id: 102 Proyecto: 2 NORTE 1230 Depto B308 Precio caluga: Normal: UF 3.648
+id: 103 Proyecto: Edificio Visviri 1700 Depto 22 Precio caluga: Normal: UF 8.330
+id: 104 Proyecto: Av. Perú Plaza Depto 1103 Precio caluga: Normal: UF 3.693
+id: 105 Proyecto: Edificio Ilumina Depto 25 Precio caluga: Normal: UF 4.021
+id: 106 Proyecto: HOLANDA 3451 Depto 500 Precio caluga: Normal: UF 7.006
+id: 107 Proyecto: Edificio Martín de Zamora 4253 Depto 201 Precio caluga: Normal: UF 10.410
+id: 108 Proyecto: Perú Plaza II Depto 1105 Precio caluga: Normal: UF 4.780
+id: 109 Proyecto: 2 NORTE 1230 Depto B301 Precio caluga: Normal: UF 3.678
+id: 110 Proyecto: Puerto Pewun Depto 308 Precio caluga: Normal: UF 5.458
+id: 111 Proyecto: Santa Petronila Plaza Depto 1603 Precio caluga: Normal: UF 2.905
+id: 112 Proyecto: Edificio El Retiro Depto D303 Precio caluga: Normal: UF 2.624
+id: 113 Proyecto: Parque Victor Lamas - Edificio B Depto 1405 Precio caluga: Normal: UF 2.345
+id: 114 Proyecto: Edificio San José Depto 310 Precio caluga: Normal: UF 4.460
+id: 115 Proyecto: Edificio Martín de Zamora 4253 Depto 316 Precio caluga: Normal: UF 10.400
+id: 116 Proyecto: Perú Plaza II Depto 403 Precio caluga: Normal: UF 5.450
+id: 117 Proyecto: Proyecto Mirador Azul - La Florida Depto 223 B Precio caluga: Normal: UF 3.720
+id: 118 Proyecto: Av. Perú Plaza Depto 1104 Precio caluga: Normal: UF 5.179
+id: 119 Proyecto: Edificio Plaza Pedro de Valdivia Depto 308 A Precio caluga: Normal: UF 8.651
+id: 120 Proyecto: Mirador Playa Brava 3 Depto 3201 Precio caluga: Normal: UF 3.928
+id: 121 Proyecto: HOLANDA 3451 Depto 200 Precio caluga: Normal: UF 6.568
+id: 122 Proyecto: Edificio El Retiro Depto D201 Precio caluga: Normal: UF 3.292
+id: 123 Proyecto: HOLANDA 1101 Depto 502 Precio caluga: Normal: UF 13.105
+id: 124 Proyecto: Siena Plaza Blanco Viel 1400 Depto 1402 Precio caluga: Normal: UF 2.786
+id: 125 Proyecto: Edificio Ottawa 4277 Depto 410 Precio caluga: Normal: UF 7.370
+id: 126 Proyecto: Plaza Fluvial Depto 805 Precio caluga: Normal: UF 3.075
+id: 127 Proyecto: Edificio Martín de Zamora 4253 Depto 203 Precio caluga: Normal: UF 6.740
+id: 128 Proyecto: Edificio San José Depto 404 Precio caluga: Normal: UF 3.507
+id: 129 Proyecto: Siena Parque Quillayes Depto 501A Precio caluga: Normal: UF 2.862
+id: 130 Proyecto: Edificio Martín de Zamora 4253 Depto 210 Precio caluga: Normal: UF 11.840
+id: 131 Proyecto: Departamental II Depto 409 Precio caluga: Normal: UF 3.390
+id: 132 Proyecto: Edificio Ilumina Depto 92 Precio caluga: Normal: UF 4.390
+id: 133 Proyecto: Pajaritos del Parque Torre 6 Depto 1634 Precio caluga: Normal: UF 3.222
+id: 134 Proyecto: Zenteno Depto 612 Precio caluga: Normal: UF 4.068
+id: 135 Proyecto: ALike Depto 205 Precio caluga: Normal: UF 4.044
+id: 136 Proyecto: Edificio Visviri 1700 Depto 24 Precio caluga: Normal: UF 12.590
+id: 137 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 401 Precio caluga: Normal: UF 13.323
+id: 138 Proyecto: NUEVA ARLEGUI Depto 301 Precio caluga: Normal: UF 5.033
+id: 139 Proyecto: Edificio San José Depto 203 Precio caluga: Normal: UF 4.140
+id: 140 Proyecto: PARQUE LOS ABEDULES Depto B406 Precio caluga: Normal: UF 3.033
+id: 141 Proyecto: Proyecto Mirador Azul - La Florida Depto 38 B Precio caluga: Normal: UF 3.850
+id: 142 Proyecto: Proyecto Mirador Azul - La Florida Depto 23 B Precio caluga: Normal: UF 3.300
+id: 143 Proyecto: Zenteno Depto 619 Precio caluga: Normal: UF 2.928
+id: 144 Proyecto: Mirador Playa Brava 2 Depto 3206 Precio caluga: Normal: UF 8.702
+id: 145 Proyecto: Edificio Alto Villaseca Depto C306 Precio caluga: Normal: UF 4.390
+id: 146 Proyecto: Edificio Simón Bolívar 2543 Depto 104 Precio caluga: Normal: UF 7.230
+id: 147 Proyecto: Mirador Playa Brava 3 Depto 3301 Precio caluga: Normal: UF 3.950
+id: 148 Proyecto: Edificio Chiloé-Prat Depto 409 Precio caluga: Normal: UF 4.078
+id: 149 Proyecto: Parque Victor Lamas - Edificio B Depto 1505 Precio caluga: Normal: UF 2.360
+id: 150 Proyecto: Edificio El Retiro Depto D31 Precio caluga: Normal: UF 3.282
+id: 151 Proyecto: HAMBURGO 557 Depto 203 Precio caluga: Normal: UF 4.676
+id: 152 Proyecto: Proyecto Mirador Azul - La Florida Depto 135 B Precio caluga: Normal: UF 3.820
+id: 153 Proyecto: Zenteno Depto 507 Precio caluga: Normal: UF 3.468
+id: 154 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 203 Precio caluga: Normal: UF 7.883
+id: 155 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 403 Precio caluga: Normal: UF 8.313
+id: 156 Proyecto: Isa Castillo Velasco Depto 803 Precio caluga: Normal: UF 6.134
+id: 157 Proyecto: Edificio Ottawa 4277 Depto 307 Precio caluga: Normal: UF 8.807
+id: 158 Proyecto: Edificio Simón Bolívar 2543 Depto 125 Precio caluga: Normal: UF 8.050
+
+___________________________________________________________ modo2 
+
+id: 1 Proyecto: Edificio Ilumina Depto 205 Precio caluga: Normal: UF 4.297
+id: 2 Proyecto: Villagra 161 Depto 507B Precio caluga: Normal: UF 3.790
+id: 3 Proyecto: PARQUE LOS ABEDULES Depto B1102 Precio caluga: Normal: UF 4.526
+id: 4 Proyecto: ALike Depto 205 Precio caluga: Normal: UF 4.044
+id: 5 Proyecto: Edificio El Retiro Depto D205 Precio caluga: Normal: UF 3.292
+id: 6 Proyecto: Proyecto Mirador Azul - La Florida Depto 23 B Precio caluga: Normal: UF 3.300
+id: 7 Proyecto: Edificio Simón Bolívar 2543 Depto 104 Precio caluga: Normal: UF 7.230
+id: 8 Proyecto: Isa Castillo Velasco Depto 501 Precio caluga: Normal: UF 8.553
+id: 9 Proyecto: Edificio Martín de Zamora 4253 Depto 310 Precio caluga: Normal: UF 12.020
+id: 10 Proyecto: Touch Depto 506 Precio caluga: Normal: UF 2.867
+id: 11 Proyecto: Lyon View Depto 407B Precio caluga: Normal: UF 5.833
+id: 12 Proyecto: 2 NORTE 1230 Depto B405 Precio caluga: Normal: UF 3.793
+id: 13 Proyecto: Av. Perú Plaza Depto 414 Precio caluga: Normal: UF 3.653
+id: 14 Proyecto: Edificio Mirador Placeres Depto 1913 Precio caluga: Normal: UF 3.461
+id: 15 Proyecto: Perú Plaza II Depto 1103 Precio caluga: Normal: UF 5.550
+id: 16 Proyecto: Zenteno Depto 507 Precio caluga: Normal: UF 3.468
+id: 17 Proyecto: HOY Depto 314-B Precio caluga: Normal: UF 4.545
+id: 18 Proyecto: Pajaritos del Parque Torre 6 Depto 1635 Precio caluga: Normal: UF 3.222
+id: 19 Proyecto: Parque Victor Lamas - Edificio B Depto 1805 Precio caluga: Normal: UF 2.405
+id: 20 Proyecto: Perú Plaza II Depto 315 Precio caluga: Normal: UF 3.610
+id: 21 Proyecto: Departamental II Depto 714 Precio caluga: Normal: UF 3.550
+id: 22 Proyecto: HOY Depto 208-B Precio caluga: Normal: UF 5.166
+id: 23 Proyecto: Av. Perú Plaza Depto 913 Precio caluga: Normal: UF 3.585
+id: 24 Proyecto: Edificio Ottawa 4277 Depto 401 Precio caluga: Normal: UF 7.370
+id: 25 Proyecto: Isa Castillo Velasco Depto 506 Precio caluga: Normal: UF 6.915
+id: 26 Proyecto: Edmundo Eluchans Plaza Depto 609 Precio caluga: Normal: UF 5.612
+id: 27 Proyecto: Brown Plaza Ñuñoa Depto 504 Precio caluga: Normal: UF 3.100
+id: 28 Proyecto: 2 NORTE 1230 Depto A301 Precio caluga: Normal: UF 5.094
+id: 29 Proyecto: Zenteno Depto 612 Precio caluga: Normal: UF 4.068
+id: 30 Proyecto: Edificio Ottawa 4277 Depto 410 Precio caluga: Normal: UF 7.370
+id: 31 Proyecto: Mirador Playa Brava 3 Depto 3201 Precio caluga: Normal: UF 3.928
+id: 32 Proyecto: Mirador Playa Brava 3 Depto 3102 Precio caluga: Normal: UF 4.281
+id: 33 Proyecto: Isa Castillo Velasco Depto 1004 Precio caluga: Normal: UF 7.582
+id: 34 Proyecto: Exequiel II Depto 801 Precio caluga: Normal: UF 4.082
+id: 35 Proyecto: Proyecto Mirador Azul - La Florida Depto 131 B Precio caluga: Normal: UF 3.820
+id: 36 Proyecto: Touch Depto 1707 Precio caluga: Normal: UF 4.360
+id: 37 Proyecto: Edificio Chiloé-Prat Depto 306 Precio caluga: Normal: UF 3.698
+id: 38 Proyecto: Edificio Ilumina Depto 25 Precio caluga: Normal: UF 4.021
+id: 39 Proyecto: Exequiel II Depto 1508 Precio caluga: Normal: UF 4.023
+id: 40 Proyecto: Parque Victor Lamas - Edificio B Depto 1305 Precio caluga: Normal: UF 2.330
+id: 41 Proyecto: Edificio NEW Depto 511 Precio caluga: Normal: UF 3.090
+id: 42 Proyecto: Santa Petronila Plaza Depto 1905 Precio caluga: Normal: UF 2.910
+id: 43 Proyecto: Edificio Ottawa 4277 Depto 502 Precio caluga: Normal: UF 8.848
+id: 44 Proyecto: Edificio NEW Depto 704 Precio caluga: Normal: UF 2.790
+id: 45 Proyecto: Edificio Martín de Zamora 4253 Depto 201 Precio caluga: Normal: UF 10.410
+id: 46 Proyecto: 2 NORTE 1230 Depto A306 Precio caluga: Normal: UF 5.126
+id: 47 Proyecto: Edificio Simón Bolívar 2543 Depto 106 Precio caluga: Normal: UF 10.600
+id: 48 Proyecto: Siena Parque Quillayes Depto 503A Precio caluga: Normal: UF 3.520
+id: 49 Proyecto: HAMBURGO 557 Depto 203 Precio caluga: Normal: UF 4.676
+id: 50 Proyecto: Edificio Ottawa 4277 Depto 309 Precio caluga: Normal: UF 8.677
+id: 51 Proyecto: Av. Perú Plaza Depto 508 Precio caluga: Normal: UF 3.555
+id: 52 Proyecto: Mirador Playa Brava 3 Depto 3002 Precio caluga: Normal: UF 4.248
+id: 53 Proyecto: Ñuñoa View Depto 301 Precio caluga: Normal: UF 2.902
+id: 54 Proyecto: Edificio Alto Villaseca Depto M203 Precio caluga: Normal: UF 5.190
+id: 55 Proyecto: Quilín 4811 Depto 504 Precio caluga: Normal: UF 3.010
+id: 56 Proyecto: Isa Castillo Velasco Depto 509 Precio caluga: Normal: UF 6.879
+id: 57 Proyecto: ALike Depto 105 Precio caluga: Normal: UF 3.446
+id: 58 Proyecto: Proyecto Mirador Azul - La Florida Depto 33 B Precio caluga: Normal: UF 3.400
+id: 59 Proyecto: Edificio El Retiro Depto D31 Precio caluga: Normal: UF 3.282
+id: 60 Proyecto: NUEVA ARLEGUI Depto 505 Precio caluga: Normal: UF 5.526
+id: 61 Proyecto: Zenteno Depto 517 Precio caluga: Normal: UF 3.148
+id: 62 Proyecto: Proyecto Mirador Azul - La Florida Depto 21 B Precio caluga: Normal: UF 3.360
+id: 63 Proyecto: Touch Depto 1706 Precio caluga: Normal: UF 2.820
+id: 64 Proyecto: Exequiel II Depto 1613 Precio caluga: Normal: UF 3.709
+id: 65 Proyecto: Departamental II Depto 1201 Precio caluga: Normal: UF 2.660
+id: 66 Proyecto: Ñuñoa View Depto 220 Precio caluga: Normal: UF 4.632
+id: 67 Proyecto: Siena Plaza Blanco Viel 1400 Depto 1001 Precio caluga: Normal: UF 2.809
+id: 68 Proyecto: HOLANDA 1101 Depto 204 Precio caluga: Normal: UF 10.124
+id: 69 Proyecto: Edmundo Eluchans Plaza Depto 511 Precio caluga: Normal: UF 5.379
+id: 70 Proyecto: Edificio Visviri 1700 Depto 25 Precio caluga: Normal: UF 8.420
+id: 71 Proyecto: Edificio Martín de Zamora 4253 Depto 203 Precio caluga: Normal: UF 6.740
+id: 72 Proyecto: Isa Castillo Velasco Depto 405 Precio caluga: Normal: UF 4.904
+id: 73 Proyecto: Siena Parque Quillayes Depto 208A Precio caluga: Normal: UF 3.352
+id: 74 Proyecto: Edificio Ottawa 4277 Depto 404 Precio caluga: Normal: UF 8.865
+id: 75 Proyecto: Proyecto Mirador Azul - La Florida Depto 25 B Precio caluga: Normal: UF 3.360
+id: 76 Proyecto: Edificio San José Depto 201 Precio caluga: Normal: UF 3.378
+id: 77 Proyecto: Siena Plaza Blanco Viel 1400 Depto 1102 Precio caluga: Normal: UF 2.809
+id: 78 Proyecto: Parque Victor Lamas - Edificio B Depto 1505 Precio caluga: Normal: UF 2.360
+id: 79 Proyecto: Lyon View Depto 203A Precio caluga: Normal: UF 9.837
+id: 80 Proyecto: Departamental II Depto 1401 Precio caluga: Normal: UF 2.650
+id: 81 Proyecto: Parque Victor Lamas - Edificio B Depto 1602 Precio caluga: Normal: UF 2.316
+id: 82 Proyecto: Edificio Ottawa 4277 Depto 510 Precio caluga: Normal: UF 7.357
+id: 83 Proyecto: Departamental II Depto 401 Precio caluga: Normal: UF 2.700
+id: 84 Proyecto: Edificio El Retiro Depto D12 Precio caluga: Normal: UF 2.578
+id: 85 Proyecto: Edificio Mirador Placeres Depto 1712 Precio caluga: Normal: UF 3.563
+id: 86 Proyecto: Santa Petronila Plaza Depto 2404 Precio caluga: Normal: UF 2.905
+id: 87 Proyecto: Av. Perú Plaza Depto 1103 Precio caluga: Normal: UF 3.693
+id: 88 Proyecto: Perú Plaza II Depto 1008 Precio caluga: Normal: UF 3.070
+id: 89 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 206 Precio caluga: Normal: UF 8.780
+id: 90 Proyecto: Edificio Lyon 800 Depto 204 Precio caluga: Normal: UF 8.680
+id: 91 Proyecto: Edificio Alto Villaseca Depto C306 Precio caluga: Normal: UF 4.390
+id: 92 Proyecto: Pajaritos del Parque Torre 6 Depto 1535 Precio caluga: Normal: UF 3.222
+id: 93 Proyecto: Perú Plaza II Depto 403 Precio caluga: Normal: UF 5.450
+id: 94 Proyecto: HAMBURGO 557 Depto 104 Precio caluga: Normal: UF 5.339
+id: 95 Proyecto: LA VERBENA 4885 Depto 205 Precio caluga: Normal: UF 6.714
+id: 96 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 203 Precio caluga: Normal: UF 7.883
+id: 97 Proyecto: Isa Castillo Velasco Depto 508 Precio caluga: Normal: UF 4.669
+id: 98 Proyecto: Edificio Ilumina Depto 92 Precio caluga: Normal: UF 4.390
+id: 99 Proyecto: ALike Depto 1302 Precio caluga: Normal: UF 2.948
+id: 100 Proyecto: Villagra 161 Depto 204A Precio caluga: Normal: UF 3.520
+id: 101 Proyecto: PARQUE LOS ABEDULES Depto B406 Precio caluga: Normal: UF 3.033
+id: 102 Proyecto: Perú Plaza II Depto 307 Precio caluga: Normal: UF 2.960
+id: 103 Proyecto: Puerto Pewun Depto 308 Precio caluga: Normal: UF 5.458
+id: 104 Proyecto: Edificio Simón Bolívar 2543 Depto 151 Precio caluga: Normal: UF 10.330
+id: 105 Proyecto: Edificio Alto Villaseca Depto C302 Precio caluga: Normal: UF 4.090
+id: 106 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 204 Precio caluga: Normal: UF 8.702
+id: 107 Proyecto: NUEVA ARLEGUI Depto 301 Precio caluga: Normal: UF 5.033
+id: 108 Proyecto: Edificio Lyon 800 Depto 1110 Precio caluga: Normal: UF 14.100
+id: 109 Proyecto: Clic Depto 1112 Precio caluga: Normal: UF 2.380
+id: 110 Proyecto: Isa Castillo Velasco Depto 507 Precio caluga: Normal: UF 3.260
+id: 111 Proyecto: Edificio Lyon 800 Depto 1210 Precio caluga: Normal: UF 13.990
+id: 112 Proyecto: Edificio Ilumina Depto 97 Precio caluga: Normal: UF 5.711
+id: 113 Proyecto: NUEVA ARLEGUI Depto 302 Precio caluga: Normal: UF 4.593
+id: 114 Proyecto: Edificio Martín de Zamora 4253 Depto 212 Precio caluga: Normal: UF 10.410
+id: 115 Proyecto: EDIFICIO JULIO PRADO 2110 Depto 306 Precio caluga: Normal: UF 5.992
+id: 116 Proyecto: NUEVA ARLEGUI Depto 502 Precio caluga: Normal: UF 3.961
+id: 117 Proyecto: Mirador Playa Brava 3 Depto 3302 Precio caluga: Normal: UF 4.348
+id: 118 Proyecto: HAMBURGO 557 Depto 307 Precio caluga: Normal: UF 6.720
+id: 119 Proyecto: Edificio Martín de Zamora 4253 Depto 302 Precio caluga: Normal: UF 6.940
+id: 120 Proyecto: Edificio San José Depto 107 Precio caluga: Normal: UF 3.378
+id: 121 Proyecto: Edificio El Retiro Depto D305 Precio caluga: Normal: UF 3.332
+id: 122 Proyecto: Santa Petronila Plaza Depto 602 Precio caluga: Normal: UF 2.333
+id: 123 Proyecto: Touch Depto 215 Precio caluga: Normal: UF 3.774
+id: 124 Proyecto: NUEVA ARLEGUI Depto 506 Precio caluga: Normal: UF 4.128
+id: 125 Proyecto: Edificio El Retiro Depto D14 Precio caluga: Normal: UF 2.524
+id: 126 Proyecto: Edificio Lyon 800 Depto 203 Precio caluga: Normal: UF 8.840
+id: 127 Proyecto: Siena Parque Quillayes Depto 416B Precio caluga: Normal: UF 2.804
+id: 128 Proyecto: Edificio Ottawa 4277 Depto 304 Precio caluga: Normal: UF 8.850
+id: 129 Proyecto: Edificio Ottawa 4277 Depto 306 Precio caluga: Normal: UF 7.319
+id: 130 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 305 Precio caluga: Normal: UF 9.239
+id: 131 Proyecto: Edificio Plaza Pedro de Valdivia Depto 309 A Precio caluga: Normal: UF 12.933
+id: 132 Proyecto: Quilín 4811 Depto 208 Precio caluga: Normal: UF 4.360
+id: 133 Proyecto: Edificio Lyon 800 Depto 209 Precio caluga: Normal: UF 13.900
+id: 134 Proyecto: Edificio Chiloé-Prat Depto 427 Precio caluga: Normal: UF 2.731
+id: 135 Proyecto: Clic Depto 907 Precio caluga: Normal: UF 3.233
+id: 136 Proyecto: Edmundo Eluchans Plaza Depto 708 Precio caluga: Normal: UF 5.667
+id: 137 Proyecto: Edificio San José Depto 310 Precio caluga: Normal: UF 4.460
+id: 138 Proyecto: Parque Victor Lamas - Edificio B Depto 1405 Precio caluga: Normal: UF 2.345
+id: 139 Proyecto: Exequiel II Depto 1605 Precio caluga: Normal: UF 3.648
+id: 140 Proyecto: Quilín 4811 Depto 215 Precio caluga: Normal: UF 4.400
+id: 141 Proyecto: Clic Depto 206 Precio caluga: Normal: UF 3.181
+id: 142 Proyecto: Edificio Martín de Zamora 4253 Depto 309 Precio caluga: Normal: UF 11.770
+id: 143 Proyecto: Edificio Chiloé-Prat Depto 402 Precio caluga: Normal: UF 3.898
+id: 144 Proyecto: NUEVA ARLEGUI Depto 403 Precio caluga: Normal: UF 4.443
+id: 145 Proyecto: Av. Perú Plaza Depto 1216 Precio caluga: Normal: UF 3.801
+id: 146 Proyecto: Parque Victor Lamas - Edificio B Depto 305 Precio caluga: Normal: UF 2.516
+id: 147 Proyecto: Edificio El Retiro Depto D303 Precio caluga: Normal: UF 2.624
+id: 148 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 402 Precio caluga: Normal: UF 11.767
+id: 149 Proyecto: Edificio El Retiro Depto D201 Precio caluga: Normal: UF 3.292
+id: 150 Proyecto: Siena Plaza Blanco Viel 1400 Depto 1402 Precio caluga: Normal: UF 2.786
+id: 151 Proyecto: NUEVA ARLEGUI Depto 201 Precio caluga: Normal: UF 4.963
+id: 152 Proyecto: Edificio Mirador Placeres Depto 1413 Precio caluga: Normal: UF 3.441
+id: 153 Proyecto: Lyon View Depto 301A Precio caluga: Normal: UF 8.754
+id: 154 Proyecto: Santa Petronila Plaza Depto 308 Precio caluga: Normal: UF 2.905
+id: 155 Proyecto: Isa Castillo Velasco Depto 803 Precio caluga: Normal: UF 6.134
+id: 156 Proyecto: HOLANDA 3451 Depto 500 Precio caluga: Normal: UF 7.006
+id: 157 Proyecto: Mirador Playa Brava 2 Depto 3206 Precio caluga: Normal: UF 8.702
+id: 158 Proyecto: Clic Depto 1118 Precio caluga: Normal: UF 3.686
+id: 159 Proyecto: Zenteno Depto 201 Precio caluga: Normal: UF 3.868
+id: 160 Proyecto: PARQUE LOS ABEDULES Depto B1103 Precio caluga: Normal: UF 4.207
+id: 161 Proyecto: Mirador Playa Brava 2 Depto 3006 Precio caluga: Normal: UF 8.648
+id: 162 Proyecto: Siena Parque Quillayes Depto 501A Precio caluga: Normal: UF 2.862
+id: 163 Proyecto: Mirador Playa Brava 2 Depto 3106 Precio caluga: Normal: UF 8.675
+id: 164 Proyecto: Mirador Playa Brava 3 Depto 3301 Precio caluga: Normal: UF 3.950
+id: 165 Proyecto: Edificio Simón Bolívar 2543 Depto 114 Precio caluga: Normal: UF 7.390
+id: 166 Proyecto: Parque Victor Lamas - Edificio B Depto 1302 Precio caluga: Normal: UF 2.271
+id: 167 Proyecto: Av. Perú Plaza Depto 1018 Precio caluga: Normal: UF 3.617
+id: 168 Proyecto: Mirador Playa Brava 3 Depto 2902 Precio caluga: Normal: UF 4.214
+id: 169 Proyecto: Santa Petronila Plaza Depto 2412 Precio caluga: Normal: UF 3.005
+id: 170 Proyecto: Edificio Ottawa 4277 Depto 302 Precio caluga: Normal: UF 8.849
+id: 171 Proyecto: Perú Plaza II Depto 1105 Precio caluga: Normal: UF 4.780
+id: 172 Proyecto: Plaza Fluvial Depto 805 Precio caluga: Normal: UF 3.075
+id: 173 Proyecto: Santa Petronila Plaza Depto 1603 Precio caluga: Normal: UF 2.905
+id: 174 Proyecto: Santa Petronila Plaza Depto 907 Precio caluga: Normal: UF 2.955
+id: 175 Proyecto: Touch Depto 304 Precio caluga: Normal: UF 3.912
+id: 176 Proyecto: Perú Plaza II Depto 1013 Precio caluga: Normal: UF 4.230
+id: 177 Proyecto: Plaza Fluvial Depto 709 Precio caluga: Normal: UF 4.795
+id: 178 Proyecto: HOLANDA 1101 Depto 404 Precio caluga: Normal: UF 10.817
+id: 179 Proyecto: Edificio San José Depto 203 Precio caluga: Normal: UF 4.140
+id: 180 Proyecto: Edmundo Eluchans Plaza Depto 408 Precio caluga: Normal: UF 5.572
+id: 181 Proyecto: Edificio San José Depto 207 Precio caluga: Normal: UF 3.445
+id: 182 Proyecto: Siena Parque Quillayes Depto 410A Precio caluga: Normal: UF 3.488
+id: 183 Proyecto: Edificio Lyon 800 Depto 206 Precio caluga: Normal: UF 8.750
+id: 184 Proyecto: Edmundo Eluchans Plaza Depto 510 Precio caluga: Normal: UF 5.379
+id: 185 Proyecto: Edificio Ilumina Depto 303 Precio caluga: Normal: UF 4.429
+id: 186 Proyecto: Edificio NEW Depto 1202 Precio caluga: Normal: UF 4.110
+id: 187 Proyecto: 2 NORTE 1230 Depto A403 Precio caluga: Normal: UF 5.296
+id: 188 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 401 Precio caluga: Normal: UF 13.323
+id: 189 Proyecto: Edificio Simón Bolívar 2543 Depto 125 Precio caluga: Normal: UF 8.050
+id: 190 Proyecto: Edificio El Retiro Depto D25 Precio caluga: Normal: UF 3.242
+id: 191 Proyecto: HOY Depto 116-A Precio caluga: Normal: UF 2.935
+id: 192 Proyecto: Edificio San José Depto 404 Precio caluga: Normal: UF 3.507
+id: 193 Proyecto: Prado 1810 Depto 107 Precio caluga: Normal: UF 5.830
+id: 194 Proyecto: Santa Petronila Plaza Depto 2411 Precio caluga: Normal: UF 3.012
+id: 195 Proyecto: Exequiel II Depto 604 Precio caluga: Normal: UF 4.298
+id: 196 Proyecto: Edificio Martín de Zamora 4253 Depto 314 Precio caluga: Normal: UF 6.840
+id: 197 Proyecto: Proyecto Mirador Azul - La Florida Depto 38 B Precio caluga: Normal: UF 3.850
+id: 198 Proyecto: NUEVA ARLEGUI Depto 603 Precio caluga: Normal: UF 4.767
+id: 199 Proyecto: Parque Victor Lamas - Edificio B Depto 1402 Precio caluga: Normal: UF 2.286
+id: 200 Proyecto: Isa Castillo Velasco Depto 502 Precio caluga: Normal: UF 6.238
+id: 201 Proyecto: Pajaritos del Parque Torre 6 Depto 1735 Precio caluga: Normal: UF 3.222
+id: 202 Proyecto: Edmundo Eluchans Plaza Depto 1210 Precio caluga: Normal: UF 5.479
+id: 203 Proyecto: Edificio Chiloé-Prat Depto 409 Precio caluga: Normal: UF 4.078
+id: 204 Proyecto: Santa Petronila Plaza Depto 717 Precio caluga: Normal: UF 1.855
+id: 205 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 301 Precio caluga: Normal: UF 12.986
+id: 206 Proyecto: Av. Perú Plaza Depto 1104 Precio caluga: Normal: UF 5.179
+id: 207 Proyecto: HOY Depto 204-B
+id: 1 Proyecto: Touch Depto 215 Precio caluga: Normal: UF 3.774
+id: 2 Proyecto: HOLANDA 1101 Depto 504 Precio caluga: Normal: UF 11.344
+id: 3 Proyecto: 2 NORTE 1230 Depto B405 Precio caluga: Normal: UF 3.793
+id: 4 Proyecto: Lyon View Depto 203A Precio caluga: Normal: UF 9.837
+id: 5 Proyecto: Proyecto Mirador Azul - La Florida Depto 228 B Precio caluga: Normal: UF 4.170
+id: 6 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 301 Precio caluga: Normal: UF 12.986
+id: 7 Proyecto: Edificio Martín de Zamora 4253 Depto 310 Precio caluga: Normal: UF 12.020
+id: 8 Proyecto: ALike Depto 1803 Precio caluga: Normal: UF 6.533
+id: 9 Proyecto: Edificio Alto Villaseca Depto M203 Precio caluga: Normal: UF 5.190
+id: 10 Proyecto: Edificio Lyon 800 Depto 1110 Precio caluga: Normal: UF 14.100
+id: 11 Proyecto: Proyecto Mirador Azul - La Florida Depto 21 B Precio caluga: Normal: UF 3.360
+id: 12 Proyecto: Edificio Martín de Zamora 4253 Depto 314 Precio caluga: Normal: UF 6.840
+id: 13 Proyecto: Perú Plaza II Depto 904 Precio caluga: Normal: UF 4.740
+id: 14 Proyecto: Parque Victor Lamas - Edificio B Depto 1305 Precio caluga: Normal: UF 2.330
+id: 15 Proyecto: Proyecto Mirador Azul - La Florida Depto 23 B Precio caluga: Normal: UF 3.300
+id: 16 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 203 Precio caluga: Normal: UF 7.883
+id: 17 Proyecto: Villagra 161 Depto 203A Precio caluga: Normal: UF 3.570
+id: 18 Proyecto: Touch Depto 506 Precio caluga: Normal: UF 2.867
+id: 19 Proyecto: HOLANDA 1101 Depto 204 Precio caluga: Normal: UF 10.124
+id: 20 Proyecto: Santa Petronila Plaza Depto 717 Precio caluga: Normal: UF 1.855
+id: 21 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 401 Precio caluga: Normal: UF 13.323
+id: 22 Proyecto: NUEVA ARLEGUI Depto 504 Precio caluga: Normal: UF 4.565
+id: 23 Proyecto: HOY Depto 721-B Precio caluga: Normal: UF 2.121
+id: 24 Proyecto: Edificio Chiloé-Prat Depto 313 Precio caluga: Normal: UF 3.451
+id: 25 Proyecto: ALike Depto 1714 Precio caluga: Normal: UF 4.024
+id: 26 Proyecto: Edificio Visviri 1700 Depto 22 Precio caluga: Normal: UF 8.330
+id: 27 Proyecto: Edificio El Retiro Depto D12 Precio caluga: Normal: UF 2.578
+id: 28 Proyecto: Santa Petronila Plaza Depto 2411 Precio caluga: Normal: UF 3.012
+id: 29 Proyecto: PARQUE LOS ABEDULES Depto B406 Precio caluga: Normal: UF 3.033
+id: 30 Proyecto: Perú Plaza II Depto 307 Precio caluga: Normal: UF 2.960
+id: 31 Proyecto: Siena Parque Quillayes Depto 410A Precio caluga: Normal: UF 3.488
+id: 32 Proyecto: Edificio Simón Bolívar 2543 Depto 125 Precio caluga: Normal: UF 8.050
+id: 33 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 402 Precio caluga: Normal: UF 11.767
+id: 34 Proyecto: Villagra 161 Depto 204A Precio caluga: Normal: UF 3.520
+id: 35 Proyecto: Edificio Chiloé-Prat Depto 434 Precio caluga: Normal: UF 3.371
+id: 36 Proyecto: Pajaritos del Parque Torre 6 Depto 1535 Precio caluga: Normal: UF 3.222
+id: 37 Proyecto: HOLANDA 1101 Depto 202 Precio caluga: Normal: UF 11.702
+id: 38 Proyecto: Zenteno Depto 507 Precio caluga: Normal: UF 3.468
+id: 39 Proyecto: Puerto Pewun Depto 305 Precio caluga: Normal: UF 8.353
+id: 40 Proyecto: ALike Depto 1302 Precio caluga: Normal: UF 2.948
+id: 41 Proyecto: Edificio Ottawa 4277 Depto 510 Precio caluga: Normal: UF 7.357
+id: 42 Proyecto: Mirador Playa Brava 3 Depto 3302 Precio caluga: Normal: UF 4.348
+id: 43 Proyecto: Edificio Chiloé-Prat Depto 402 Precio caluga: Normal: UF 3.898
+id: 44 Proyecto: Siena Plaza Blanco Viel 1400 Depto 614 Precio caluga: Normal: UF 2.752
+id: 45 Proyecto: Siena Parque Quillayes Depto 209A Precio caluga: Normal: UF 2.627
+id: 46 Proyecto: Av. Perú Plaza Depto 1216 Precio caluga: Normal: UF 3.801
+id: 47 Proyecto: Departamental II Depto 604 Precio caluga: Normal: UF 3.550
+id: 48 Proyecto: Edificio Simón Bolívar 2543 Depto 117 Precio caluga: Normal: UF 7.440
+id: 49 Proyecto: Siena Parque Quillayes Depto 208A Precio caluga: Normal: UF 3.352
+id: 50 Proyecto: Isa Castillo Velasco Depto 504 Precio caluga: Normal: UF 7.401
+id: 51 Proyecto: Edificio El Retiro Depto D13 Precio caluga: Normal: UF 2.524
+id: 52 Proyecto: Lyon View Depto 301A Precio caluga: Normal: UF 8.754
+id: 53 Proyecto: Edificio Ilumina Depto 92 Precio caluga: Normal: UF 4.390
+id: 54 Proyecto: Villagra 161 Depto 507B Precio caluga: Normal: UF 3.790
+id: 55 Proyecto: Quilín 4811 Depto 215 Precio caluga: Normal: UF 4.400
+id: 56 Proyecto: Edificio El Retiro Depto D31 Precio caluga: Normal: UF 3.282
+id: 57 Proyecto: Edificio Alto Villaseca Depto C302 Precio caluga: Normal: UF 4.090
+id: 58 Proyecto: NUEVA ARLEGUI Depto 502 Precio caluga: Normal: UF 3.961
+id: 206 Proyecto: Edmundo Eluchans Plaza Depto 1411 Precio caluga: Normal: UF 5.529
+id: 207 Proyecto: EDIFICIO JULIO PRADO 2110 Depto 306 Precio caluga: Normal: UF 5.992
+id: 208 Proyecto: Mirador Playa Brava 3 Depto 3201 Precio caluga: Normal: UF 3.928
+id: 209 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 402 Precio caluga: Normal: UF 11.767
+id: 210 Proyecto: Brown Plaza Ñuñoa Depto 504 Precio caluga: Normal: UF 3.100
+id: 211 Proyecto: Departamental II Depto 401 Precio caluga: Normal: UF 2.700
+id: 212 Proyecto: Clic Depto 206 Precio caluga: Normal: UF 3.181
+id: 213 Proyecto: Edificio San José Depto 102 Precio caluga: Normal: UF 3.020
+id: 214 Proyecto: Edificio Simón Bolívar 2543 Depto 114 Precio caluga: Normal: UF 7.390
+id: 215 Proyecto: HAMBURGO 557 Depto 203 Precio caluga: Normal: UF 4.676
+id: 216 Proyecto: Siena Parque Quillayes Depto 501A Precio caluga: Normal: UF 2.862
+id: 217 Proyecto: Edificio Chiloé-Prat Depto 409 Precio caluga: Normal: UF 4.078
+id: 218 Proyecto: Departamental II Depto 409 Precio caluga: Normal: UF 3.390
+id: 219 Proyecto: Edificio El Retiro Depto D25 Precio caluga: Normal: UF 3.242
+id: 220 Proyecto: 2 NORTE 1230 Depto B406 Precio caluga: Normal: UF 5.121
+id: 221 Proyecto: Edificio NEW Depto 511 Precio caluga: Normal: UF 3.090
+id: 222 Proyecto: Perú Plaza II Depto 307 Precio caluga: Normal: UF 2.960
+id: 223 Proyecto: Departamental II Depto 2206 Precio caluga: Normal: UF 3.340
+id: 224 Proyecto: Touch Depto 215 Precio caluga: Normal: UF 3.774
+id: 225 Proyecto: Edificio Ottawa 4277 Depto 201 Precio caluga: Normal: UF 7.346
+id: 226 Proyecto: Parque Victor Lamas - Edificio B Depto 1602 Precio caluga: Normal: UF 2.316
+id: 227 Proyecto: Edificio Simón Bolívar 2543 Depto 97 Precio caluga: Normal: UF 7.180
+id: 228 Proyecto: Pajaritos del Parque Torre 6 Depto 1632 Precio caluga: Normal: UF 4.096
+id: 229 Proyecto: PARQUE LOS ABEDULES Depto B406 Precio caluga: Normal: UF 3.033
+id: 230 Proyecto: 2 NORTE 1230 Depto B301 Precio caluga: Normal: UF 3.678
+id: 231 Proyecto: NUEVA ARLEGUI Depto 302 Precio caluga: Normal: UF 4.593
+id: 232 Proyecto: Edificio Simón Bolívar 2543 Depto 125 Precio caluga: Normal: UF 8.050
+id: 233 Proyecto: Edificio Lyon 800 Depto 204 Precio caluga: Normal: UF 8.680
+id: 234 Proyecto: 2 NORTE 1230 Depto A301 Precio caluga: Normal: UF 5.094
+id: 235 Proyecto: NUEVA ARLEGUI Depto 505 Precio caluga: Normal: UF 5.526
+id: 236 Proyecto: Parque Victor Lamas - Edificio B Depto 1405 Precio caluga: Normal: UF 2.345
+id: 237 Proyecto: Edificio Mirador Placeres Depto 2201 Precio caluga: Normal: UF 3.471
+id: 238 Proyecto: HOY Depto 709-A Precio caluga: Normal: UF 2.094
+id: 239 Proyecto: Edificio El Retiro Depto D12 Precio caluga: Normal: UF 2.578
+id: 240 Proyecto: Edificio Ilumina Depto 303 Precio caluga: Normal: UF 4.429
+id: 241 Proyecto: Edificio Ottawa 4277 Depto 410 Precio caluga: Normal: UF 7.370
+id: 242 Proyecto: Edificio Martín de Zamora 4253 Depto 310 Precio caluga: Normal: UF 12.020
+id: 243 Proyecto: PARQUE LOS ABEDULES Depto B203 Precio caluga: Normal: UF 3.372
+id: 244 Proyecto: Siena Parque Quillayes Depto 209A Precio caluga: Normal: UF 2.627
+id: 245 Proyecto: Zenteno Depto 517 Precio caluga: Normal: UF 3.148
+id: 246 Proyecto: Perú Plaza II Depto 315 Precio caluga: Normal: UF 3.610
+id: 247 Proyecto: Isa Castillo Velasco Depto 506 Precio caluga: Normal: UF 6.915
+id: 248 Proyecto: Isa Castillo Velasco Depto 405 Precio caluga: Normal: UF 4.904
+id: 249 Proyecto: Edificio Ottawa 4277 Depto 304 Precio caluga: Normal: UF 8.850
+id: 250 Proyecto: Santa Petronila Plaza Depto 602 Precio caluga: Normal: UF 2.333
+id: 251 Proyecto: Siena Plaza Blanco Viel 1400 Depto 1402 Precio caluga: Normal: UF 2.786
+id: 252 Proyecto: Edificio Simón Bolívar 2543 Depto 151 Precio caluga: Normal: UF 10.330
+id: 253 Proyecto: Quilín 4811 Depto 205 Precio caluga: Normal: UF 2.920
+id: 254 Proyecto: Edificio Chiloé-Prat Depto 402 Precio caluga: Normal: UF 3.898
+id: 255 Proyecto: Santa Petronila Plaza Depto 2412 Precio caluga: Normal: UF 3.005
+id: 256 Proyecto: Edificio Ottawa 4277 Depto 302 Precio caluga: Normal: UF 8.849
+id: 257 Proyecto: Siena Parque Quillayes Depto 503A Precio caluga: Normal: UF 3.520
+id: 258 Proyecto: Exequiel II Depto 1605 Precio caluga: Normal: UF 3.648
+id: 259 Proyecto: Lyon View Depto 301A Precio caluga: Normal: UF 8.754
+id: 260 Proyecto: Villagra 161 Depto 507B Precio caluga: Normal: UF 3.790
+id: 261 Proyecto: Edificio Ottawa 4277 Depto 404 Precio caluga: Normal: UF 8.865
+id: 262 Proyecto: Santa Petronila Plaza Depto 907 Precio caluga: Normal: UF 2.955
+id: 263 Proyecto: Perú Plaza II Depto 1105 Precio caluga: Normal: UF 4.780
+id: 264 Proyecto: Plaza Fluvial Depto 709 Precio caluga: Normal: UF 4.795
+id: 265 Proyecto: Edificio Ilumina Depto 43 Precio caluga: Normal: UF 4.233
+id: 266 Proyecto: Edificio Lyon 800 Depto 209 Precio caluga: Normal: UF 13.900
+id: 267 Proyecto: Parque Victor Lamas - Edificio B Depto 1505 Precio caluga: Normal: UF 2.360
+id: 268 Proyecto: Quilín 4811 Depto 208 Precio caluga: Normal: UF 4.360
+id: 269 Proyecto: Edificio Martín de Zamora 4253 Depto 314 Precio caluga: Normal: UF 6.840
+id: 270 Proyecto: Edificio Lyon 800 Depto 206 Precio caluga: Normal: UF 8.750
+id: 271 Proyecto: PARQUE LOS ABEDULES Depto B1103 Precio caluga: Normal: UF 4.207
+id: 272 Proyecto: Santa Petronila Plaza Depto 1603 Precio caluga: Normal: UF 2.905
+id: 273 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 202 Precio caluga: Normal: UF 11.033
+id: 274 Proyecto: Mirador Playa Brava 2 Depto 906 Precio caluga: Normal: UF 8.160
+id: 275 Proyecto: Edificio El Retiro Depto D14 Precio caluga: Normal: UF 2.524
+id: 276 Proyecto: Edificio Simón Bolívar 2543 Depto 104 Precio caluga: Normal: UF 7.230
+id: 277 Proyecto: Edificio Ottawa 4277 Depto 204 Precio caluga: Normal: UF 8.836
+id: 278 Proyecto: Siena Plaza Blanco Viel 1400 Depto 1001 Precio caluga: Normal: UF 2.809
+id: 279 Proyecto: Santa Petronila Plaza Depto 308 Precio caluga: Normal: UF 2.905
+id: 280 Proyecto: 2 NORTE 1230 Depto A401 Precio caluga: Normal: UF 5.245
+id: 281 Proyecto: Santa Petronila Plaza Depto 2404 Precio caluga: Normal: UF 2.905
+id: 282 Proyecto: Edificio Martín de Zamora 4253 Depto 302 Precio caluga: Normal: UF 6.940
+id: 283 Proyecto: Edificio Visviri 1700 Depto 74 Precio caluga: Normal: UF 13.000
+id: 284 Proyecto: HOLANDA 1101 Depto 304 Precio caluga: Normal: UF 10.631
+id: 285 Proyecto: Edificio Ilumina Depto 205 Precio caluga: Normal: UF 4.297
+id: 286 Proyecto: Puerto Pewun Depto 507 Precio caluga: Normal: UF 3.865
+id: 287 Proyecto: HOLANDA 1101 Depto 502 Precio caluga: Normal: UF 13.105
+id: 288 Proyecto: Edificio San José Depto 107 Precio caluga: Normal: UF 3.378
+id: 289 Proyecto: HAMBURGO 557 Depto 104 Precio caluga: Normal: UF 5.339
+id: 290 Proyecto: Edificio Martín de Zamora 4253 Depto 210 Precio caluga: Normal: UF 11.840
+id: 291 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto 301 Precio caluga: Normal: UF 12.986
+id: 292 Proyecto: PARQUE LOS ABEDULES Depto B706 Precio caluga: Normal: UF 3.191
+id: 293 Proyecto: HOY Depto 204-B Precio caluga: Normal: UF 3.101
+id: 294 Proyecto: Av. Perú Plaza Depto 508 Precio caluga: Normal: UF 3.555
+id: 295 Proyecto: Santa Petronila Plaza Depto 717 Precio caluga: Normal: UF 1.855
+id: 296 Proyecto: HAMBURGO 557 Depto 307 Precio caluga: Normal: UF 6.720
+
+_____________________________________________________________ modo2
+id: 1 Proyecto: PARQUE LOS ABEDULES Depto B1102 Precio caluga: Normal: UF 4.526 Oferta: OfertaUF 3.711
+id: 2 Proyecto: LA VERBENA 4885 Depto 100 Precio caluga: Normal: UF 6.774 Oferta: OfertaUF 6.232
+
+
+id: 1 Proyecto: Santa Petronila Plaza Depto: Depto 602 Precio caluga: Normal: UF 2.333 precio Oferta: :nth-child(1) > .card > .item-padre > .card-body > .precios > div > .oferta
+id: 1 Proyecto: Quilín 4811 Depto: Depto 208 Precio caluga: Normal: UF 4.360 precio Oferta: :nth-child(1) > .card > .item-padre > .card-body > .precios > div > .oferta
+id: 1 Proyecto: Edificio San José Depto: Depto 201 Precio caluga: Normal: UF 3.378 precio Oferta: OfertaUF 3.108
+id: 1 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 302 Precio caluga: Normal: UF 6.940 precio Oferta: OfertaUF 6.593
+id: 1 Proyecto: Isa Castillo Velasco Depto: Depto 504 Precio caluga: Normal: UF 7.401 precio Oferta: OfertaUF 6.217
+id: 1 Proyecto: EDIFICIO PORTA PINZON Depto: Depto 201 Precio caluga: Normal: UF 15.055 precio Oferta: OfertaUF 13.851
+id: 1 Proyecto: ALike Depto: Depto 1714 Precio caluga: Normal: UF 4.024 precio Oferta: OfertaUF 3.622
+id: 1 Proyecto: Edificio Ottawa 4277 Depto: Depto 304 Precio caluga: Normal: UF 8.850 precio Oferta: OfertaUF 8.142
+id: 1 Proyecto: Edificio Mirador Placeres Depto: Depto 1913 Precio caluga: Normal: UF 3.461 precio Oferta: OfertaUF 3.115
+id: 1 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto 228 B Precio caluga: Normal: UF 4.170 precio Oferta: OfertaUF 3.962
+id: 1 Proyecto: HOLANDA 1101 Depto: Depto 204 Precio caluga: Normal: UF 10.124 precio Oferta: OfertaUF 8.909
+
+
+id: 1 Proyecto: PARQUE LOS ABEDULES Depto: Depto 1112 Precio caluga: Normal: UF 2.380 precio Oferta: 2.142
+id: 2 Proyecto: Edificio Lyon 800 Depto: Depto 309 Precio caluga: Normal: UF 8.677 precio Oferta: 7.983
+id: 3 Proyecto: Edificio Visviri 1700 Depto: Depto 1004 Precio caluga: Normal: UF 7.582 precio Oferta: 6.369
+id: 4 Proyecto: HAMBURGO 557 Depto: Depto 1105 Precio caluga: Normal: UF 4.780 precio Oferta: 4.063
+id: 5 Proyecto: Edificio Mirador Placeres Depto: Depto 301 Precio caluga: Normal: UF 12.986 precio Oferta: 11.428
+id: 6 Proyecto: Isa Castillo Velasco Depto: Depto 502 Precio caluga: Normal: UF 8.848 precio Oferta: 8.14
+id: 7 Proyecto: Edmundo Eluchans Plaza Depto: Depto 203A Precio caluga: Normal: UF 3.570 precio Oferta: 3.284
+id: 8 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 409 Precio caluga: Normal: UF 8.691 precio Oferta: 7.996
+id: 9 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 1013 Precio caluga: Normal: UF 4.230 precio Oferta: 3.596
+id: 10 Proyecto: Edificio Plaza Pedro de Valdivia Depto: Depto 301 Precio caluga: Normal: UF 5.033 precio Oferta: 4.278
+id: 11 Proyecto: Exequiel II Depto: Depto 3102 Precio caluga: Normal: UF 4.281 precio Oferta: 3.853
+id: 12 Proyecto: Lyon View Depto: Depto 106 Precio caluga: Normal: UF 10.600 precio Oferta: 9.646
+id: 13 Proyecto: HAMBURGO 557 Depto: Depto 205 Precio caluga: Normal: UF 15.226 precio Oferta: 14.008
+id: 14 Proyecto: Edificio Chiloé-Prat Depto: Depto A306 Precio caluga: Normal: UF 5.126 precio Oferta: 4.87
+id: 15 Proyecto: Mirador Playa Brava 2 Depto: Depto 308 Precio caluga: Normal: UF 5.458 precio Oferta: 4.639
+id: 16 Proyecto: Edmundo Eluchans Plaza Depto: Depto 74 Precio caluga: Normal: UF 4.199 precio Oferta: 3.653
+id: 17 Proyecto: Mirador Playa Brava 2 Depto: Depto 114 Precio caluga: Normal: UF 7.390 precio Oferta: 6.873
+id: 18 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto D303 Precio caluga: Normal: UF 2.624 precio Oferta: 2.414
+id: 19 Proyecto: HOY Depto: Depto 201 Precio caluga: Normal: UF 4.963 precio Oferta: 4.219
+id: 20 Proyecto: Edificio Ottawa 4277 Depto: Depto 2201 Precio caluga: Normal: UF 3.471 precio Oferta: 3.124
+id: 21 Proyecto: Edmundo Eluchans Plaza Depto: Depto 1805 Precio caluga: Normal: UF 2.405 precio Oferta: 2.285
+id: 22 Proyecto: Edificio NEW Depto: Depto C302 Precio caluga: Normal: UF 4.090 precio Oferta: 3.354
+id: 23 Proyecto: Quilín 4811 Depto: Depto 310 Precio caluga: Normal: UF 12.020 precio Oferta: 11.419
+id: 24 Proyecto: Clic Depto: Depto 1104 Precio caluga: Normal: UF 5.179 precio Oferta: 4.765
+id: 24 Proyecto: EDIFICIO PORTA PINZON Depto: Depto B1102 Precio caluga: Normal: UF 4.526 precio Oferta: 3.711
+id: 25 Proyecto: Edificio NEW Depto: Depto 204 Precio caluga: Normal: UF 8.702 precio Oferta: 7.658
+id: 26 Proyecto: Perú Plaza II Depto: Depto 507 Precio caluga: Normal: UF 3.865 precio Oferta: 3.285
+id: 27 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 301 Precio caluga: Normal: UF 12.986 precio Oferta: 11.428
+id: 28 Proyecto: Mirador Playa Brava 3 Depto: Depto 504 Precio caluga: Normal: UF 11.344 precio Oferta: 9.983
+id: 29 Proyecto: Edmundo Eluchans Plaza Depto: Depto 904 Precio caluga: Normal: UF 4.740 precio Oferta: 4.029
+id: 30 Proyecto: Edificio San José Depto: Depto 1613 Precio caluga: Normal: UF 3.709 precio Oferta: 3.264
+id: 31 Proyecto: ALike Depto: Depto 205 Precio caluga: Normal: UF 6.714 precio Oferta: 6.177
+id: 32 Proyecto: Touch Depto: Depto 205 Precio caluga: Normal: UF 15.226 precio Oferta: 14.008
+id: 33 Proyecto: EDIFICIO JULIO PRADO 2110 Depto: Depto 208A Precio caluga: Normal: UF 3.352 precio Oferta: 2.95
+id: 34 Proyecto: HOLANDA 1101 Depto: Depto 205 Precio caluga: Normal: UF 7.308 precio Oferta: 6.723
+id: 35 Proyecto: Siena Plaza Blanco Viel 1400 Depto: Depto 201 Precio caluga: Normal: UF 3.378 precio Oferta: 3.108
+id: 35 Proyecto: Exequiel II Depto: Depto 308 Precio caluga: Normal: UF 5.458 precio Oferta: 4.639
+id: 36 Proyecto: HOLANDA 1101 Depto: Depto 503A Precio caluga: Normal: UF 3.520 precio Oferta: 3.098
+id: 37 Proyecto: HOY Depto: Depto 107 Precio caluga: Normal: UF 3.378 precio Oferta: 3.108
+id: 38 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 25 Precio caluga: Normal: UF 8.420 precio Oferta: 7.915
+id: 39 Proyecto: NUEVA ARLEGUI Depto: Depto 1712 Precio caluga: Normal: UF 3.563 precio Oferta: 3.207
+id: 40 Proyecto: Edificio Ilumina Depto: Depto 405 Precio caluga: Normal: UF 4.904 precio Oferta: 4.119
+id: 41 Proyecto: Edificio San José Depto: Depto 301 Precio caluga: Normal: UF 12.986 precio Oferta: 11.428
+id: 42 Proyecto: Quilín 4811 Depto: Depto 25 Precio caluga: Normal: UF 4.021 precio Oferta: 3.498
+id: 43 Proyecto: Exequiel II Depto: Depto 24 Precio caluga: Normal: UF 12.590 precio Oferta: 11.583
+id: 44 Proyecto: HOY Depto: Depto 602 Precio caluga: Normal: UF 2.333 precio Oferta: 2.006
+id: 45 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 1411 Precio caluga: Normal: UF 5.529 precio Oferta: 4.866
+id: 46 Proyecto: Santa Petronila Plaza Depto: Depto 1405 Precio caluga: Normal: UF 2.345 precio Oferta: 2.228
+id: 47 Proyecto: Brown Plaza Ñuñoa Depto: Depto 131 B Precio caluga: Normal: UF 3.820 precio Oferta: 3.629
+id: 48 Proyecto: Villagra 161 Depto: Depto 316 Precio caluga: Normal: UF 10.400 precio Oferta: 9.88
+id: 49 Proyecto: Siena Parque Quillayes Depto: Depto 202 Precio caluga: Normal: UF 8.132 precio Oferta: 7.481
+id: 50 Proyecto: HOY Depto: Depto 1103 Precio caluga: Normal: UF 3.693 precio Oferta: 3.398
+id: 51 Proyecto: Quilín 4811 Depto: Depto 302 Precio caluga: Normal: UF 8.849 precio Oferta: 8.141
+id: 52 Proyecto: HOLANDA 3451 Depto: Depto 313 Precio caluga: Normal: UF 3.451 precio Oferta: 2.968
+id: 53 Proyecto: HOLANDA 1101 Depto: Depto 301 Precio caluga: Normal: UF 5.033 precio Oferta: 4.278
+id: 54 Proyecto: Edificio Ilumina Depto: Depto 401 Precio caluga: Normal: UF 7.370 precio Oferta: 6.78
+id: 55 Proyecto: Edificio NEW Depto: Depto 107 Precio caluga: Normal: UF 7.290 precio Oferta: 6.78
+id: 56 Proyecto: Santa Petronila Plaza Depto: Depto 506 Precio caluga: Normal: UF 2.846 precio Oferta: 2.561
+id: 57 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 25 Precio caluga: Normal: UF 8.420 precio Oferta: 7.915
+id: 58 Proyecto: Mirador Playa Brava 3 Depto: Depto 210 Precio caluga: Normal: UF 11.840 precio Oferta: 11.248
+id: 59 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 1210 Precio caluga: Normal: UF 13.990 precio Oferta: 12.231
+id: 60 Proyecto: 2 NORTE 1230 Depto: Depto 504 Precio caluga: Normal: UF 11.344 precio Oferta: 9.983
+id: 61 Proyecto: Edificio Ottawa 4277 Depto: Depto B302 Precio caluga: Normal: UF 5.717 precio Oferta: 5.431
+id: 62 Proyecto: Edmundo Eluchans Plaza Depto: Depto 313 Precio caluga: Normal: UF 3.451 precio Oferta: 2.968
+id: 63 Proyecto: HOY Depto: Depto 1714 Precio caluga: Normal: UF 4.024 precio Oferta: 3.622
+id: 64 Proyecto: Zenteno Depto: Depto 303 Precio caluga: Normal: UF 4.429 precio Oferta: 3.853
+id: 65 Proyecto: Edificio Chiloé-Prat Depto: Depto 22 Precio caluga: Normal: UF 8.330 precio Oferta: 7.83
+id: 66 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 220 Precio caluga: Normal: UF 4.632 precio Oferta: 4.076
+id: 67 Proyecto: Mirador Playa Brava 2 Depto: Depto 409 Precio caluga: Normal: UF 4.078 precio Oferta: 3.548
+id: 68 Proyecto: Edmundo Eluchans Plaza Depto: Depto 204 Precio caluga: Normal: UF 8.680 precio Oferta: 7.452
+id: 68 Proyecto: Edificio Chiloé-Prat Depto: Depto 220 Precio caluga: Normal: UF 4.632 precio Oferta: 4.076
+id: 69 Proyecto: Edificio Chiloé-Prat Depto: Depto 402 Precio caluga: Normal: UF 3.898 precio Oferta: 3.391
+id: 70 Proyecto: Edificio Ilumina Depto: Depto 404 Precio caluga: Normal: UF 10.817 precio Oferta: 9.519
+id: 71 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 801 Precio caluga: Normal: UF 4.082 precio Oferta: 3.674
+id: 72 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 1001 Precio caluga: Normal: UF 2.809 precio Oferta: 2.528
+id: 73 Proyecto: HOY Depto: Depto 503A Precio caluga: Normal: UF 3.520 precio Oferta: 3.098
+id: 74 Proyecto: Ñuñoa View Depto: Depto 215 Precio caluga: Normal: UF 3.774 precio Oferta: 3.321
+id: 75 Proyecto: NUEVA ARLEGUI Depto: Depto 2902 Precio caluga: Normal: UF 4.214 precio Oferta: 3.793
+id: 76 Proyecto: Edificio Mirador Placeres Depto: Depto D201 Precio caluga: Normal: UF 3.292 precio Oferta: 3.029
+id: 77 Proyecto: Villagra 161 Depto: Depto 202 Precio caluga: Normal: UF 8.132 precio Oferta: 7.481
+id: 78 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 1805 Precio caluga: Normal: UF 2.405 precio Oferta: 2.285
+id: 79 Proyecto: Edificio El Retiro Depto: Depto 204 Precio caluga: Normal: UF 8.702 precio Oferta: 7.658
+id: 80 Proyecto: Siena Parque Quillayes Depto: Depto A403 Precio caluga: Normal: UF 5.296 precio Oferta: 5.031
+id: 81 Proyecto: PARQUE LOS ABEDULES Depto: Depto 314-B Precio caluga: Normal: UF 4.545 precio Oferta: 4.091
+id: 82 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 504 Precio caluga: Normal: UF 3.010 precio Oferta: 2.769
+id: 83 Proyecto: Plaza Fluvial Depto: Depto 210 Precio caluga: Normal: UF 11.840 precio Oferta: 11.248
+id: 84 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 309 A Precio caluga: Normal: UF 12.933 precio Oferta: 12.286
+id: 85 Proyecto: Quilín 4811 Depto: Depto 203A Precio caluga: Normal: UF 9.837 precio Oferta: 8.755
+id: 86 Proyecto: HOY Depto: Depto 107 Precio caluga: Normal: UF 5.830 precio Oferta: 5.247
+id: 87 Proyecto: Santa Petronila Plaza Depto: Depto 202 Precio caluga: Normal: UF 4.533 precio Oferta: 3.853
+id: 88 Proyecto: NUEVA ARLEGUI Depto: Depto 510 Precio caluga: Normal: UF 5.379 precio Oferta: 5.056
+id: 89 Proyecto: Av. Perú Plaza Depto: Depto 501 Precio caluga: Normal: UF 8.553 precio Oferta: 6.928
+id: 90 Proyecto: Lyon View Depto: Depto 131 B Precio caluga: Normal: UF 3.820 precio Oferta: 3.629
+id: 91 Proyecto: HAMBURGO 557 Depto: Depto 1508 Precio caluga: Normal: UF 4.023 precio Oferta: 3.621
+id: 92 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto 407B Precio caluga: Normal: UF 5.833 precio Oferta: 5.191
+id: 93 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto D303 Precio caluga: Normal: UF 2.624 precio Oferta: 2.414
+id: 94 Proyecto: Exequiel II Depto: Depto 203 Precio caluga: Normal: UF 6.740 precio Oferta: 6.403
+id: 95 Proyecto: 2 NORTE 1230 Depto: Depto 502 Precio caluga: Normal: UF 8.848 precio Oferta: 8.14
+id: 96 Proyecto: Edificio Ilumina Depto: Depto 210 Precio caluga: Normal: UF 11.840 precio Oferta: 11.248
+id: 97 Proyecto: Santa Petronila Plaza Depto: Depto 612 Precio caluga: Normal: UF 4.068 precio Oferta: 3.498
+id: 98 Proyecto: Villagra 161 Depto: Depto 1735 Precio caluga: Normal: UF 3.222 precio Oferta: 2.9
+id: 99 Proyecto: Exequiel II Depto: Depto 1110 Precio caluga: Normal: UF 3.674 precio Oferta: 3.233
+id: 100 Proyecto: HOLANDA 3451 Depto: Depto 404 Precio caluga: Normal: UF 3.507 precio Oferta: 3.226
+id: 101 Proyecto: Edificio Lyon 800 Depto: Depto 203A Precio caluga: Normal: UF 3.570 precio Oferta: 3.284
+id: 102 Proyecto: Edificio Chiloé-Prat Depto: Depto 25 Precio caluga: Normal: UF 8.420 precio Oferta: 7.915
+id: 103 Proyecto: Exequiel II Depto: Depto 202 Precio caluga: Normal: UF 8.835 precio Oferta: 8.128
+id: 104 Proyecto: NUEVA ARLEGUI Depto: Depto 502 Precio caluga: Normal: UF 8.848 precio Oferta: 8.14
+id: 105 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto A301 Precio caluga: Normal: UF 5.094 precio Oferta: 4.839
+id: 106 Proyecto: Edificio Ottawa 4277 Depto: Depto 313 Precio caluga: Normal: UF 3.451 precio Oferta: 2.968
+id: 107 Proyecto: Edificio Ottawa 4277 Depto: Depto 2404 Precio caluga: Normal: UF 2.905 precio Oferta: 2.469
+id: 108 Proyecto: Touch Depto: Depto 202 Precio caluga: Normal: UF 8.132 precio Oferta: 7.481
+id: 109 Proyecto: Prado 1810 Depto: Depto 204 Precio caluga: Normal: UF 10.124 precio Oferta: 8.909
+id: 110 Proyecto: NUEVA ARLEGUI Depto: Depto 302 Precio caluga: Normal: UF 11.602 precio Oferta: 10.21
+id: 111 Proyecto: HAMBURGO 557 Depto: Depto 204-B Precio caluga: Normal: UF 3.101 precio Oferta: 2.791
+id: 112 Proyecto: Edificio El Retiro Depto: Depto 3201 Precio caluga: Normal: UF 3.928 precio Oferta: 3.535
+id: 113 Proyecto: ALike Depto: Depto 74 Precio caluga: Normal: UF 13.000 precio Oferta: 11.96
+id: 114 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 1202 Precio caluga: Normal: UF 4.110 precio Oferta: 3.699
+id: 115 Proyecto: Av. Perú Plaza Depto: Depto 315 Precio caluga: Normal: UF 3.610 precio Oferta: 3.069
+id: 116 Proyecto: Mirador Playa Brava 3 Depto: Depto 1402 Precio caluga: Normal: UF 2.786 precio Oferta: 2.507
+id: 117 Proyecto: HOY Depto: Depto 504 Precio caluga: Normal: UF 7.401 precio Oferta: 6.217
+id: 118 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 215 Precio caluga: Normal: UF 3.774 precio Oferta: 3.321
+id: 119 Proyecto: Edificio San José Depto: Depto 1714 Precio caluga: Normal: UF 4.024 precio Oferta: 3.622
+id: 120 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto 401 Precio caluga: Normal: UF 2.700 precio Oferta: 2.43
+id: 121 Proyecto: Siena Parque Quillayes Depto: Depto 203 Precio caluga: Normal: UF 4.140 precio Oferta: 3.809
+id: 122 Proyecto: Siena Parque Quillayes Depto: Depto 510 Precio caluga: Normal: UF 7.357 precio Oferta: 6.768
+id: 123 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 3301 Precio caluga: Normal: UF 3.950 precio Oferta: 3.555
+id: 124 Proyecto: HAMBURGO 557 Depto: Depto 301 Precio caluga: Normal: UF 7.189 precio Oferta: 6.326
+id: 125 Proyecto: Siena Parque Quillayes Depto: Depto 709 Precio caluga: Normal: UF 4.795 precio Oferta: 4.411
+id: 126 Proyecto: ALike Depto: Depto 714 Precio caluga: Normal: UF 3.550 precio Oferta: 3.195
+id: 127 Proyecto: LA VERBENA 4885 Depto: Depto 116-A Precio caluga: Normal: UF 2.935 precio Oferta: 2.642
+id: 128 Proyecto: Exequiel II Depto: Depto 301 Precio caluga: Normal: UF 7.730 precio Oferta: 7.112
+id: 129 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 1004 Precio caluga: Normal: UF 7.582 precio Oferta: 6.369
+id: 130 Proyecto: Mirador Playa Brava 3 Depto: Depto 215 Precio caluga: Normal: UF 4.400 precio Oferta: 4.048
+id: 131 Proyecto: Clic Depto: Depto 304 Precio caluga: Normal: UF 5.430 precio Oferta: 4.996
+id: 132 Proyecto: Departamental II Depto: Depto 704 Precio caluga: Normal: UF 2.790 precio Oferta: 2.511
+id: 133 Proyecto: Santa Petronila Plaza Depto: Depto 212 Precio caluga: Normal: UF 10.410 precio Oferta: 9.89
+id: 134 Proyecto: HOLANDA 1101 Depto: Depto 105 Precio caluga: Normal: UF 3.446 precio Oferta: 3.101
+id: 135 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 202 Precio caluga: Normal: UF 11.702 precio Oferta: 10.298
+id: 136 Proyecto: Edificio El Retiro Depto: Depto 704 Precio caluga: Normal: UF 2.790 precio Oferta: 2.511
+id: 137 Proyecto: Santa Petronila Plaza Depto: Depto 614 Precio caluga: Normal: UF 2.752 precio Oferta: 2.477
+id: 138 Proyecto: PARQUE LOS ABEDULES Depto: Depto 416B Precio caluga: Normal: UF 2.804 precio Oferta: 2.468
+id: 139 Proyecto: Mirador Playa Brava 2 Depto: Depto D13 Precio caluga: Normal: UF 2.524 precio Oferta: 2.322
+id: 140 Proyecto: Pajaritos del Parque Torre 6 Depto: Depto 1735 Precio caluga: Normal: UF 3.222 precio Oferta: 2.9
+id: 141 Proyecto: NUEVA ARLEGUI Depto: Depto 24 Precio caluga: Normal: UF 12.590 precio Oferta: 11.583
+id: 142 Proyecto: Edificio El Retiro Depto: Depto B706 Precio caluga: Normal: UF 3.191 precio Oferta: 2.617
+id: 143 Proyecto: Santa Petronila Plaza Depto: Depto 507 Precio caluga: Normal: UF 3.260 precio Oferta: 2.738
+id: 144 Proyecto: Perú Plaza II Depto: Depto 205 Precio caluga: Normal: UF 15.226 precio Oferta: 14.008
+id: 145 Proyecto: Santa Petronila Plaza Depto: Depto 1102 Precio caluga: Normal: UF 2.809 precio Oferta: 2.528
+id: 146 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 25 B Precio caluga: Normal: UF 3.360 precio Oferta: 3.192
+id: 147 Proyecto: Edificio Ottawa 4277 Depto: Depto 315 Precio caluga: Normal: UF 3.610 precio Oferta: 3.069
+id: 148 Proyecto: Av. Perú Plaza Depto: Depto 21 B Precio caluga: Normal: UF 3.360 precio Oferta: 3.192
+id: 149 Proyecto: Ñuñoa View Depto: Depto 201 Precio caluga: Normal: UF 10.410 precio Oferta: 9.89
+id: 150 Proyecto: Prado 1810 Depto: Depto 403 Precio caluga: Normal: UF 5.450 precio Oferta: 4.578
+id: 151 Proyecto: Edificio Plaza Pedro de Valdivia Depto: Depto 401 Precio caluga: Normal: UF 13.323 precio Oferta: 11.724
+id: 152 Proyecto: Mirador Playa Brava 2 Depto: Depto 502 Precio caluga: Normal: UF 3.961 precio Oferta: 3.367
+id: 153 Proyecto: Av. Perú Plaza Depto: Depto 708 Precio caluga: Normal: UF 5.667 precio Oferta: 4.874
+id: 154 Proyecto: Santa Petronila Plaza Depto: Depto 708 Precio caluga: Normal: UF 5.667 precio Oferta: 4.874
+id: 155 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 3302 Precio caluga: Normal: UF 4.348 precio Oferta: 3.913
+id: 156 Proyecto: EDIFICIO PORTA PINZON Depto: Depto 3202 Precio caluga: Normal: UF 4.314 precio Oferta: 3.883
+id: 157 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto B203 Precio caluga: Normal: UF 3.372 precio Oferta: 2.765
+id: 158 Proyecto: Clic Depto: Depto 301 Precio caluga: Normal: UF 2.902 precio Oferta: 2.554
+id: 159 Proyecto: Pajaritos del Parque Torre 6 Depto: Depto C302 Precio caluga: Normal: UF 4.090 precio Oferta: 3.354
+id: 160 Proyecto: Edificio Ilumina Depto: Depto 43 Precio caluga: Normal: UF 4.233 precio Oferta: 3.683
+id: 161 Proyecto: Zenteno Depto: Depto 3302 Precio caluga: Normal: UF 4.348 precio Oferta: 3.913
+id: 162 Proyecto: Edificio El Retiro Depto: Depto 203 Precio caluga: Normal: UF 3.710 precio Oferta: 3.265
+id: 163 Proyecto: Edificio El Retiro Depto: Depto 313 Precio caluga: Normal: UF 3.451 precio Oferta: 2.968
+id: 164 Proyecto: HOY Depto: Depto 208 Precio caluga: Normal: UF 4.360 precio Oferta: 4.011
+id: 165 Proyecto: Mirador Playa Brava 3 Depto: Depto 502 Precio caluga: Normal: UF 8.848 precio Oferta: 8.14
+id: 166 Proyecto: ALike Depto: Depto 200 Precio caluga: Normal: UF 6.568 precio Oferta: 6.043
+id: 167 Proyecto: Edificio El Retiro Depto: Depto D205 Precio caluga: Normal: UF 3.292 precio Oferta: 3.029
+id: 168 Proyecto: NUEVA ARLEGUI Depto: Depto 1210 Precio caluga: Normal: UF 13.990 precio Oferta: 12.231
+id: 169 Proyecto: Lyon View Depto: Depto 502 Precio caluga: Normal: UF 6.238 precio Oferta: 5.24
+id: 170 Proyecto: Zenteno Depto: Depto 434 Precio caluga: Normal: UF 3.371 precio Oferta: 2.933
+id: 171 Proyecto: Edificio Ottawa 4277 Depto: Depto 306 A Precio caluga: Normal: UF 11.547 precio Oferta: 10.97
+id: 172 Proyecto: PARQUE LOS ABEDULES Depto: Depto A301 Precio caluga: Normal: UF 5.094 precio Oferta: 4.839
+id: 173 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 709-A Precio caluga: Normal: UF 2.094 precio Oferta: 1.885
+id: 174 Proyecto: Isa Castillo Velasco Depto: Depto 1105 Precio caluga: Normal: UF 4.780 precio Oferta: 4.063
+id: 175 Proyecto: Santa Petronila Plaza Depto: Depto 606 Precio caluga: Normal: UF 8.120 precio Oferta: 7.146
+id: 176 Proyecto: Isa Castillo Velasco Depto: Depto 301 Precio caluga: Normal: UF 2.902 precio Oferta: 2.554
+id: 177 Proyecto: Siena Parque Quillayes Depto: Depto 301 Precio caluga: Normal: UF 7.189 precio Oferta: 6.326
+id: 178 Proyecto: Edificio Chiloé-Prat Depto: Depto 210 Precio caluga: Normal: UF 11.840 precio Oferta: 11.248
+id: 179 Proyecto: Clic Depto: Depto 205 Precio caluga: Normal: UF 2.920 precio Oferta: 2.686
+id: 180 Proyecto: Perú Plaza II Depto: Depto 1103 Precio caluga: Normal: UF 5.550 precio Oferta: 4.662
+id: 181 Proyecto: Lyon View Depto: Depto 1413 Precio caluga: Normal: UF 3.441 precio Oferta: 3.097
+id: 182 Proyecto: Exequiel II Depto: Depto 404 Precio caluga: Normal: UF 8.865 precio Oferta: 8.156
+id: 183 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 112-A Precio caluga: Normal: UF 4.472 precio Oferta: 4.025
+id: 184 Proyecto: Mirador Playa Brava 2 Depto: Depto 604 Precio caluga: Normal: UF 3.550 precio Oferta: 3.195
+id: 185 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto 604 Precio caluga: Normal: UF 4.298 precio Oferta: 3.868
+id: 186 Proyecto: Edificio Lyon 800 Depto: Depto 721-B Precio caluga: Normal: UF 2.121 precio Oferta: 1.909
+id: 187 Proyecto: HOY Depto: Depto 92 Precio caluga: Normal: UF 4.390 precio Oferta: 3.819
+id: 188 Proyecto: Edmundo Eluchans Plaza Depto: Depto 409 Precio caluga: Normal: UF 8.691 precio Oferta: 7.996
+id: 189 Proyecto: ALike Depto: Depto B1103 Precio caluga: Normal: UF 4.207 precio Oferta: 3.492
+id: 190 Proyecto: NUEVA ARLEGUI Depto: Depto 504 Precio caluga: Normal: UF 11.344 precio Oferta: 9.983
+id: 191 Proyecto: ALike Depto: Depto 1001 Precio caluga: Normal: UF 2.809 precio Oferta: 2.528
+id: 192 Proyecto: Edificio Chiloé-Prat Depto: Depto 1201 Precio caluga: Normal: UF 2.660 precio Oferta: 2.394
+id: 193 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 805 Precio caluga: Normal: UF 3.075 precio Oferta: 2.829
+id: 194 Proyecto: Touch Depto: Depto 107 Precio caluga: Normal: UF 5.830 precio Oferta: 5.247
+id: 195 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto D25 Precio caluga: Normal: UF 3.242 precio Oferta: 2.983
+id: 196 Proyecto: Santa Petronila Plaza Depto: Depto 215 Precio caluga: Normal: UF 4.400 precio Oferta: 4.048
+id: 197 Proyecto: Siena Plaza Blanco Viel 1400 Depto: Depto 3202 Precio caluga: Normal: UF 4.314 precio Oferta: 3.883
+id: 198 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 603 Precio caluga: Normal: UF 4.767 precio Oferta: 4.052
+id: 199 Proyecto: Mirador Playa Brava 2 Depto: Depto 107 Precio caluga: Normal: UF 3.378 precio Oferta: 3.04
+id: 200 Proyecto: Santa Petronila Plaza Depto: Depto 2411 Precio caluga: Normal: UF 3.012 precio Oferta: 2.5
+id: 201 Proyecto: Edificio El Retiro Depto: Depto 504 Precio caluga: Normal: UF 11.344 precio Oferta: 9.983
+id: 202 Proyecto: Perú Plaza II Depto: Depto 1913 Precio caluga: Normal: UF 3.461 precio Oferta: 3.115
+id: 203 Proyecto: Edificio Ottawa 4277 Depto: Depto B203 Precio caluga: Normal: UF 3.372 precio Oferta: 2.765
+id: 204 Proyecto: Mirador Playa Brava 3 Depto: Depto D13 Precio caluga: Normal: UF 2.524 precio Oferta: 2.322
+id: 205 Proyecto: Zenteno Depto: Depto 215 Precio caluga: Normal: UF 4.400 precio Oferta: 4.048
+id: 206 Proyecto: Mirador Playa Brava 2 Depto: Depto 210 Precio caluga: Normal: UF 11.840 precio Oferta: 11.248
+id: 207 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 3301 Precio caluga: Normal: UF 3.950 precio Oferta: 3.555
+id: 208 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 308 A Precio caluga: Normal: UF 8.651 precio Oferta: 8.218
+id: 209 Proyecto: Touch Depto: Depto 609 Precio caluga: Normal: UF 5.612 precio Oferta: 5.219
+id: 210 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 206 Precio caluga: Normal: UF 3.181 precio Oferta: 2.863
+id: 211 Proyecto: Edificio Ilumina Depto: Depto A405 Precio caluga: Normal: UF 3.635 precio Oferta: 3.453
+id: 212 Proyecto: Lyon View Depto: Depto 315 Precio caluga: Normal: UF 3.610 precio Oferta: 3.069
+id: 213 Proyecto: Edificio NEW Depto: Depto 204A Precio caluga: Normal: UF 3.520 precio Oferta: 3.238
+id: 214 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 301 Precio caluga: Normal: UF 2.902 precio Oferta: 2.554
+id: 215 Proyecto: Zenteno Depto: Depto 504 Precio caluga: Normal: UF 7.401 precio Oferta: 6.217
+id: 216 Proyecto: Exequiel II Depto: Depto 202 Precio caluga: Normal: UF 4.533 precio Oferta: 3.853
+id: 217 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 204 Precio caluga: Normal: UF 10.124 precio Oferta: 8.909
+id: 218 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 714 Precio caluga: Normal: UF 3.550 precio Oferta: 3.195
+id: 219 Proyecto: Lyon View Depto: Depto 203 Precio caluga: Normal: UF 4.676 precio Oferta: 4.302
+id: 220 Proyecto: Touch Depto: Depto 1706 Precio caluga: Normal: UF 2.820 precio Oferta: 2.482
+id: 221 Proyecto: Santa Petronila Plaza Depto: Depto 25 B Precio caluga: Normal: UF 3.360 precio Oferta: 3.192
+id: 222 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 504 Precio caluga: Normal: UF 3.100 precio Oferta: 2.79
+id: 223 Proyecto: Edificio Plaza Pedro de Valdivia Depto: Depto 315 Precio caluga: Normal: UF 3.610 precio Oferta: 3.069
+id: 224 Proyecto: HAMBURGO 557 Depto: Depto 913 Precio caluga: Normal: UF 3.585 precio Oferta: 3.262
+id: 225 Proyecto: Edificio San José Depto: Depto 105 Precio caluga: Normal: UF 3.446 precio Oferta: 3.101
+id: 226 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 507 Precio caluga: Normal: UF 3.260 precio Oferta: 2.738
+id: 227 Proyecto: 2 NORTE 1230 Depto: Depto B203 Precio caluga: Normal: UF 3.372 precio Oferta: 2.765
+id: 228 Proyecto: Edificio Alto Villaseca Depto: Depto 202 Precio caluga: Normal: UF 11.033 precio Oferta: 9.709
+id: 229 Proyecto: Siena Parque Quillayes Depto: Depto 506 Precio caluga: Normal: UF 4.128 precio Oferta: 3.509
+id: 230 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 228 B Precio caluga: Normal: UF 4.170 precio Oferta: 3.962
+id: 231 Proyecto: Av. Perú Plaza Depto: Depto 1004 Precio caluga: Normal: UF 7.582 precio Oferta: 6.369
+id: 232 Proyecto: Edificio El Retiro Depto: Depto 1603 Precio caluga: Normal: UF 2.905 precio Oferta: 2.44
+id: 233 Proyecto: Zenteno Depto: Depto 504 Precio caluga: Normal: UF 7.401 precio Oferta: 6.217
+id: 234 Proyecto: Pajaritos del Parque Torre 6 Depto: Depto 307 Precio caluga: Normal: UF 6.720 precio Oferta: 6.182
+id: 235 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 410A Precio caluga: Normal: UF 3.488 precio Oferta: 3.069
+id: 236 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 409 Precio caluga: Normal: UF 4.078 precio Oferta: 3.548
+id: 237 Proyecto: Edificio San José Depto: Depto 306 A Precio caluga: Normal: UF 11.547 precio Oferta: 10.97
+id: 238 Proyecto: Mirador Playa Brava 3 Depto: Depto 2902 Precio caluga: Normal: UF 4.214 precio Oferta: 3.793
+id: 239 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto B406 Precio caluga: Normal: UF 3.033 precio Oferta: 2.487
+id: 240 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 104 Precio caluga: Normal: UF 7.230 precio Oferta: 6.724
+id: 241 Proyecto: Edificio Chiloé-Prat Depto: Depto 427 Precio caluga: Normal: UF 2.731 precio Oferta: 2.349
+id: 242 Proyecto: Edificio Mirador Placeres Depto: Depto 1411 Precio caluga: Normal: UF 5.529 precio Oferta: 4.866
+id: 243 Proyecto: Perú Plaza II Depto: Depto A301 Precio caluga: Normal: UF 5.094 precio Oferta: 4.839
+id: 244 Proyecto: Edificio Ottawa 4277 Depto: Depto 206 Precio caluga: Normal: UF 8.750 precio Oferta: 7.515
+id: 245 Proyecto: Santa Petronila Plaza Depto: Depto 504 Precio caluga: Normal: UF 3.100 precio Oferta: 2.79
+id: 246 Proyecto: Exequiel II Depto: Depto 714 Precio caluga: Normal: UF 3.550 precio Oferta: 3.195
+id: 247 Proyecto: Edificio Alto Villaseca Depto: Depto 410 Precio caluga: Normal: UF 7.370 precio Oferta: 6.78
+id: 248 Proyecto: Edificio Mirador Placeres Depto: Depto 2206 Precio caluga: Normal: UF 3.340 precio Oferta: 3.006
+id: 249 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 803 Precio caluga: Normal: UF 6.134 precio Oferta: 5.153
+id: 250 Proyecto: 2 NORTE 1230 Depto: Depto 503A Precio caluga: Normal: UF 3.520 precio Oferta: 3.098
+id: 251 Proyecto: Edificio Ottawa 4277 Depto: Depto 309 Precio caluga: Normal: UF 11.770 precio Oferta: 11.182
+id: 252 Proyecto: Pajaritos del Parque Torre 6 Depto: Depto 315 Precio caluga: Normal: UF 3.610 precio Oferta: 3.069
+id: 253 Proyecto: Touch Depto: Depto 22 Precio caluga: Normal: UF 8.330 precio Oferta: 7.83
+id: 254 Proyecto: Edmundo Eluchans Plaza Depto: Depto D14 Precio caluga: Normal: UF 2.524 precio Oferta: 2.322
+id: 255 Proyecto: Edmundo Eluchans Plaza Depto: Depto 201 Precio caluga: Normal: UF 3.868 precio Oferta: 3.365
+id: 256 Proyecto: HOY Depto: Depto 1706 Precio caluga: Normal: UF 2.820 precio Oferta: 2.482
+id: 257 Proyecto: Siena Plaza Blanco Viel 1400 Depto: Depto 306 A Precio caluga: Normal: UF 11.547 precio Oferta: 10.97
+id: 258 Proyecto: Departamental II Depto: Depto 1018 Precio caluga: Normal: UF 3.617 precio Oferta: 3.255
+id: 259 Proyecto: Edificio Ottawa 4277 Depto: Depto B302 Precio caluga: Normal: UF 5.717 precio Oferta: 5.431
+id: 260 Proyecto: PARQUE LOS ABEDULES Depto: Depto B203 Precio caluga: Normal: UF 3.372 precio Oferta: 2.765
+id: 261 Proyecto: Edificio Lyon 800 Depto: Depto 314 Precio caluga: Normal: UF 6.840 precio Oferta: 6.498
+id: 262 Proyecto: Edificio El Retiro Depto: Depto A401 Precio caluga: Normal: UF 5.245 precio Oferta: 4.983
+id: 263 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 215 Precio caluga: Normal: UF 3.774 precio Oferta: 3.321
+id: 264 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto 204 Precio caluga: Normal: UF 8.836 precio Oferta: 8.129
+id: 265 Proyecto: Edificio Ilumina Depto: Depto A301 Precio caluga: Normal: UF 5.094 precio Oferta: 4.839
+id: 266 Proyecto: Edificio Ottawa 4277 Depto: Depto 801 Precio caluga: Normal: UF 4.082 precio Oferta: 3.674
+id: 267 Proyecto: Edificio Alto Villaseca Depto: Depto 205 Precio caluga: Normal: UF 4.044 precio Oferta: 3.64
+id: 268 Proyecto: Edificio Ottawa 4277 Depto: Depto 502 Precio caluga: Normal: UF 6.238 precio Oferta: 5.24
+id: 269 Proyecto: Edificio El Retiro Depto: Depto 200 Precio caluga: Normal: UF 6.568 precio Oferta: 6.043
+id: 270 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 215 Precio caluga: Normal: UF 4.400 precio Oferta: 4.048
+id: 271 Proyecto: HOY Depto: Depto 1411 Precio caluga: Normal: UF 5.529 precio Oferta: 4.866
+id: 272 Proyecto: HOY Depto: Depto 408 Precio caluga: Normal: UF 5.572 precio Oferta: 4.625
+id: 273 Proyecto: Edificio Ilumina Depto: Depto 803 Precio caluga: Normal: UF 6.134 precio Oferta: 5.153
+id: 274 Proyecto: Lyon View Depto: Depto 2404 Precio caluga: Normal: UF 2.905 precio Oferta: 2.469
+id: 275 Proyecto: Edificio Ottawa 4277 Depto: Depto B405 Precio caluga: Normal: UF 3.793 precio Oferta: 3.603
+id: 276 Proyecto: 2 NORTE 1230 Depto: Depto 500 Precio caluga: Normal: UF 7.006 precio Oferta: 6.446
+id: 277 Proyecto: HOY Depto: Depto 1013 Precio caluga: Normal: UF 4.230 precio Oferta: 3.596
+id: 278 Proyecto: Siena Parque Quillayes Depto: Depto 2404 Precio caluga: Normal: UF 2.905 precio Oferta: 2.469
+id: 279 Proyecto: Edificio Lyon 800 Depto: Depto 509 Precio caluga: Normal: UF 6.879 precio Oferta: 5.778
+id: 280 Proyecto: NUEVA ARLEGUI Depto: Depto 403 Precio caluga: Normal: UF 4.443 precio Oferta: 3.777
+id: 281 Proyecto: Edificio Ottawa 4277 Depto: Depto 1006 Precio caluga: Normal: UF 3.030 precio Oferta: 2.515
+id: 282 Proyecto: Av. Perú Plaza Depto: Depto 1634 Precio caluga: Normal: UF 3.222 precio Oferta: 2.9
+id: 283 Proyecto: Departamental II Depto: Depto D25 Precio caluga: Normal: UF 3.242 precio Oferta: 2.983
+id: 284 Proyecto: Edificio El Retiro Depto: Depto 206-A Precio caluga: Normal: UF 4.525 precio Oferta: 4.163
+id: 285 Proyecto: Av. Perú Plaza Depto: Depto 1634 Precio caluga: Normal: UF 3.222 precio Oferta: 2.9
+id: 286 Proyecto: Villagra 161 Depto: Depto 507 Precio caluga: Normal: UF 3.865 precio Oferta: 3.285
+id: 287 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 107 Precio caluga: Normal: UF 7.290 precio Oferta: 6.78
+id: 288 Proyecto: Departamental II Depto: Depto 409 Precio caluga: Normal: UF 3.390 precio Oferta: 3.051
+id: 289 Proyecto: Siena Parque Quillayes Depto: Depto 23 B Precio caluga: Normal: UF 3.300 precio Oferta: 3.135
+id: 290 Proyecto: 2 NORTE 1230 Depto: Depto B706 Precio caluga: Normal: UF 3.191 precio Oferta: 2.617
+id: 291 Proyecto: Perú Plaza II Depto: Depto 106 Precio caluga: Normal: UF 10.600 precio Oferta: 9.646
+id: 292 Proyecto: Edificio Ilumina Depto: Depto 301 Precio caluga: Normal: UF 5.033 precio Oferta: 4.278
+id: 293 Proyecto: NUEVA ARLEGUI Depto: Depto 125 Precio caluga: Normal: UF 8.050 precio Oferta: 7.487
+id: 294 Proyecto: NUEVA ARLEGUI Depto: Depto 507B Precio caluga: Normal: UF 3.790 precio Oferta: 3.487
+id: 295 Proyecto: Edificio El Retiro Depto: Depto 504 Precio caluga: Normal: UF 3.100 precio Oferta: 2.79
+id: 296 Proyecto: Pajaritos del Parque Torre 6 Depto: Depto 1732 Precio caluga: Normal: UF 4.096 precio Oferta: 3.809
+
+_________________________________________________ modo 2 vierne 01/10
+id: 1 Proyecto: Lyon View Depto: Depto 105 Precio caluga: Normal: UF 3.446 precio Oferta: 3.101
+id: 2 Proyecto: Edificio Chiloé-Prat Depto: Depto 402 Precio caluga: Normal: UF 3.898 precio Oferta: 3.391
+id: 3 Proyecto: Prado 1810 Depto: Depto 301 Precio caluga: Normal: UF 5.033 precio Oferta: 4.278
+id: 4 Proyecto: Pajaritos del Parque Torre 6 Depto: Depto 1913 Precio caluga: Normal: UF 3.461 precio Oferta: 3.115
+id: 5 Proyecto: Edificio Lyon 800 Depto: Depto 721-B Precio caluga: Normal: UF 2.121 precio Oferta: 1.909
+id: 6 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 205 Precio caluga: Normal: UF 2.920 precio Oferta: 2.686
+id: 7 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 205 Precio caluga: Normal: UF 4.297 precio Oferta: 3.738
+id: 8 Proyecto: HOY Depto: Depto 204-B Precio caluga: Normal: UF 3.101 precio Oferta: 2.791
+id: 9 Proyecto: Touch Depto: Depto 401 Precio caluga: Normal: UF 13.323 precio Oferta: 11.724
+id: 10 Proyecto: Edificio El Retiro Depto: Depto 603 Precio caluga: Normal: UF 4.767 precio Oferta: 4.052
+id: 11 Proyecto: Edificio Ottawa 4277 Depto: Depto 503A Precio caluga: Normal: UF 3.520 precio Oferta: 3.098
+id: 12 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 3102 Precio caluga: Normal: UF 4.281 precio Oferta: 3.853
+id: 13 Proyecto: ALike Depto: Depto 117 Precio caluga: Normal: UF 7.440 precio Oferta: 6.919
+id: 14 Proyecto: Edificio Ottawa 4277 Depto: Depto 206 Precio caluga: Normal: UF 3.181 precio Oferta: 2.863
+id: 15 Proyecto: Edificio Ottawa 4277 Depto: Depto 507 Precio caluga: Normal: UF 3.260 precio Oferta: 2.738
+id: 16 Proyecto: Edificio El Retiro Depto: Depto 2411 Precio caluga: Normal: UF 3.012 precio Oferta: 2.5
+id: 17 Proyecto: Villagra 161 Depto: Depto 1001 Precio caluga: Normal: UF 2.809 precio Oferta: 2.528
+id: 18 Proyecto: Edificio El Retiro Depto: Depto 2412 Precio caluga: Normal: UF 3.005 precio Oferta: 2.554
+id: 19 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 205 Precio caluga: Normal: UF 2.920 precio Oferta: 2.686
+id: 20 Proyecto: Exequiel II Depto: Depto 215 Precio caluga: Normal: UF 4.400 precio Oferta: 4.048
+id: 21 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 507B Precio caluga: Normal: UF 3.790 precio Oferta: 3.487
+id: 22 Proyecto: Edificio Visviri 1700 Depto: Depto 416B Precio caluga: Normal: UF 2.804 precio Oferta: 2.468
+id: 23 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 205 Precio caluga: Normal: UF 2.920 precio Oferta: 2.686
+id: 24 Proyecto: Edificio El Retiro Depto: Depto 315 Precio caluga: Normal: UF 3.610 precio Oferta: 3.069
+id: 25 Proyecto: Santa Petronila Plaza Depto: Depto 314-B Precio caluga: Normal: UF 4.545 precio Oferta: 4.091
+id: 26 Proyecto: ALike Depto: Depto 502 Precio caluga: Normal: UF 13.105 precio Oferta: 11.532
+id: 27 Proyecto: Mirador Playa Brava 3 Depto: Depto A301 Precio caluga: Normal: UF 5.094 precio Oferta: 4.839
+id: 28 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 206 Precio caluga: Normal: UF 8.750 precio Oferta: 7.515
+id: 29 Proyecto: Edificio Ottawa 4277 Depto: Depto 112-A Precio caluga: Normal: UF 4.472 precio Oferta: 4.025
+id: 30 Proyecto: Santa Petronila Plaza Depto: Depto 201 Precio caluga: Normal: UF 15.055 precio Oferta: 13.851
+id: 31 Proyecto: HOY Depto: Depto 506 Precio caluga: Normal: UF 4.128 precio Oferta: 3.509
+id: 32 Proyecto: Santa Petronila Plaza Depto: Depto 1712 Precio caluga: Normal: UF 3.563 precio Oferta: 3.207
+id: 33 Proyecto: Edificio El Retiro Depto: Depto 74 Precio caluga: Normal: UF 13.000 precio Oferta: 11.96
+id: 34 Proyecto: Plaza Fluvial Depto: Depto 704 Precio caluga: Normal: UF 2.790 precio Oferta: 2.511
+id: 35 Proyecto: Edificio San José Depto: Depto 405 Precio caluga: Normal: UF 4.904 precio Oferta: 4.119
+id: 36 Proyecto: NUEVA ARLEGUI Depto: Depto 117 Precio caluga: Normal: UF 7.440 precio Oferta: 6.919
+id: 37 Proyecto: Santa Petronila Plaza Depto: Depto 203 Precio caluga: Normal: UF 3.710 precio Oferta: 3.265
+id: 38 Proyecto: Exequiel II Depto: Depto B706 Precio caluga: Normal: UF 3.191 precio Oferta: 2.617
+id: 39 Proyecto: Brown Plaza Ñuñoa Depto: Depto 3301 Precio caluga: Normal: UF 3.950 precio Oferta: 3.555
+id: 40 Proyecto: ALike Depto: Depto 302 Precio caluga: Normal: UF 8.849 precio Oferta: 8.141
+id: 41 Proyecto: HOLANDA 3451 Depto: Depto C302 Precio caluga: Normal: UF 4.090 precio Oferta: 3.354
+id: 42 Proyecto: Edificio Visviri 1700 Depto: Depto 206-A Precio caluga: Normal: UF 4.525 precio Oferta: 4.163
+id: 43 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto 204 Precio caluga: Normal: UF 8.680 precio Oferta: 7.452
+id: 44 Proyecto: Av. Perú Plaza Depto: Depto B203 Precio caluga: Normal: UF 3.372 precio Oferta: 2.765
+id: 45 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 215 Precio caluga: Normal: UF 3.774 precio Oferta: 3.321
+id: 46 Proyecto: NUEVA ARLEGUI Depto: Depto 1505 Precio caluga: Normal: UF 2.360 precio Oferta: 2.242
+id: 47 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 3106 Precio caluga: Normal: UF 8.675 precio Oferta: 7.634
+id: 48 Proyecto: HOLANDA 1101 Depto: Depto 201 Precio caluga: Normal: UF 7.346 precio Oferta: 6.758
+id: 49 Proyecto: Edificio Lyon 800 Depto: Depto 3102 Precio caluga: Normal: UF 4.281 precio Oferta: 3.853
+id: 50 Proyecto: Mirador Playa Brava 2 Depto: Depto 208-B Precio caluga: Normal: UF 5.166 precio Oferta: 4.649
+id: 51 Proyecto: PARQUE LOS ABEDULES Depto: Depto 2411 Precio caluga: Normal: UF 3.012 precio Oferta: 2.5
+
+_______________________________________
+id: 1 Proyecto: Edificio Ottawa 4277 Depto: Depto 302 Precio caluga: Normal: UF 8.849 precio Oferta: 8.141
+id: 2 Proyecto: PARQUE LOS ABEDULES Depto: Depto 201 Precio caluga: Normal: UF 3.378 precio Oferta: 3.04
+id: 3 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 215 Precio caluga: Normal: UF 3.774 precio Oferta: 3.321
+id: 4 Proyecto: Villagra 161 Depto: Depto 506 Precio caluga: Normal: UF 4.128 precio Oferta: 3.509
+id: 5 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 1302 Precio caluga: Normal: UF 2.271 precio Oferta: 2.157
+id: 1 Proyecto: Edificio Ilumina Depto: Depto 2411 Precio caluga: Normal: UF 3.012 precio Oferta: 2.5
+id: 2 Proyecto: Edificio Ilumina Depto: Depto 22 Precio caluga: Normal: UF 8.330 precio Oferta: 7.83
+id: 3 Proyecto: Edificio Ilumina Depto: Depto 307 Precio caluga: Normal: UF 2.960 precio Oferta: 2.575
+id: 4 Proyecto: Edificio Ilumina Depto: Depto 106 Precio caluga: Normal: UF 10.600 precio Oferta: 9.646
+id: 5 Proyecto: Edificio Ilumina Depto: Depto 408 Precio caluga: Normal: UF 5.572 precio Oferta: 4.625
+id: 6 Proyecto: Edificio Ilumina Depto: Depto 2206 Precio caluga: Normal: UF 3.340 precio Oferta: 3.006
+id: 7 Proyecto: Edificio Ilumina Depto: Depto 1706 Precio caluga: Normal: UF 2.820 precio Oferta: 2.482
+id: 8 Proyecto: Edificio Ilumina Depto: Depto 507B Precio caluga: Normal: UF 3.790 precio Oferta: 3.487
+id: 9 Proyecto: Perú Plaza II Depto: Depto 131 B Precio caluga: Normal: UF 3.820 precio Oferta: 3.629
+id: 10 Proyecto: Edificio Chiloé-Prat Depto: Depto 1603 Precio caluga: Normal: UF 2.905 precio Oferta: 2.44
+id: 11 Proyecto: Departamental II Depto: Depto 717 Precio caluga: Normal: UF 1.855 precio Oferta: 1.632
+id: 12 Proyecto: Villagra 161 Depto: Depto 1001 Precio caluga: Normal: UF 2.809 precio Oferta: 2.528
+id: 13 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto A301 Precio caluga: Normal: UF 5.094 precio Oferta: 4.839
+id: 14 Proyecto: Edificio Lyon 800 Depto: Depto 507B Precio caluga: Normal: UF 3.790 precio Oferta: 3.487
+id: 15 Proyecto: LA VERBENA 4885 Depto: Depto 1102 Precio caluga: Normal: UF 2.809 precio Oferta: 2.528
+id: 16 Proyecto: Plaza Fluvial Depto: Depto 509 Precio caluga: Normal: UF 6.879 precio Oferta: 5.778
+id: 17 Proyecto: Mirador Playa Brava 2 Depto: Depto 205 Precio caluga: Normal: UF 2.920 precio Oferta: 2.686
+id: 18 Proyecto: Mirador Playa Brava 3 Depto: Depto 1105 Precio caluga: Normal: UF 4.780 precio Oferta: 4.063
+id: 19 Proyecto: Pajaritos del Parque Torre 6 Depto: Depto D305 Precio caluga: Normal: UF 3.332 precio Oferta: 3.065
+id: 20 Proyecto: Siena Plaza Blanco Viel 1400 Depto: Depto D303 Precio caluga: Normal: UF 2.624 precio Oferta: 2.414
+id: 21 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 3202 Precio caluga: Normal: UF 4.314 precio Oferta: 3.883
+id: 22 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 1112 Precio caluga: Normal: UF 2.380 precio Oferta: 2.142
+id: 23 Proyecto: Edificio San José Depto: Depto 401 Precio caluga: Normal: UF 13.323 precio Oferta: 11.724
+id: 24 Proyecto: Edificio Plaza Pedro de Valdivia Depto: Depto 204 Precio caluga: Normal: UF 8.836 precio Oferta: 8.129
+id: 25 Proyecto: NUEVA ARLEGUI Depto: Depto 24 Precio caluga: Normal: UF 12.590 precio Oferta: 11.583
+id: 26 Proyecto: Edificio Mirador Placeres Depto: Depto 1018 Precio caluga: Normal: UF 3.617 precio Oferta: 3.255
+id: 27 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 904 Precio caluga: Normal: UF 4.740 precio Oferta: 4.029
+id: 28 Proyecto: Pajaritos del Parque Torre 6 Depto: Depto 204 Precio caluga: Normal: UF 8.702 precio Oferta: 7.658
+id: 29 Proyecto: Edificio Mirador Placeres Depto: Depto 714 Precio caluga: Normal: UF 3.550 precio Oferta: 3.195
+id: 30 Proyecto: Edificio El Retiro Depto: Depto 25 B Precio caluga: Normal: UF 3.360 precio Oferta: 3.192
+id: 31 Proyecto: PARQUE LOS ABEDULES Depto: Depto 208 Precio caluga: Normal: UF 4.360 precio Oferta: 4.011
+id: 32 Proyecto: Isa Castillo Velasco Depto: Depto B705 Precio caluga: Normal: UF 2.623 precio Oferta: 2.151
+id: 33 Proyecto: Prado 1810 Depto: Depto 717 Precio caluga: Normal: UF 1.855 precio Oferta: 1.632
+id: 34 Proyecto: Edificio Chiloé-Prat Depto: Depto 307 Precio caluga: Normal: UF 6.720 precio Oferta: 6.182
+id: 35 Proyecto: PARQUE LOS ABEDULES Depto: Depto 206 Precio caluga: Normal: UF 8.780 precio Oferta: 7.726
+id: 36 Proyecto: Edificio El Retiro Depto: Depto 407B Precio caluga: Normal: UF 5.833 precio Oferta: 5.191
+id: 37 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 709-A Precio caluga: Normal: UF 2.094 precio Oferta: 1.885
+id: 38 Proyecto: 2 NORTE 1230 Depto: Depto 721-B Precio caluga: Normal: UF 2.121 precio Oferta: 1.909
+id: 39 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 502 Precio caluga: Normal: UF 6.238 precio Oferta: 5.24
+id: 40 Proyecto: Siena Parque Quillayes Depto: Depto 1013 Precio caluga: Normal: UF 4.230 precio Oferta: 3.596
+id: 41 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 310 Precio caluga: Normal: UF 4.460 precio Oferta: 4.014
+id: 42 Proyecto: Av. Perú Plaza Depto: Depto 301 Precio caluga: Normal: UF 7.189 precio Oferta: 6.326
+id: 43 Proyecto: HOY Depto: Depto 203 Precio caluga: Normal: UF 8.840 precio Oferta: 7.596
+id: 44 Proyecto: HOY Depto: Depto 305 Precio caluga: Normal: UF 8.353 precio Oferta: 7.768
+id: 45 Proyecto: Edificio San José Depto: Depto A403 Precio caluga: Normal: UF 5.296 precio Oferta: 5.031
+id: 46 Proyecto: Edificio Visviri 1700 Depto: Depto 709-A Precio caluga: Normal: UF 2.094 precio Oferta: 1.885
+id: 47 Proyecto: PARQUE LOS ABEDULES Depto: Depto 501A Precio caluga: Normal: UF 2.862 precio Oferta: 2.519
+id: 48 Proyecto: Departamental II Depto: Depto 305 Precio caluga: Normal: UF 2.516 precio Oferta: 2.39
+
+
+id: 1 Proyecto: Edificio Ilumina Depto: Depto 2412 Precio caluga: Normal: UF 3.005 precio Oferta: 2.554
+id: 2 Proyecto: Edificio Ilumina Depto: Depto B308 Precio caluga: Normal: UF 3.648 precio Oferta: 3.466
+id: 3 Proyecto: Edificio Ilumina Depto: Depto 1202 Precio caluga: Normal: UF 4.110 precio Oferta: 3.699
+id: 4 Proyecto: Edificio Ilumina Depto: Depto 604 Precio caluga: Normal: UF 4.298 precio Oferta: 3.868
+id: 5 Proyecto: Edificio Ilumina Depto: Depto 1210 Precio caluga: Normal: UF 5.479 precio Oferta: 4.876
+id: 6 Proyecto: Av. Perú Plaza Depto: Depto 302 Precio caluga: Normal: UF 11.602 precio Oferta: 10.21
+id: 7 Proyecto: Edificio Ilumina Depto: Depto 1216 Precio caluga: Normal: UF 3.801 precio Oferta: 3.421
+id: 8 Proyecto: Av. Perú Plaza Depto: Depto 25 B Precio caluga: Normal: UF 3.360 precio Oferta: 3.192
+id: 9 Proyecto: Edificio Ilumina Depto: Depto 314 Precio caluga: Normal: UF 6.840 precio Oferta: 6.498
+id: 10 Proyecto: Edmundo Eluchans Plaza Depto: Depto 205 Precio caluga: Normal: UF 10.120 precio Oferta: 9.614
+id: 1 Proyecto: Edificio Ilumina Depto: Depto 306 Precio caluga: Normal: UF 3.698 precio Oferta: 3.254
+id: 2 Proyecto: Edificio Ilumina Depto: Depto 220 Precio caluga: Normal: UF 4.632 precio Oferta: 4.076
+id: 3 Proyecto: Edificio Ilumina Depto: Depto 105 Precio caluga: Normal: UF 3.446 precio Oferta: 3.101
+id: 4 Proyecto: Edificio Ilumina Depto: Depto A306 Precio caluga: Normal: UF 5.126 precio Oferta: 4.87
+id: 5 Proyecto: Edificio Ilumina Depto: Depto 3202 Precio caluga: Normal: UF 4.314 precio Oferta: 3.883
+id: 6 Proyecto: Edificio Ilumina Depto: Depto 506 Precio caluga: Normal: UF 2.867 precio Oferta: 2.523
+id: 7 Proyecto: Edificio Ilumina Depto: Depto 204 Precio caluga: Normal: UF 10.124 precio Oferta: 8.909
+id: 8 Proyecto: Edificio Ilumina Depto: Depto 125 Precio caluga: Normal: UF 8.050 precio Oferta: 7.487
+id: 9 Proyecto: Perú Plaza II Depto: Depto D12 Precio caluga: Normal: UF 2.578 precio Oferta: 2.372
+id: 10 Proyecto: Edificio Ilumina Depto: Depto 805 Precio caluga: Normal: UF 3.075 precio Oferta: 2.829
+id: 11 Proyecto: Touch Depto: Depto 511 Precio caluga: Normal: UF 3.090 precio Oferta: 2.781
+id: 12 Proyecto: HOY Depto: Depto 203 Precio caluga: Normal: UF 7.883 precio Oferta: 6.937
+id: 13 Proyecto: Siena Parque Quillayes Depto: Depto 203A Precio caluga: Normal: UF 3.570 precio Oferta: 3.284
+id: 14 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 306 Precio caluga: Normal: UF 3.698 precio Oferta: 3.254
+id: 15 Proyecto: Edificio El Retiro Depto: Depto 1803 Precio caluga: Normal: UF 6.533 precio Oferta: 5.88
+id: 16 Proyecto: Edificio El Retiro Depto: Depto 1105 Precio caluga: Normal: UF 4.780 precio Oferta: 4.063
+id: 17 Proyecto: Isa Castillo Velasco Depto: Depto B706 Precio caluga: Normal: UF 3.191 precio Oferta: 2.617
+id: 18 Proyecto: Perú Plaza II Depto: Depto 409 Precio caluga: Normal: UF 8.691 precio Oferta: 7.996
+id: 19 Proyecto: Perú Plaza II Depto: Depto 709 Precio caluga: Normal: UF 4.795 precio Oferta: 4.411
+id: 20 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 3102 Precio caluga: Normal: UF 4.281 precio Oferta: 3.853
+id: 21 Proyecto: Edificio Lyon 800 Depto: Depto 1104 Precio caluga: Normal: UF 5.179 precio Oferta: 4.765
+id: 22 Proyecto: ALike Depto: Depto 508 Precio caluga: Normal: UF 3.555 precio Oferta: 3.235
+id: 23 Proyecto: Santa Petronila Plaza Depto: Depto 603 Precio caluga: Normal: UF 4.767 precio Oferta: 4.052
+id: 24 Proyecto: HAMBURGO 557 Depto: Depto 305 Precio caluga: Normal: UF 9.239 precio Oferta: 8.13
+id: 25 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 304 Precio caluga: Normal: UF 10.631 precio Oferta: 9.355
+id: 26 Proyecto: Av. Perú Plaza Depto: Depto 107 Precio caluga: Normal: UF 5.830 precio Oferta: 5.247
+id: 27 Proyecto: Ñuñoa View Depto: Depto 107 Precio caluga: Normal: UF 7.290 precio Oferta: 6.78
+id: 28 Proyecto: HAMBURGO 557 Depto: Depto 502 Precio caluga: Normal: UF 13.105 precio Oferta: 11.532
+id: 29 Proyecto: Isa Castillo Velasco Depto: Depto 309 Precio caluga: Normal: UF 8.677 precio Oferta: 7.983
+id: 30 Proyecto: 2 NORTE 1230 Depto: Depto B1102 Precio caluga: Normal: UF 4.526 precio Oferta: 3.711
+id: 31 Proyecto: Edificio Alto Villaseca Depto: Depto 1110 Precio caluga: Normal: UF 3.674 precio Oferta: 3.233
+id: 32 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 104 Precio caluga: Normal: UF 7.230 precio Oferta: 6.724
+id: 33 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 511 Precio caluga: Normal: UF 3.090 precio Oferta: 2.781
+id: 34 Proyecto: 2 NORTE 1230 Depto: Depto C306 Precio caluga: Normal: UF 4.390 precio Oferta: 3.6
+id: 35 Proyecto: HOY Depto: Depto 403 Precio caluga: Normal: UF 8.313 precio Oferta: 7.149
+id: 36 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 1004 Precio caluga: Normal: UF 7.582 precio Oferta: 6.369
+id: 37 Proyecto: Exequiel II Depto: Depto 203 Precio caluga: Normal: UF 8.840 precio Oferta: 7.596
+id: 38 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 602 Precio caluga: Normal: UF 2.333 precio Oferta: 2.006
+id: 39 Proyecto: Puerto Pewun Depto: Depto 205 Precio caluga: Normal: UF 7.308 precio Oferta: 6.723
+id: 40 Proyecto: Mirador Playa Brava 3 Depto: Depto 3002 Precio caluga: Normal: UF 4.248 precio Oferta: 3.823
+id: 41 Proyecto: 2 NORTE 1230 Depto: Depto 308 Precio caluga: Normal: UF 5.458 precio Oferta: 4.639
+id: 42 Proyecto: HOY Depto: Depto 1634 Precio caluga: Normal: UF 3.222 precio Oferta: 2.9
+id: 43 Proyecto: Edificio Chiloé-Prat Depto: Depto 1605 Precio caluga: Normal: UF 3.648 precio Oferta: 3.21
+id: 44 Proyecto: HOLANDA 1101 Depto: Depto 606 Precio caluga: Normal: UF 8.120 precio Oferta: 7.146
+id: 45 Proyecto: Edificio Chiloé-Prat Depto: Depto 803 Precio caluga: Normal: UF 6.134 precio Oferta: 5.153
+id: 46 Proyecto: Quilín 4811 Depto: Depto 508 Precio caluga: Normal: UF 4.669 precio Oferta: 3.922
+id: 47 Proyecto: Edificio Mirador Placeres Depto: Depto 200 Precio caluga: Normal: UF 6.568 precio Oferta: 6.043
+id: 48 Proyecto: Isa Castillo Velasco Depto: Depto 1001 Precio caluga: Normal: UF 2.809 precio Oferta: 2.528
+id: 49 Proyecto: Edificio Ottawa 4277 Depto: Depto 502 Precio caluga: Normal: UF 6.238 precio Oferta: 5.24
+id: 50 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 212 Precio caluga: Normal: UF 10.410 precio Oferta: 9.89
+id: 1 Proyecto: Edificio Ilumina Depto: Depto 208A Precio caluga: Normal: UF 3.352 precio Oferta: 2.95
+id: 2 Proyecto: Edificio Ilumina Depto: Depto 305 Precio caluga: Normal: UF 2.516 precio Oferta: 2.39
+id: 3 Proyecto: Edificio Ilumina Depto: Depto 1302 Precio caluga: Normal: UF 2.271 precio Oferta: 2.157
+id: 4 Proyecto: Edmundo Eluchans Plaza Depto: Depto B406 Precio caluga: Normal: UF 3.033 precio Oferta: 2.487
+id: 5 Proyecto: Zenteno Depto: Depto 306 Precio caluga: Normal: UF 7.319 precio Oferta: 6.733
+id: 6 Proyecto: Edmundo Eluchans Plaza Depto: Depto 1411 Precio caluga: Normal: UF 5.529 precio Oferta: 4.866
+id: 7 Proyecto: Edificio Ilumina Depto: Depto 203A Precio caluga: Normal: UF 9.837 precio Oferta: 8.755
+id: 8 Proyecto: Edificio Ilumina Depto: Depto 1405 Precio caluga: Normal: UF 2.345 precio Oferta: 2.228
+id: 9 Proyecto: Edificio Ilumina Depto: Depto 304 Precio caluga: Normal: UF 3.912 precio Oferta: 3.443
+id: 10 Proyecto: Santa Petronila Plaza Depto: Depto 202 Precio caluga: Normal: UF 4.533 precio Oferta: 3.853
+id: 11 Proyecto: Edificio Chiloé-Prat Depto: Depto 74 Precio caluga: Normal: UF 13.000 precio Oferta: 11.96
+id: 12 Proyecto: Santa Petronila Plaza Depto: Depto 907 Precio caluga: Normal: UF 2.955 precio Oferta: 2.453
+id: 13 Proyecto: Edmundo Eluchans Plaza Depto: Depto B1102 Precio caluga: Normal: UF 4.526 precio Oferta: 3.711
+id: 14 Proyecto: Zenteno Depto: Depto 203 Precio caluga: Normal: UF 3.710 precio Oferta: 3.265
+id: 15 Proyecto: Edificio Ilumina Depto: Depto 409 Precio caluga: Normal: UF 8.691 precio Oferta: 7.996
+id: 16 Proyecto: Edificio Ilumina Depto: Depto 97 Precio caluga: Normal: UF 7.180 precio Oferta: 6.677
+id: 17 Proyecto: Edificio Lyon 800 Depto: Depto B301 Precio caluga: Normal: UF 3.678 precio Oferta: 3.494
+id: 18 Proyecto: Edificio Visviri 1700 Depto: Depto 1634 Precio caluga: Normal: UF 3.222 precio Oferta: 2.9
+id: 19 Proyecto: Edificio El Retiro Depto: Depto 507 Precio caluga: Normal: UF 3.865 precio Oferta: 3.285
+id: 20 Proyecto: Exequiel II Depto: Depto 1913 Precio caluga: Normal: UF 3.461 precio Oferta: 3.115
+id: 21 Proyecto: Edificio Mirador Placeres Depto: Depto 135 B Precio caluga: Normal: UF 3.820 precio Oferta: 3.629
+id: 22 Proyecto: Santa Petronila Plaza Depto: Depto 403 Precio caluga: Normal: UF 5.450 precio Oferta: 4.578
+id: 23 Proyecto: ALike Depto: Depto 203 Precio caluga: Normal: UF 3.710 precio Oferta: 3.265
+id: 24 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 203 Precio caluga: Normal: UF 8.840 precio Oferta: 7.596
+id: 25 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 205 Precio caluga: Normal: UF 4.044 precio Oferta: 3.64
+id: 26 Proyecto: Pajaritos del Parque Torre 6 Depto: Depto 3206 Precio caluga: Normal: UF 8.702 precio Oferta: 7.658
+id: 27 Proyecto: Pajaritos del Parque Torre 6 Depto: Depto 102 Precio caluga: Normal: UF 3.020 precio Oferta: 2.718
+id: 28 Proyecto: EDIFICIO PORTA PINZON Depto: Depto 204 Precio caluga: Normal: UF 10.124 precio Oferta: 8.909
+id: 29 Proyecto: PARQUE LOS ABEDULES Depto: Depto 614 Precio caluga: Normal: UF 2.752 precio Oferta: 2.477
+id: 30 Proyecto: Pajaritos del Parque Torre 6 Depto: Depto 1635 Precio caluga: Normal: UF 3.222 precio Oferta: 2.9
+id: 1 Proyecto: Edificio Ilumina Depto: Depto 131 B Precio caluga: Normal: UF 3.820 precio Oferta: 3.629
+id: 2 Proyecto: Av. Perú Plaza Depto: Depto 204-B Precio caluga: Normal: UF 3.101 precio Oferta: 2.791
+id: 3 Proyecto: Edificio Ilumina Depto: Depto 205 Precio caluga: Normal: UF 6.714 precio Oferta: 6.177
+id: 4 Proyecto: Santa Petronila Plaza Depto: Depto 310 Precio caluga: Normal: UF 12.020 precio Oferta: 11.419
+id: 5 Proyecto: Edificio Ilumina Depto: Depto 310 Precio caluga: Normal: UF 12.020 precio Oferta: 11.419
+id: 6 Proyecto: Edificio Chiloé-Prat Depto: Depto 1734 Precio caluga: Normal: UF 3.222 precio Oferta: 2.9
+id: 7 Proyecto: Edificio Ilumina Depto: Depto 409 Precio caluga: Normal: UF 4.078 precio Oferta: 3.548
+id: 8 Proyecto: Edificio Ilumina Depto: Depto 107 Precio caluga: Normal: UF 5.830 precio Oferta: 5.247
+id: 9 Proyecto: Santa Petronila Plaza Depto: Depto 309 Precio caluga: Normal: UF 8.677 precio Oferta: 7.983
+id: 10 Proyecto: Exequiel II Depto: Depto 507 Precio caluga: Normal: UF 3.865 precio Oferta: 3.285
+id: 11 Proyecto: Edificio Ilumina Depto: Depto 511 Precio caluga: Normal: UF 5.379 precio Oferta: 4.518
+id: 12 Proyecto: Exequiel II Depto: Depto 405 Precio caluga: Normal: UF 4.904 precio Oferta: 4.119
+id: 13 Proyecto: Edificio Ilumina Depto: Depto 307 Precio caluga: Normal: UF 6.720 precio Oferta: 6.182
+id: 14 Proyecto: Edificio Ilumina Depto: Depto 1112 Precio caluga: Normal: UF 2.380 precio Oferta: 2.142
+id: 15 Proyecto: Edificio Ilumina Depto: Depto B1103 Precio caluga: Normal: UF 4.207 precio Oferta: 3.492
+id: 16 Proyecto: Edificio Ilumina Depto: Depto 310 Precio caluga: Normal: UF 12.020 precio Oferta: 11.419
+id: 17 Proyecto: Touch Depto: Depto B706 Precio caluga: Normal: UF 3.191 precio Oferta: 2.617
+id: 18 Proyecto: Edificio Ottawa 4277 Depto: Depto 117 Precio caluga: Normal: UF 7.440 precio Oferta: 6.919
+id: 19 Proyecto: Zenteno Depto: Depto 401 Precio caluga: Normal: UF 7.370 precio Oferta: 6.78
+id: 20 Proyecto: Santa Petronila Plaza Depto: Depto 709 Precio caluga: Normal: UF 4.795 precio Oferta: 4.411
+id: 21 Proyecto: Santa Petronila Plaza Depto: Depto 215 Precio caluga: Normal: UF 4.400 precio Oferta: 4.048
+id: 22 Proyecto: Clic Depto: Depto 1805 Precio caluga: Normal: UF 2.405 precio Oferta: 2.285
+id: 23 Proyecto: PARQUE LOS ABEDULES Depto: Depto 201 Precio caluga: Normal: UF 3.868 precio Oferta: 3.365
+id: 24 Proyecto: Exequiel II Depto: Depto 315 Precio caluga: Normal: UF 3.610 precio Oferta: 3.069
+id: 25 Proyecto: HOY Depto: Depto 1635 Precio caluga: Normal: UF 3.222 precio Oferta: 2.9
+id: 26 Proyecto: HOY Depto: Depto 504 Precio caluga: Normal: UF 11.344 precio Oferta: 9.983
+id: 27 Proyecto: Edificio Mirador Placeres Depto: Depto B308 Precio caluga: Normal: UF 3.648 precio Oferta: 3.466
+id: 28 Proyecto: Isa Castillo Velasco Depto: Depto 409 Precio caluga: Normal: UF 3.390 precio Oferta: 3.051
+id: 29 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto B705 Precio caluga: Normal: UF 2.623 precio Oferta: 2.151
+id: 30 Proyecto: LA VERBENA 4885 Depto: Depto 100 Precio caluga: Normal: UF 6.774 precio Oferta: 6.232
+id: 1 Proyecto: Perú Plaza II Depto: Depto 509 Precio caluga: Normal: UF 6.879 precio Oferta: 5.778
+id: 2 Proyecto: Edificio Ilumina Depto: Depto 306 Precio caluga: Normal: UF 7.319 precio Oferta: 6.733
+id: 3 Proyecto: Edificio Ilumina Depto: Depto 603 Precio caluga: Normal: UF 4.767 precio Oferta: 4.052
+id: 4 Proyecto: Zenteno Depto: Depto 1201 Precio caluga: Normal: UF 2.660 precio Oferta: 2.394
+id: 5 Proyecto: Exequiel II Depto: Depto 1112 Precio caluga: Normal: UF 2.380 precio Oferta: 2.142
+id: 6 Proyecto: Edificio Ilumina Depto: Depto D31 Precio caluga: Normal: UF 3.282 precio Oferta: 3.019
+id: 7 Proyecto: Santa Petronila Plaza Depto: Depto 206-A Precio caluga: Normal: UF 4.525 precio Oferta: 4.163
+id: 8 Proyecto: Santa Petronila Plaza Depto: Depto 33 B Precio caluga: Normal: UF 3.400 precio Oferta: 3.23
+id: 9 Proyecto: Zenteno Depto: Depto 913 Precio caluga: Normal: UF 3.585 precio Oferta: 3.262
+id: 10 Proyecto: Edificio Ilumina Depto: Depto 37 B Precio caluga: Normal: UF 3.400 precio Oferta: 3.23
+id: 11 Proyecto: Perú Plaza II Depto: Depto 604 Precio caluga: Normal: UF 3.550 precio Oferta: 3.195
+id: 12 Proyecto: Edificio Ilumina Depto: Depto 201 Precio caluga: Normal: UF 15.055 precio Oferta: 13.851
+id: 13 Proyecto: Edificio Ilumina Depto: Depto D205 Precio caluga: Normal: UF 3.292 precio Oferta: 3.029
+id: 14 Proyecto: Edificio Ilumina Depto: Depto 204 Precio caluga: Normal: UF 10.124 precio Oferta: 8.909
+id: 15 Proyecto: Zenteno Depto: Depto 503A Precio caluga: Normal: UF 3.520 precio Oferta: 3.098
+id: 16 Proyecto: Santa Petronila Plaza Depto: Depto 203 Precio caluga: Normal: UF 4.676 precio Oferta: 4.302
+id: 17 Proyecto: NUEVA ARLEGUI Depto: Depto 501A Precio caluga: Normal: UF 2.862 precio Oferta: 2.519
+id: 18 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 805 Precio caluga: Normal: UF 3.075 precio Oferta: 2.829
+id: 19 Proyecto: Edificio San José Depto: Depto 305 Precio caluga: Normal: UF 2.516 precio Oferta: 2.39
+id: 20 Proyecto: Puerto Pewun Depto: Depto 1712 Precio caluga: Normal: UF 3.563 precio Oferta: 3.207
+id: 21 Proyecto: Departamental II Depto: Depto 504 Precio caluga: Normal: UF 3.100 precio Oferta: 2.79
+id: 22 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 208-B Precio caluga: Normal: UF 5.166 precio Oferta: 4.649
+id: 23 Proyecto: Exequiel II Depto: Depto 306 Precio caluga: Normal: UF 3.698 precio Oferta: 3.254
+id: 24 Proyecto: Edificio Alto Villaseca Depto: Depto 1505 Precio caluga: Normal: UF 2.360 precio Oferta: 2.242
+id: 25 Proyecto: HOY Depto: Depto 504 Precio caluga: Normal: UF 7.401 precio Oferta: 6.217
+id: 26 Proyecto: Edificio El Retiro Depto: Depto 203 Precio caluga: Normal: UF 7.883 precio Oferta: 6.937
+id: 27 Proyecto: Ñuñoa View Depto: Depto 1104 Precio caluga: Normal: UF 5.179 precio Oferta: 4.765
+id: 28 Proyecto: Edificio NEW Depto: Depto 316 Precio caluga: Normal: UF 10.400 precio Oferta: 9.88
+id: 29 Proyecto: Edificio Lyon 800 Depto: Depto 2411 Precio caluga: Normal: UF 3.012 precio Oferta: 2.5
+id: 30 Proyecto: Edificio San José Depto: Depto 203 Precio caluga: Normal: UF 4.140 precio Oferta: 3.726
+id: 1 Proyecto: Exequiel II Depto: Depto D305 Precio caluga: Normal: UF 3.332 precio Oferta: 3.065
+id: 2 Proyecto: Exequiel II Depto: Depto 1401 Precio caluga: Normal: UF 2.650 precio Oferta: 2.385
+id: 3 Proyecto: Edificio Ilumina Depto: Depto 201 Precio caluga: Normal: UF 4.963 precio Oferta: 4.219
+id: 4 Proyecto: Santa Petronila Plaza Depto: Depto 107 Precio caluga: Normal: UF 3.378 precio Oferta: 3.04
+id: 5 Proyecto: Edificio Ilumina Depto: Depto 212 Precio caluga: Normal: UF 10.410 precio Oferta: 9.89
+id: 6 Proyecto: Perú Plaza II Depto: Depto 207 Precio caluga: Normal: UF 3.445 precio Oferta: 3.101
+id: 7 Proyecto: Edificio Chiloé-Prat Depto: Depto 201 Precio caluga: Normal: UF 4.963 precio Oferta: 4.219
+id: 8 Proyecto: Perú Plaza II Depto: Depto 502 Precio caluga: Normal: UF 13.105 precio Oferta: 11.532
+id: 9 Proyecto: Edificio Ilumina Depto: Depto 107 Precio caluga: Normal: UF 7.290 precio Oferta: 6.78
+id: 10 Proyecto: Edificio Ilumina Depto: Depto 106 Precio caluga: Normal: UF 10.600 precio Oferta: 9.646
+id: 11 Proyecto: Edmundo Eluchans Plaza Depto: Depto 1401 Precio caluga: Normal: UF 2.650 precio Oferta: 2.385
+id: 12 Proyecto: Edificio Ilumina Depto: Depto 201 Precio caluga: Normal: UF 4.963 precio Oferta: 4.219
+id: 13 Proyecto: Edificio Ilumina Depto: Depto 315 Precio caluga: Normal: UF 3.610 precio Oferta: 3.069
+id: 14 Proyecto: Exequiel II Depto: Depto 500 Precio caluga: Normal: UF 7.006 precio Oferta: 6.446
+id: 15 Proyecto: Edificio Chiloé-Prat Depto: Depto 3201 Precio caluga: Normal: UF 3.928 precio Oferta: 3.535
+id: 16 Proyecto: Edificio Ilumina Depto: Depto 203 Precio caluga: Normal: UF 7.883 precio Oferta: 6.937
+id: 17 Proyecto: Perú Plaza II Depto: Depto 2201 Precio caluga: Normal: UF 3.471 precio Oferta: 3.124
+id: 18 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto 203 Precio caluga: Normal: UF 8.840 precio Oferta: 7.596
+id: 19 Proyecto: Edificio NEW Depto: Depto 306 Precio caluga: Normal: UF 3.698 precio Oferta: 3.254
+id: 20 Proyecto: Edificio NEW Depto: Depto 301A Precio caluga: Normal: UF 8.589 precio Oferta: 7.644
+id: 21 Proyecto: Edificio San José Depto: Depto 313 Precio caluga: Normal: UF 3.451 precio Oferta: 2.968
+id: 22 Proyecto: 2 NORTE 1230 Depto: Depto 212 Precio caluga: Normal: UF 10.410 precio Oferta: 9.89
+id: 23 Proyecto: Santa Petronila Plaza Depto: Depto 208 Precio caluga: Normal: UF 4.360 precio Oferta: 4.011
+id: 24 Proyecto: Edificio Lyon 800 Depto: Depto 1110 Precio caluga: Normal: UF 3.674 precio Oferta: 3.233
+id: 25 Proyecto: HOLANDA 1101 Depto: Depto 404 Precio caluga: Normal: UF 8.865 precio Oferta: 8.156
+id: 26 Proyecto: NUEVA ARLEGUI Depto: Depto 301A Precio caluga: Normal: UF 8.589 precio Oferta: 7.644
+id: 27 Proyecto: Villagra 161 Depto: Depto 104 Precio caluga: Normal: UF 5.339 precio Oferta: 4.912
+id: 28 Proyecto: 2 NORTE 1230 Depto: Depto 209A Precio caluga: Normal: UF 2.627 precio Oferta: 2.312
+id: 29 Proyecto: Edificio Visviri 1700 Depto: Depto B405 Precio caluga: Normal: UF 3.793 precio Oferta: 3.603
+id: 30 Proyecto: Edificio Visviri 1700 Depto: Depto 23 Precio caluga: Normal: UF 8.380 precio Oferta: 7.877
+id: 1 Proyecto: Edmundo Eluchans Plaza Depto: Depto 204A Precio caluga: Normal: UF 3.520 precio Oferta: 3.238
+id: 2 Proyecto: Edificio Ilumina Depto: Depto 1216 Precio caluga: Normal: UF 3.801 precio Oferta: 3.421
+id: 3 Proyecto: Edmundo Eluchans Plaza Depto: Depto 1305 Precio caluga: Normal: UF 2.330 precio Oferta: 2.214
+id: 4 Proyecto: Santa Petronila Plaza Depto: Depto 208-B Precio caluga: Normal: UF 4.650 precio Oferta: 4.649
+id: 5 Proyecto: Edmundo Eluchans Plaza Depto: Depto 135 B Precio caluga: Normal: UF 3.820 precio Oferta: 3.629
+id: 6 Proyecto: Perú Plaza II Depto: Depto 511 Precio caluga: Normal: UF 3.090 precio Oferta: 2.781
+id: 7 Proyecto: Exequiel II Depto: Depto 301 Precio caluga: Normal: UF 5.033 precio Oferta: 4.278
+id: 8 Proyecto: Edmundo Eluchans Plaza Depto: Depto 209A Precio caluga: Normal: UF 2.627 precio Oferta: 2.312
+id: 9 Proyecto: Edificio Ilumina Depto: Depto 25 Precio caluga: Normal: UF 8.420 precio Oferta: 7.915
+id: 10 Proyecto: Zenteno Depto: Depto 206 Precio caluga: Normal: UF 8.780 precio Oferta: 7.726
+id: 11 Proyecto: Edmundo Eluchans Plaza Depto: Depto 97 Precio caluga: Normal: UF 7.180 precio Oferta: 6.677
+id: 12 Proyecto: Edificio Ilumina Depto: Depto 401 Precio caluga: Normal: UF 13.323 precio Oferta: 11.724
+id: 13 Proyecto: Edificio Ilumina Depto: Depto 509 Precio caluga: Normal: UF 6.879 precio Oferta: 5.778
+id: 14 Proyecto: Edificio Ilumina Depto: Depto 305 Precio caluga: Normal: UF 2.516 precio Oferta: 2.39
+id: 15 Proyecto: Edificio Chiloé-Prat Depto: Depto 301 Precio caluga: Normal: UF 7.189 precio Oferta: 6.326
+id: 16 Proyecto: Exequiel II Depto: Depto 410A Precio caluga: Normal: UF 3.488 precio Oferta: 3.069
+id: 17 Proyecto: Edificio San José Depto: Depto 112-A Precio caluga: Normal: UF 4.472 precio Oferta: 4.025
+id: 18 Proyecto: Lyon View Depto: Depto 131 B Precio caluga: Normal: UF 3.820 precio Oferta: 3.629
+id: 19 Proyecto: PARQUE LOS ABEDULES Depto: Depto 402 Precio caluga: Normal: UF 11.767 precio Oferta: 10.355
+id: 20 Proyecto: HOY Depto: Depto 212 Precio caluga: Normal: UF 10.410 precio Oferta: 9.89
+id: 21 Proyecto: 2 NORTE 1230 Depto: Depto 204A Precio caluga: Normal: UF 3.520 precio Oferta: 3.238
+id: 22 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto D12 Precio caluga: Normal: UF 2.578 precio Oferta: 2.372
+id: 23 Proyecto: 2 NORTE 1230 Depto: Depto 1103 Precio caluga: Normal: UF 3.693 precio Oferta: 3.398
+id: 24 Proyecto: Av. Perú Plaza Depto: Depto 1110 Precio caluga: Normal: UF 14.100 precio Oferta: 12.33
+id: 25 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto 1013 Precio caluga: Normal: UF 4.230 precio Oferta: 3.596
+id: 26 Proyecto: Mirador Playa Brava 2 Depto: Depto 2411 Precio caluga: Normal: UF 3.012 precio Oferta: 2.5
+id: 27 Proyecto: Edificio El Retiro Depto: Depto 505 Precio caluga: Normal: UF 5.526 precio Oferta: 4.697
+id: 28 Proyecto: Santa Petronila Plaza Depto: Depto 509 Precio caluga: Normal: UF 6.879 precio Oferta: 5.778
+id: 29 Proyecto: Edificio Ottawa 4277 Depto: Depto 714 Precio caluga: Normal: UF 3.550 precio Oferta: 3.266
+id: 30 Proyecto: Santa Petronila Plaza Depto: Depto 602 Precio caluga: Normal: UF 2.333 precio Oferta: 2.006
+id: 30 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto 907 Precio caluga: Normal: UF 3.233 precio Oferta: 2.91
+id: 31 Proyecto: Siena Plaza Blanco Viel 1400 Depto: Depto 302 Precio caluga: Normal: UF 6.940 precio Oferta: 6.593
+id: 32 Proyecto: Edificio Ottawa 4277 Depto: Depto 204A Precio caluga: Normal: UF 3.520 precio Oferta: 3.238
+id: 33 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto 1402 Precio caluga: Normal: UF 2.786 precio Oferta: 2.507
+id: 34 Proyecto: Edificio Mirador Placeres Depto: Depto 503A Precio caluga: Normal: UF 3.520 precio Oferta: 3.098
+id: 35 Proyecto: Edmundo Eluchans Plaza Depto: Depto 1803 Precio caluga: Normal: UF 6.533 precio Oferta: 5.88
+id: 36 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 301 Precio caluga: Normal: UF 7.730 precio Oferta: 7.112
+id: 37 Proyecto: Touch Depto: Depto 409 Precio caluga: Normal: UF 8.691 precio Oferta: 7.996
+id: 38 Proyecto: ALike Depto: Depto 3201 Precio caluga: Normal: UF 3.928 precio Oferta: 3.535
+id: 39 Proyecto: Ñuñoa View Depto: Depto 501 Precio caluga: Normal: UF 8.553 precio Oferta: 6.928
+id: 40 Proyecto: Edificio Mirador Placeres Depto: Depto 310 Precio caluga: Normal: UF 12.020 precio Oferta: 11.419
+id: 41 Proyecto: Zenteno Depto: Depto 205 Precio caluga: Normal: UF 6.714 precio Oferta: 6.177
+id: 42 Proyecto: Touch Depto: Depto 508 Precio caluga: Normal: UF 3.555 precio Oferta: 3.235
+id: 43 Proyecto: Lyon View Depto: Depto 1110 Precio caluga: Normal: UF 3.674 precio Oferta: 3.233
+id: 44 Proyecto: LA VERBENA 4885 Depto: Depto 704 Precio caluga: Normal: UF 2.790 precio Oferta: 2.511
+id: 45 Proyecto: HAMBURGO 557 Depto: Depto B308 Precio caluga: Normal: UF 3.648 precio Oferta: 3.466
+id: 46 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 1413 Precio caluga: Normal: UF 3.441 precio Oferta: 3.097
+id: 47 Proyecto: Isa Castillo Velasco Depto: Depto C302 Precio caluga: Normal: UF 4.090 precio Oferta: 3.354
+id: 48 Proyecto: Quilín 4811 Depto: Depto 1714 Precio caluga: Normal: UF 4.024 precio Oferta: 3.622
+id: 49 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto D201 Precio caluga: Normal: UF 3.292 precio Oferta: 3.029
+id: 50 Proyecto: Siena Plaza Blanco Viel 1400 Depto: Depto 107 Precio caluga: Normal: UF 3.378 precio Oferta: 3.04
+id: 51 Proyecto: Edificio Mirador Placeres Depto: Depto 602 Precio caluga: Normal: UF 2.333 precio Oferta: 2.006
+id: 52 Proyecto: Edificio Ottawa 4277 Depto: Depto 721-B Precio caluga: Normal: UF 2.121 precio Oferta: 1.909
+id: 53 Proyecto: Edificio Lyon 800 Depto: Depto 206-A Precio caluga: Normal: UF 4.525 precio Oferta: 4.163
+id: 54 Proyecto: Siena Plaza Blanco Viel 1400 Depto: Depto 215 Precio caluga: Normal: UF 3.774 precio Oferta: 3.321
+id: 55 Proyecto: Villagra 161 Depto: Depto 201 Precio caluga: Normal: UF 4.963 precio Oferta: 4.219
+id: 56 Proyecto: Clic Depto: Depto 105 Precio caluga: Normal: UF 3.446 precio Oferta: 3.032
+id: 57 Proyecto: Exequiel II Depto: Depto 3002 Precio caluga: Normal: UF 4.248 precio Oferta: 3.823
+id: 58 Proyecto: Zenteno Depto: Depto 1706 Precio caluga: Normal: UF 2.820 precio Oferta: 2.482
+id: 59 Proyecto: Lyon View Depto: Depto 107 Precio caluga: Normal: UF 3.378 precio Oferta: 3.04
+id: 60 Proyecto: PARQUE LOS ABEDULES Depto: Depto B705 Precio caluga: Normal: UF 2.623 precio Oferta: 2.151
+id: 30 Proyecto: Edificio Chiloé-Prat Depto: Depto D14 Precio caluga: Normal: UF 2.524 precio Oferta: 2.322
+id: 31 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 203 Precio caluga: Normal: UF 3.710 precio Oferta: 3.265
+id: 32 Proyecto: Edificio Visviri 1700 Depto: Depto 21 B Precio caluga: Normal: UF 3.360 precio Oferta: 3.192
+id: 33 Proyecto: EDIFICIO JULIO PRADO 2110 Depto: Depto 208A Precio caluga: Normal: UF 3.352 precio Oferta: 2.95
+id: 34 Proyecto: Touch Depto: Depto 506 Precio caluga: Normal: UF 2.867 precio Oferta: 2.523
+id: 35 Proyecto: Edificio El Retiro Depto: Depto 3301 Precio caluga: Normal: UF 3.950 precio Oferta: 3.555
+id: 36 Proyecto: ALike Depto: Depto 307 Precio caluga: Normal: UF 2.960 precio Oferta: 2.575
+id: 37 Proyecto: Edificio Lyon 800 Depto: Depto 1735 Precio caluga: Normal: UF 3.222 precio Oferta: 2.9
+id: 38 Proyecto: Edificio Ottawa 4277 Depto: Depto 503A Precio caluga: Normal: UF 3.520 precio Oferta: 3.098
+id: 39 Proyecto: Mirador Playa Brava 2 Depto: Depto 906 Precio caluga: Normal: UF 8.160 precio Oferta: 7.181
+id: 40 Proyecto: MIRADOR MARTÍN DE ZAMORA Depto: Depto 1018 Precio caluga: Normal: UF 3.617 precio Oferta: 3.255
+id: 41 Proyecto: Edificio San José Depto: Depto 403 Precio caluga: Normal: UF 5.450 precio Oferta: 4.578
+id: 42 Proyecto: Edificio NEW Depto: Depto 107 Precio caluga: Normal: UF 7.290 precio Oferta: 6.78
+id: 43 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 1632 Precio caluga: Normal: UF 4.096 precio Oferta: 3.809
+id: 44 Proyecto: Edificio Ottawa 4277 Depto: Depto 507 Precio caluga: Normal: UF 3.468 precio Oferta: 2.982
+id: 45 Proyecto: Edificio Plaza Pedro de Valdivia Depto: Depto 1110 Precio caluga: Normal: UF 14.100 precio Oferta: 12.33
+id: 46 Proyecto: Quilín 4811 Depto: Depto 1602 Precio caluga: Normal: UF 2.316 precio Oferta: 2.2
+id: 47 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 102 Precio caluga: Normal: UF 3.020 precio Oferta: 2.718
+id: 48 Proyecto: Isa Castillo Velasco Depto: Depto 304 Precio caluga: Normal: UF 3.912 precio Oferta: 3.443
+id: 49 Proyecto: Edificio Ottawa 4277 Depto: Depto 301A Precio caluga: Normal: UF 8.589 precio Oferta: 7.644
+id: 50 Proyecto: Isa Castillo Velasco Depto: Depto 510 Precio caluga: Normal: UF 5.379 precio Oferta: 5.056
+id: 51 Proyecto: Edificio San José Depto: Depto 805 Precio caluga: Normal: UF 3.075 precio Oferta: 2.829
+id: 52 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 1632 Precio caluga: Normal: UF 4.096 precio Oferta: 3.809
+id: 53 Proyecto: ALike Depto: Depto 205 Precio caluga: Normal: UF 7.308 precio Oferta: 6.723
+id: 54 Proyecto: Av. Perú Plaza Depto: Depto 100 Precio caluga: Normal: UF 6.774 precio Oferta: 6.232
+id: 55 Proyecto: Siena Plaza Blanco Viel 1400 Depto: Depto 805 Precio caluga: Normal: UF 3.075 precio Oferta: 2.829
+id: 56 Proyecto: Clic Depto: Depto 2201 Precio caluga: Normal: UF 3.471 precio Oferta: 3.124
+id: 57 Proyecto: Villagra 161 Depto: Depto 404 Precio caluga: Normal: UF 3.507 precio Oferta: 3.156
+id: 58 Proyecto: Mirador Playa Brava 2 Depto: Depto 1805 Precio caluga: Normal: UF 2.405 precio Oferta: 2.285
+id: 59 Proyecto: Prado 1810 Depto: Depto 304 Precio caluga: Normal: UF 5.430 precio Oferta: 4.996
+id: 60 Proyecto: Edificio Ottawa 4277 Depto: Depto 309 Precio caluga: Normal: UF 8.677 precio Oferta: 7.983
+id: 100 Proyecto: Mirador Playa Brava 3 Depto: Depto 507 Precio caluga: Normal: UF 3.468 precio Oferta: 2.982
+id: 101 Proyecto: HOLANDA 3451 Depto: Depto 3206 Precio caluga: Normal: UF 8.702 precio Oferta: 7.658
+id: 102 Proyecto: Touch Depto: Depto 205 Precio caluga: Normal: UF 10.120 precio Oferta: 9.614
+id: 103 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 416B Precio caluga: Normal: UF 2.804 precio Oferta: 2.468
+id: 104 Proyecto: Plaza Fluvial Depto: Depto 913 Precio caluga: Normal: UF 3.585 precio Oferta: 3.262
+id: 105 Proyecto: NUEVA ARLEGUI Depto: Depto D303 Precio caluga: Normal: UF 2.624 precio Oferta: 2.414
+id: 106 Proyecto: Edificio San José Depto: Depto 405 Precio caluga: Normal: UF 4.904 precio Oferta: 4.119
+id: 107 Proyecto: Mirador Playa Brava 2 Depto: Depto 201 Precio caluga: Normal: UF 4.963 precio Oferta: 4.219
+id: 108 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto D12 Precio caluga: Normal: UF 2.578 precio Oferta: 2.372
+id: 109 Proyecto: Isa Castillo Velasco Depto: Depto 2201 Precio caluga: Normal: UF 3.471 precio Oferta: 3.124
+id: 110 Proyecto: Edificio El Retiro Depto: Depto 203 Precio caluga: Normal: UF 4.676 precio Oferta: 4.302
+id: 111 Proyecto: Edificio Visviri 1700 Depto: Depto B1102 Precio caluga: Normal: UF 4.526 precio Oferta: 3.711
+id: 112 Proyecto: Perú Plaza II Depto: Depto 202 Precio caluga: Normal: UF 11.702 precio Oferta: 10.298
+id: 113 Proyecto: Puerto Pewun Depto: Depto 97 Precio caluga: Normal: UF 7.180 precio Oferta: 6.677
+id: 114 Proyecto: Edificio Lyon 800 Depto: Depto 117 Precio caluga: Normal: UF 7.440 precio Oferta: 6.919
+id: 115 Proyecto: Edificio El Retiro Depto: Depto 2206 Precio caluga: Normal: UF 3.340 precio Oferta: 3.073
+id: 116 Proyecto: NUEVA ARLEGUI Depto: Depto 24 Precio caluga: Normal: UF 12.590 precio Oferta: 11.583
+id: 117 Proyecto: HAMBURGO 557 Depto: Depto 306 Precio caluga: Normal: UF 5.992 precio Oferta: 5.513
+id: 118 Proyecto: Edificio Simón Bolívar 2543 Depto: Depto 305 Precio caluga: Normal: UF 8.353 precio Oferta: 7.768
+id: 119 Proyecto: Proyecto Mirador Azul - La Florida Depto: Depto 401 Precio caluga: Normal: UF 13.323 precio Oferta: 11.724
+id: 120 Proyecto: NUEVA ARLEGUI Depto: Depto 307 Precio caluga: Normal: UF 6.720 precio Oferta: 6.182
+id: 121 Proyecto: PARQUE LOS ABEDULES Depto: Depto D31 Precio caluga: Normal: UF 3.282 precio Oferta: 3.019
+id: 122 Proyecto: Edificio Martín de Zamora 4253 Depto: Depto 308 A Precio caluga: Normal: UF 8.651 precio Oferta: 8.218
+id: 123 Proyecto: HOLANDA 3451 Depto: Depto 505 Precio caluga: Normal: UF 5.526 precio Oferta: 4.697
+id: 124 Proyecto: Edificio Lyon 800 Depto: Depto 1110 Precio caluga: Normal: UF 3.674 precio Oferta: 3.233
+id: 125 Proyecto: Edificio Alto Villaseca Depto: Depto 107 Precio caluga: Normal: UF 3.378 precio Oferta: 3.04
+id: 126 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 510 Precio caluga: Normal: UF 5.379 precio Oferta: 5.056
+id: 127 Proyecto: Puerto Pewun Depto: Depto 1112 Precio caluga: Normal: UF 2.380 precio Oferta: 2.142
+id: 128 Proyecto: NUEVA ARLEGUI Depto: Depto 3202 Precio caluga: Normal: UF 4.314 precio Oferta: 3.883
+id: 129 Proyecto: Clic Depto: Depto 504 Precio caluga: Normal: UF 11.344 precio Oferta: 9.983
+id: 130 Proyecto: Edificio Lyon 800 Depto: Depto 1707 Precio caluga: Normal: UF 4.360 precio Oferta: 3.837
+id: 131 Proyecto: PARQUE LOS ABEDULES Depto: Depto 410A Precio caluga: Normal: UF 3.488 precio Oferta: 3.069
+id: 132 Proyecto: HOLANDA 1101 Depto: Depto 33 B Precio caluga: Normal: UF 3.400 precio Oferta: 3.23
+id: 133 Proyecto: EDIFICIO PORTA PINZON Depto: Depto 209 Precio caluga: Normal: UF 13.900 precio Oferta: 12.15
+id: 134 Proyecto: Santa Petronila Plaza Depto: Depto 609 Precio caluga: Normal: UF 5.612 precio Oferta: 5.219
+id: 135 Proyecto: Exequiel II Depto: Depto 107 Precio caluga: Normal: UF 7.290 precio Oferta: 6.78
+id: 136 Proyecto: Parque Victor Lamas - Edificio B Depto: Depto 305 Precio caluga: Normal: UF 2.516 precio Oferta: 2.39
+id: 137 Proyecto: 2 NORTE 1230 Depto: Depto 114 Precio caluga: Normal: UF 7.390 precio Oferta: 6.873
+id: 138 Proyecto: Zenteno Depto: Depto 500 Precio caluga: Normal: UF 7.006 precio Oferta: 6.446
+id: 139 Proyecto: Edificio NEW Depto: Depto 504 Precio caluga: Normal: UF 3.100 precio Oferta: 2.79
+id: 140 Proyecto: NUEVA ARLEGUI Depto: Depto 403 Precio caluga: Normal: UF 4.443 precio Oferta: 3.777

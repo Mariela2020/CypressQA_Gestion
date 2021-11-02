@@ -300,9 +300,9 @@ describe('API Testproject Reporte', ()=> {
             
             cy.readFile('cypress/fixtures/testproject.json').then((datareporte3) =>{
                
-                var test = datareporte3.jobName
-                var resultado = datareporte3.resultType
-                var browserA= datareporte3.testResults[0].targets[0].targetName
+              var test = datareporte3.jobName
+              var resultado = datareporte3.resultType
+              var browserA= datareporte3.testResults[0].targets[0].targetName
               var browser1 = browserA.replace(/[0-9.]/g, '')
               var duration1= datareporte3.testResults[0].targets[0].duration
               var duration_ms= duration1.substring(9)
@@ -376,6 +376,68 @@ describe('API Testproject Reporte', ()=> {
              })  
          })                
         
-    })
-   
+    }) 
+
+
+    it('Registro TC Intranet de Gestión Corredor', ()=>{
+
+      cy.api({
+        url: "/projects/br1AckSWwkavretXdaERbQ/jobs/a2Gs6WUH_E2J9FTbafM-_g/reports/latest?details=false&format=TestProject",
+        method: "GET",
+        headers: {
+          "authorization": "ZUaxMZ3ClDHBjrWtH9mKX8LNIeO3iC7cUmgDx3LjHqA1"
+        }
+        }).then((response) => {
+
+          cy.writeFile('cypress/fixtures/testproject.json', response.body)
+          
+          cy.readFile('cypress/fixtures/testproject.json').then((datareporte4) =>{
+             
+          cy.log(date)
+          var resultado = datareporte4.resultType
+          cy.log(resultado)
+          var duration1= datareporte4.testResults[0].targets[0].duration
+          var duration_ms= duration1.substring(9)
+          cy.log(duration_ms)
+          var duration2= datareporte4.testResults[0].targets[0].duration
+          var duration_min= duration2.slice(4, 5)
+          cy.log(duration_min)
+          var duration3= datareporte4.testResults[0].targets[0].duration
+          var duration_sec= duration3.slice(6, 8)
+          cy.log(duration_sec)
+          var minuto= parseInt(duration_min)
+          var segundo= parseInt(duration_sec)
+          var duration4 = (minuto * 60) + segundo
+          var duration_final = duration4 + "." + duration_ms
+          var duration1_final1= parseFloat(duration_final)
+          cy.log(duration1_final1)
+
+          cy.request({
+            url: 'https://coda.io/apis/v1/docs/WvYdhdLDJH/tables/data_intranet/rows', 
+            method: 'POST',
+            headers: {
+              'Authorization': 'Bearer fdaf70a0-204e-48f2-9c6f-2aa8156f847f',
+              'content-type': 'application/json'
+              },
+            body : {
+             'rows': [
+              {
+                'cells': [
+                  {'column': 'c-8zEK5a76rG', 'value': date},
+                  {'column': 'c-YnUJ9SLh5F', 'value': duration1_final1},
+                  {'column': 'c-pMNNXP0xrE', 'value': resultado}                                                                          
+                ]
+              }
+            ] 
+          }
+                              
+        }).then((response) => {
+          expect(response.status).to.eq(202)
+         })
+                               
+      })
+        
+    })    
+  })        
+
 })

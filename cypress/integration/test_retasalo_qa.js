@@ -19,8 +19,8 @@ describe('Tests Suites', function()
      // cy.get('#react-select-4-option-0').click({force:true})   // selecciona a Ñuñoa
       cy.contains('Las Condes').click({force:true})
   
-      cy.get('.form-control').type('2431-12').first().focus()
-      cy.contains('2431-12 - LAS CONDES 12631 DP 304 - Las Condes').click({force:true}) 
+      cy.get('.form-control').type('2431-14').first().focus()
+      cy.contains('2431-14 - AV LAS CONDES 12631 DP 306 - Las Condes').click({force:true}) 
         // 2431-12 - LAS CONDES 12631 DP 304 - Las Condes
       cy.get('.resuls').click()
 
@@ -30,12 +30,12 @@ describe('Tests Suites', function()
 
   it('Login de Retasalo',function ()  
   {
-    //cy.get('#email').type('hurtadomariela2@gmail.com')
-    //cy.get('#password').type('prueba',{sensitive: true})
-    cy.get('#email').type('camilo.olivos@toctoc.com')
-    cy.get('#password').type('josefa41',{sensitive: true})
+    cy.get('#email').type('hurtadomariela2@gmail.com')
+    cy.get('#password').type('prueba',{sensitive: true})
+    //cy.get('#email').type('camilo.olivos@toctoc.com')
+    //cy.get('#password').type('josefa41',{sensitive: true})
     cy.get('.contenido > .row > .btn').click()  
-    cy.wait(3000)
+    cy.wait(6000)
 
    // cy.get('#email').type('camilo.olivos@toctoc.com')
    // cy.get('#password').type('josefa41',{sensitive: true})
@@ -51,7 +51,9 @@ describe('Tests Suites', function()
 
   it('visualizar partes del informe', function()
   {
-    cy.get('.dir').should('be.visible').and('contain', 'LAS CONDES N°12631, DP 304')  
+    cy.get('.dir').should('be.visible')
+    cy.wait(1000)
+    //.and('contain', 'LAS CONDES N°12631, DP 304')  
     cy.get(':nth-child(1) > .accordion-feat > .collapse > p').should('be.visible')
     cy.get(':nth-child(2) > .accordion-feat > .collapse > p').should('be.visible')
     cy.get(':nth-child(3) > .accordion-feat > .collapse > p').should('be.visible')
@@ -66,7 +68,7 @@ describe('Tests Suites', function()
     cy.url().should('include', 'https://pagos.qatoctoc.com/') 
   })
 
- /* it('Pago Informe Credito', function()
+  it('Pago Informe Credito', function()
   {
     cy.get(':nth-child(1) > :nth-child(1) > .sub-title').click()
     cy.get('.number').type('4051885600446623')
@@ -74,7 +76,7 @@ describe('Tests Suites', function()
     cy.get('#inputGroupSelectYear').select('21')
     cy.get('.col-4 > .form-control').type('123')
     cy.get('.btn-pagar').click() 
-*/
+
     
      
    // cy.get('h1.title-c').should('to.be.visible').screenshot()
@@ -87,4 +89,12 @@ describe('Tests Suites', function()
     
   })
 
-//})
+  /*it('Pago Informe Debito', function()
+  {
+    
+    cy.get(':nth-child(2) > .col-12 > .col-4 > img').click()
+
+  })*/
+
+
+})

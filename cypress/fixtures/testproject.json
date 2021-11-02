@@ -1,61 +1,41 @@
 {
-  "id": "AuOMl-ya-kGCRuYKFt2-VQ",
+  "id": "nPYj0l08b0G_-rNnb-HDAQ",
   "platform": "Web",
-  "executionStart": "2021-07-30T11:15:15.112Z",
-  "executionEnd": "2021-07-30T11:18:10.708Z",
+  "executionStart": "2021-11-02T21:31:38.207Z",
+  "executionEnd": "2021-11-02T21:33:45.765Z",
   "resultType": "Passed",
   "passRatio": 100,
-  "agentName": "My First Agent",
-  "agentId": "Y6lXhtcjIUGxs1-gG3DpgQ",
-  "jobId": "xOTUaBRM1EuqTg_3rojB6Q",
-  "jobName": "Retasalo",
-  "passedTests": 3,
+  "agentName": "AgenteQA",
+  "agentId": "KPYE6gt-Q0KD3ajx-vk0cA",
+  "jobId": "a2Gs6WUH_E2J9FTbafM-_g",
+  "jobName": "Intranet",
+  "passedTests": 1,
   "failedTests": 0,
   "skippedTests": 0,
-  "trigger": "CI Jenkins build: 75",
+  "trigger": "CI Jenkins build: 1",
   "testResults": [
     {
-      "name": "Retasalo",
-      "executionStart": "2021-07-30T11:15:47.387Z",
+      "name": "Intranet",
+      "executionStart": "2021-11-02T21:33:06.076Z",
       "executionEnd": "0001-01-01T00:00:00Z",
-      "duration": "00:01:24.235",
+      "duration": "00:00:36.988",
       "result": "Passed",
       "targets": [
         {
-          "targetName": "Chrome 92.0.4515.107",
+          "targetName": "Chrome 95.0.4638.69",
           "result": "Passed",
           "passRatio": 100,
           "failRatio": 0,
-          "executionStart": "2021-07-30T11:15:47.387Z",
-          "executionEnd": "2021-07-30T11:16:26.66Z",
-          "duration": "00:00:39.273",
-          "failedSteps": []
-        },
-        {
-          "targetName": "Firefox 89.0",
-          "result": "Passed",
-          "passRatio": 100,
-          "failRatio": 0,
-          "executionStart": "2021-07-30T11:16:53.065Z",
-          "executionEnd": "2021-07-30T11:17:13.799Z",
-          "duration": "00:00:20.734",
-          "failedSteps": []
-        },
-        {
-          "targetName": "Edge 92.0.902.55",
-          "result": "Passed",
-          "passRatio": 100,
-          "failRatio": 0,
-          "executionStart": "2021-07-30T11:17:46.173Z",
-          "executionEnd": "2021-07-30T11:18:10.404Z",
-          "duration": "00:00:24.231",
+          "executionStart": "2021-11-02T21:33:06.076Z",
+          "executionEnd": "2021-11-02T21:33:43.066Z",
+          "duration": "00:00:36.990",
           "failedSteps": []
         }
       ]
     }
   ],
-  "reportUrl": "https://app.testproject.io/#/reports/projects/526859/jobs/xOTUaBRM1EuqTg_3rojB6Q/execution/AuOMl-ya-kGCRuYKFt2-VQ?es=2021-07-30T11:15:15.112Z",
+  "reportUrl": "https://app.testproject.io/#/reports/projects/526859/jobs/a2Gs6WUH_E2J9FTbafM-_g/execution/nPYj0l08b0G_-rNnb-HDAQ?es=2021-11-02T21:31:38.207Z",
   "tags": [
-    "Retasalo"
+    "Intranet"
   ]
 }

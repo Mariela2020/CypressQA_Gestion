@@ -1,0 +1,456 @@
+id: 1  1445857 Precio Ficha: UF  30.600
+id: 2  1239697 Precio Ficha: UF  5.500
+id: 3  1240621 Precio Ficha: UF  6.490
+id: 4  1435840 Precio Ficha: UF  11.500
+id: 5  1383057 Precio Ficha: UF  5.850
+id: 6  1345403 Precio Ficha: UF  9.800
+id: 7  1409230 Precio Ficha: UF  21.300
+id: 8  1411551 Precio Ficha: UF  16.990
+id: 9  1452094 Precio Ficha: UF  4.350
+id: 10  1466145 Precio Ficha: UF  8.490
+id: 11  1470530 Precio Ficha: UF  4.000
+id: 12  1482070 Precio Ficha: UF  10.750
+id: 13  1356923 Precio Ficha: UF  75.000
+id: 14  1315331 Precio Ficha: UF  6.800
+id: 15  1449181 Precio Ficha: UF  2.200
+id: 16  1483071 Precio Ficha: UF  6.341
+id: 17  1202403 Precio Ficha: UF  10.600
+id: 18  1291145 Precio Ficha: UF  52.000
+id: 19  1504868 Precio Ficha: UF  6.300
+id: 20  1504870 Precio Ficha: UF  20.600
+id: 21  1517884 Precio Ficha: UF  25.200
+id: 22  1388302 Precio Ficha: :precioUF:
+id: 23  1324317 Precio Ficha: :precioDespliegue:
+id: 24  1393447 Precio Ficha: UF 1.336
+id: 25  856972 Precio Ficha: UF 12.394
+id: 26  1596735 Precio Ficha: UF 1.883
+id: 27  1261532 Precio Ficha: UF 4.576
+id: 28  1202816 Precio Ficha: UF 4.561
+id: 29  828108 Precio Ficha: UF 11.228
+id: 30  1186693 Precio Ficha: UF 7.763
+id: 32  1108097 Precio Ficha: UF 9.385
+id: 33  1212559 Precio Ficha: UF 6.175
+id: 34  1243254 Precio Ficha: UF 8.850
+id: 35  1390823 Precio Ficha: UF 4.952
+id: 36  1447469 Precio Ficha: UF 6.682
+id: 38  1131106 Precio Ficha: UF 6.773
+id: 39  1190400 Precio Ficha: UF 7.415
+id: 40  964147 Precio Ficha: UF 4.250
+id: 41  822042 Precio Ficha: UF 4.900
+id: 43  1413449 Precio Ficha: UF 15.600
+id: 44  1436251 Precio Ficha: :precioDespliegue:
+id: 45  1436255 Precio Ficha: UF 10.130
+id: 46  923821 Precio Ficha: UF 10.050
+id: 47  723686 Precio Ficha: UF 4.910
+id: 48  1426570 Precio Ficha: UF 12.590
+id: 49  1115947 Precio Ficha: UF 5.040
+id: 50  1049937 Precio Ficha: UF 2.310
+id: 51  1031527 Precio Ficha: UF 3.780
+id: 52  1258270 Precio Ficha: UF 2.575
+id: 53  1434486 Precio Ficha: UF 5.600
+id: 54  1327428 Precio Ficha: UF 4.445
+id: 55  1150373 Precio Ficha: UF 4.100
+id: 56  198995 Precio Ficha: :precioDespliegue:
+id: 57  1149259 Precio Ficha: UF 3.110
+id: 58  1047116 Precio Ficha: UF 2.486
+id: 59  828630 Precio Ficha: UF 25.800
+id: 60  967723 Precio Ficha: UF 5.050
+id: 62  923920 Precio Ficha: UF 2.600
+id: 63  1078035 Precio Ficha: UF 3.590
+id: 65  1414668 Precio Ficha: UF 2.067
+id: 66  1068305 Precio Ficha: UF 3.721
+id: 67  1194099 Precio Ficha: UF 2.848
+id: 68  522550 Precio Ficha: UF 3.085
+id: 69  894752 Precio Ficha: UF 3.280
+id: 70  1394409 Precio Ficha: UF 2.434
+id: 71  1159775 Precio Ficha: UF 2.875
+id: 72  853326 Precio Ficha: UF 6.874
+id: 73  795335 Precio Ficha: UF 2.962
+id: 74  1330711 Precio Ficha: UF 3.486
+id: 76  467886 Precio Ficha: UF 3.032
+id: 77  548446 Precio Ficha: UF 4.024
+id: 78  1078132 Precio Ficha: UF 16.690
+id: 79  1076559 Precio Ficha: UF 8.243
+id: 80  976540 Precio Ficha: UF 10.177
+id: 81  921873 Precio Ficha: UF 8.642
+id: 82  234241 Precio Ficha: UF 7.935
+id: 84  1162184 Precio Ficha: UF 8.995
+id: 85  1245060 Precio Ficha: UF 1.560
+id: 86  1344923 Precio Ficha: UF 2.815
+id: 87  198884 Precio Ficha: UF 4.526
+id: 88  198852 Precio Ficha: UF 6.831
+id: 89  1058246 Precio Ficha: UF 3.121
+id: 90  1149261 Precio Ficha: UF 4.415
+id: 91  434987 Precio Ficha: UF 4.132
+id: 92  1335745 Precio Ficha: UF 2.698
+id: 93  1086010 Precio Ficha: UF 4.190
+id: 94  1183661 Precio Ficha: UF 10.540
+id: 95  198502 Precio Ficha: UF 3.110
+id: 97  198482 Precio Ficha: UF 4.000
+id: 98  1236243 Precio Ficha: UF 2.390
+id: 99  1281940 Precio Ficha: UF 2.250
+id: 100  740827 Precio Ficha: UF 24.490
+id: 101  1005377 Precio Ficha: UF 11.490
+id: 104  1460432 Precio Ficha: UF 5.430
+id: 105  332293 Precio Ficha: UF 1.792
+id: 106  1248343 Precio Ficha: UF 4.410
+id: 107  198497 Precio Ficha: UF 2.531
+id: 108  198276 Precio Ficha: UF 1.890
+id: 109  199449 Precio Ficha: UF 6.313
+id: 110  889623 Precio Ficha: UF 14.454
+id: 111  198466 Precio Ficha: UF 6.682
+id: 112  979083 Precio Ficha: UF 2.673
+id: 116  734070 Precio Ficha: UF 3.045
+id: 118  629748 Precio Ficha: UF 2.320
+id: 120  801815 Precio Ficha: UF 2.428
+id: 121  543006 Precio Ficha: UF 4.890
+id: 122  916960 Precio Ficha: UF 10.060
+id: 123  1097181 Precio Ficha: UF 2.352
+id: 124  1167350 Precio Ficha: UF 3.424
+id: 125  1103877 Precio Ficha: UF 6.813
+id: 126  360182 Precio Ficha: UF 4.263
+id: 127  294686 Precio Ficha: UF 4.556
+id: 128  1097219 Precio Ficha: UF 9.987
+id: 129  1318664 Precio Ficha: UF 2.410
+id: 130  981677 Precio Ficha: UF 15.520
+id: 132  231923 Precio Ficha: UF 13.318
+id: 133  474815 Precio Ficha: UF 11.554
+id: 134  424824 Precio Ficha: UF 14.551
+id: 135  1399508 Precio Ficha: UF 2.100
+id: 136  984689 Precio Ficha: UF 2.134
+id: 137  856585 Precio Ficha: UF 2.705
+id: 138  1210405 Precio Ficha: UF 2.220
+id: 139  1399471 Precio Ficha: UF 1.100
+id: 140  856539 Precio Ficha: UF 2.744
+id: 141  865421 Precio Ficha: UF 2.000
+id: 142  1306149 Precio Ficha: UF 1.500
+id: 143  1277258 Precio Ficha: UF 2.200
+id: 144  1375339 Precio Ficha: UF 1.400
+id: 145  461273 Precio Ficha: UF 2.511
+id: 146  1262466 Precio Ficha: UF 3.447
+id: 147  1097235 Precio Ficha: UF 2.926
+id: 148  1453718 Precio Ficha: UF 2.119
+id: 149  1296552 Precio Ficha: UF 1.667
+id: 150  1331118 Precio Ficha: UF 1.290
+id: 152  1252408 Precio Ficha: UF 1.400
+id: 153  1425878 Precio Ficha: UF 1.880
+id: 154  1426381 Precio Ficha: UF 2.040
+id: 157  1786462 Precio Ficha: $  340.000.000
+id: 158  1807746 Precio Ficha: $  65.000.000
+id: 159  1807745 Precio Ficha: UF  3.400
+id: 160  1807705 Precio Ficha: $  85.000.000
+id: 161  1807740 Precio Ficha: UF  4.100
+id: 162  1814582 Precio Ficha: UF  22.800
+
+_____________________________________________ arriendo extranjero
+
+id: 3  1752239
+id: 7  1747243
+id: 8  1767239
+id: 9  1774003
+id: 10  1772719
+id: 11  1771134
+id: 16  1795324
+id: 17  1704932
+id: 18  1791364
+id: 19  1502722
+id: 27  1725725
+id: 31  1789167
+id: 36  1658145
+id: 39  1733433
+id: 40  1733449
+id: 42  1791926
+id: 43  1646663
+id: 47  1744431
+id: 48  1752526
+id: 60  1618603
+id: 61  1792946
+id: 66  1689695
+id: 68  1794287
+id: 70  1736729
+id: 79  1761404
+id: 81  1690271
+id: 82  1673459
+id: 84  1765698
+id: 85  1767224
+id: 89  1752263
+id: 91  1780091
+id: 92  1684706
+id: 95  1709151
+id: 97  1286524
+id: 105  1766612
+id: 106  1767225
+id: 109  1792600
+id: 117  1779551
+id: 118  1791876
+id: 119  1791927
+id: 120  1791930
+id: 121  1748887
+id: 126  1652849
+id: 127  1750452
+id: 131  1782013
+id: 139  1734498
+id: 146  1706432
+id: 148  1775860
+id: 164  1750689
+id: 165  1715180
+id: 167  1789071
+id: 168  1768569
+id: 170  1566558
+id: 172  1488362
+id: 173  1786959
+id: 175  1769636
+id: 176  1767222
+id: 177  1785103
+id: 181  1628072
+id: 183  1735115
+id: 187  1580407
+id: 189  1785528
+id: 193  1776600
+id: 196  1760873
+id: 197  1772159
+id: 198  1782003
+id: 203  1636323
+id: 206  1776965
+id: 208  1791045
+id: 209  1767254
+id: 210  1488465
+id: 211  1445786
+id: 212  1748910
+id: 213  1749692
+id: 214  1757951
+id: 215  1745659
+id: 219  1682693
+id: 220  1606306
+id: 221  1641222
+id: 222  1779991
+id: 223  1789427
+id: 225  1736731
+id: 226  1785548
+id: 227  1791957
+id: 228  1719592
+id: 230  1697504
+id: 231  1746783
+id: 236  1610856
+id: 238  1691577
+id: 239  1791909
+id: 240  1729254
+id: 242  1795468
+id: 244  1790455
+id: 249  1705645
+id: 252  1793267
+id: 253  1790097
+id: 255  1714260
+id: 258  1761942
+id: 259  1712658
+id: 261  1776303
+id: 262  1776779
+id: 266  1792961
+id: 267  1793610
+id: 268  1795055
+id: 269  1795346
+id: 270  1716510
+id: 271  1770072
+id: 273  1774806
+id: 276  1780374
+id: 280  1549166
+id: 283  1575310
+id: 287  1793366
+id: 290  1739004
+id: 293  1779989
+id: 298  1408905
+id: 301  1588301
+id: 307  1658350
+id: 311  1777118
+id: 312  1757328
+id: 313  1649233
+id: 315  1748335
+id: 316  1791519
+id: 317  1729609
+id: 318  1788924
+id: 319  1791522
+id: 321  1580467
+id: 322  1649230
+id: 323  1776644
+id: 325  1760808
+id: 330  1698372
+id: 332  1525458
+id: 337  1784816
+id: 339  1732651
+
+_________________________________ 2da revision
+id: 3  1752239 Precio Ficha: $  400.000
+id: 7  1747243 Precio Ficha: UF  2.850
+id: 8  1767239 Precio Ficha: $  400.000
+id: 9  1774003 Precio Ficha: $  400.000
+id: 10  1772719 Precio Ficha: $  400.000
+id: 11  1771134 Precio Ficha: $  400.000
+id: 16  1795324 Precio Ficha: $  400.000
+id: 17  1704932 Precio Ficha: $  380.000
+id: 18  1791364 Precio Ficha: $  390.000
+id: 19  1502722 Precio Ficha: $  400.000
+id: 27  1725725 Precio Ficha: $  390.000
+
+id: 92  1684706 Precio Ficha: $  350.000
+id: 95  1709151 Precio Ficha: $  350.000
+id: 97  1286524 Precio Ficha: $  350.000
+id: 105  1766612 Precio Ficha: $  350.000
+id: 106  1767225 Precio Ficha: $  350.000
+id: 109  1792600 Precio Ficha: $  340.000
+id: 117  1779551 Precio Ficha: $  340.000
+id: 118  1791876 Precio Ficha: $  310.000
+id: 119  1791927 Precio Ficha: $  340.000
+id: 120  1791930 Precio Ficha: $  340.000
+
+id: 316  1791519 Precio Ficha: $  240.000
+id: 317  1729609 Precio Ficha: $  240.000
+id: 318  1788924 Precio Ficha: $  240.000
+id: 319  1791522 Precio Ficha: $  240.000
+id: 321  1580467 Precio Ficha: $  240.000
+id: 322  1649230 Precio Ficha: $  230.000
+id: 323  1776644 Precio Ficha: $  225.000
+id: 325  1760808 Precio Ficha: $  220.000
+id: 330  1698372 Precio Ficha: $  210.000
+id: 332  1525458 Precio Ficha: $  210.000
+id: 337  1784816 Precio Ficha: $  190.000
+id: 339  1732651 Precio Ficha: $  200.000
+
+id: 36  1658145 Precio Ficha: $  380.000
+id: 39  1733433 Precio Ficha: $  380.000
+id: 40  1733449 Precio Ficha: $  380.000
+id: 42  1791926 Precio Ficha: $  380.000
+id: 43  1646663 Precio Ficha: $  380.000
+id: 47  1744431 Precio Ficha: $  380.000
+id: 48  1752526 Precio Ficha: $  380.000
+id: 60  1618603 Precio Ficha: $  370.000
+id: 61  1792946 Precio Ficha: $  370.000
+id: 66  1689695 Precio Ficha: $  370.000
+id: 68  1794287 Precio Ficha: $  370.000
+id: 70  1736729 Precio Ficha: $  330.000
+id: 79  1761404 Precio Ficha: $  360.000
+id: 81  1690271 Precio Ficha: $  360.000
+id: 82  1673459 Precio Ficha: $  360.000
+id: 84  1765698 Precio Ficha: $  350.000
+id: 85  1767224 Precio Ficha: $  360.000
+id: 89  1752263 Precio Ficha: $  340.000
+
+id: 126  1652849 Precio Ficha: $  330.000
+id: 127  1750452 Precio Ficha: $  330.000
+id: 131  1782013 Precio Ficha: $  300.000
+id: 139  1734498 Precio Ficha: $  320.000
+id: 146  1706432 Precio Ficha: $  310.000
+id: 148  1775860 Precio Ficha: $  310.000
+id: 164  1750689 Precio Ficha: $  380.000
+id: 165  1715180 Precio Ficha: $  300.000
+id: 167  1789071 Precio Ficha: $  300.000
+id: 168  1768569 Precio Ficha: $  280.000
+id: 170  1566558 Precio Ficha: $  300.000
+id: 173  1786959 Precio Ficha: $  295.000
+id: 175  1769636 Precio Ficha: $  300.000
+id: 176  1767222 Precio Ficha: $  300.000
+id: 177  1785103 Precio Ficha: $  280.000
+id: 181  1628072 Precio Ficha: $  300.000
+id: 183  1735115 Precio Ficha: $  300.000
+id: 187  1580407 Precio Ficha: $  300.000
+id: 193  1776600 Precio Ficha: $  300.000
+id: 196  1760873 Precio Ficha: $  295.000
+id: 197  1772159 Precio Ficha: $  295.000
+id: 198  1782003 Precio Ficha: $  290.000
+id: 203  1636323 Precio Ficha: $  290.000
+id: 206  1776965 Precio Ficha: $  290.000
+id: 208  1791045 Precio Ficha: $  290.000
+id: 209  1767254 Precio Ficha: $  290.000
+id: 210  1488465 Precio Ficha: $  290.000
+id: 212  1748910 Precio Ficha: $  290.000
+id: 213  1749692 Precio Ficha: $  290.000
+id: 214  1757951 Precio Ficha: $  290.000
+id: 215  1745659 Precio Ficha: $  280.000
+id: 219  1682693 Precio Ficha: $  290.000
+id: 220  1606306 Precio Ficha: $  290.000
+id: 221  1641222 Precio Ficha: $  290.000
+id: 222  1779991 Precio Ficha: $  290.000
+id: 223  1789427 Precio Ficha: $  290.000
+id: 225  1736731 Precio Ficha: $  280.000
+id: 226  1785548 Precio Ficha: $  280.000
+id: 227  1791957 Precio Ficha: $  290.000
+id: 228  1719592 Precio Ficha: $  290.000
+id: 230  1697504 Precio Ficha: $  290.000
+id: 231  1746783 Precio Ficha: $  290.000
+id: 236  1610856 Precio Ficha: $  270.000
+id: 238  1691577 Precio Ficha: $  285.000
+id: 239  1791909 Precio Ficha: $  285.000
+id: 240  1729254 Precio Ficha: $  290.000
+id: 242  1795468 Precio Ficha: $  285.000
+id: 244  1790455 Precio Ficha: $  285.000
+id: 252  1793267 Precio Ficha: $  270.000
+id: 253  1790097 Precio Ficha: $  270.000
+id: 255  1714260 Precio Ficha: $  280.000
+id: 258  1761942 Precio Ficha: $  280.000
+id: 259  1712658 Precio Ficha: $  280.000
+id: 261  1776303 Precio Ficha: $  300.000
+id: 267  1793610 Precio Ficha: $  280.000
+id: 268  1795055 Precio Ficha: $  250.000
+id: 270  1716510 Precio Ficha: $  280.000
+id: 271  1770072 Precio Ficha: $  260.000
+id: 273  1774806 Precio Ficha: $  280.000
+id: 276  1780374 Precio Ficha: $  300.000
+id: 280  1549166 Precio Ficha: $  280.000
+id: 283  1575310 Precio Ficha: $  280.000
+id: 287  1793366 Precio Ficha: $  270.000
+id: 293  1779989 Precio Ficha: $  260.000
+id: 301  1588301 Precio Ficha: $  255.000
+id: 307  1658350 Precio Ficha: $  250.000
+id: 311  1777118 Precio Ficha: $  250.000
+id: 312  1757328 Precio Ficha: $  250.000
+id: 313  1649233 Precio Ficha: $  245.000
+
+__________________________________________________
+id: 1  1097181 Precio Ficha: UF 2.380
+id: 2  1482265 Precio Ficha: UF 2.466
+id: 3  1574084 Precio Ficha: UF 2.495
+id: 4  1784433 Precio Ficha: UF 2.094
+id: 5  925496 Precio Ficha: UF 8.680
+id: 6  926489 Precio Ficha: UF 7.180
+id: 7  1311622 Precio Ficha: UF 8.330
+id: 8  1628823 Precio Ficha: UF 2.440
+id: 9  1574058 Precio Ficha: UF 6.740
+id: 10  1186693 Precio Ficha: UF 7.763
+id: 11  1635094 Precio Ficha: UF 6.077
+id: 12  1460432 Precio Ficha: UF 5.430
+id: 13  1736466 Precio Ficha: UF 4.676
+id: 14  1637395 Precio Ficha: UF 6.646
+id: 15  1503791 Precio Ficha: UF 3.471
+id: 16  1347321 Precio Ficha: UF 2.855
+id: 17  1117703 Precio Ficha: UF 6.730
+id: 18  1541686 Precio Ficha: UF 1.855
+id: 19  1200756 Precio Ficha: UF 3.490
+id: 20  1607263 Precio Ficha: UF 2.430
+id: 21  1104008 Precio Ficha: UF 5.830
+id: 22  1425694 Precio Ficha: UF 3.677
+id: 23  1634373 Precio Ficha: UF 3.635
+id: 24  1088457 Precio Ficha: UF 2.539
+id: 25  1149218 Precio Ficha: UF 7.883
+id: 26  1097394 Precio Ficha: UF 7.189
+id: 27  1115826 Precio Ficha: UF 1.855
+id: 28  575904 Precio Ficha: UF 2.687
+id: 29  1830217 Precio Ficha: UF 2.960
+id: 30  1335745 Precio Ficha: UF 2.698
+id: 31  1619458 Precio Ficha: UF 2.612
+id: 32  1611193 Precio Ficha: UF 2.928
+id: 33  434987 Precio Ficha: UF 4.132
+id: 34  1183678 Precio Ficha: UF 2.126
+id: 35  1194093 Precio Ficha: UF 3.009
+id: 36  453558 Precio Ficha: UF 5.491
+id: 37  360093 Precio Ficha: UF 4.004
+id: 38  1651427 Precio Ficha: UF 3.132
+id: 39  1515804 Precio Ficha: UF 2.176
+id: 40  1552423 Precio Ficha: UF 3.184
+id: 41  1182596 Precio Ficha: UF 4.090
+id: 42  1425081 Precio Ficha: UF 2.524
+id: 43  1167931 Precio Ficha: UF 5.783
+id: 44  1602466 Precio Ficha: UF 2.902
+id: 45  1319303 Precio Ficha: UF 3.560
+id: 46  1258270 Precio Ficha: UF 2.575
+id: 47  1784280 Precio Ficha: UF 3.020
+id: 48  1277224 Precio Ficha: UF 2.317
+id: 49  1229826 Precio Ficha: UF 2.752

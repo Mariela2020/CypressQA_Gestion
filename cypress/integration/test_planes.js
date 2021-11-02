@@ -13,7 +13,7 @@ describe('Tests Suites', function()
 
   it('Flujo Planes Inicia',function ()  
   {
-      cy.visit('https://ww2.toctoc.com/gestioncorredor/')
+      cy.visit('https://ww2.qatoctoc.com/gestioncorredor/')
       cy.title().should('eq','TOCTOC.com - Gestión corredor - Planes de publicación')
       cy.get('.gCdesktop > :nth-child(2) > a').click()
       cy.get('.inicia > .col-12 > .plan-btn > .btn').click({force:true})
@@ -36,7 +36,7 @@ describe('Tests Suites', function()
       cy.get('#comuna').select('339')
       cy.get('#aceptaTerminos').click()
       cy.get('.btn-danger').click()
-      cy.wait(3000)
+      cy.wait(4000)
       //cy.get('#verDetalle').click()
       
       
