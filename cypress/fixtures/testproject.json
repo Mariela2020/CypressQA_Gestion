@@ -1,24 +1,24 @@
 {
-  "id": "nPYj0l08b0G_-rNnb-HDAQ",
+  "id": "VzC4Zn10L0qTrzakpS1OAA",
   "platform": "Web",
-  "executionStart": "2021-11-02T21:31:38.207Z",
-  "executionEnd": "2021-11-02T21:33:45.765Z",
+  "executionStart": "2021-11-15T14:50:06.332Z",
+  "executionEnd": "2021-11-15T14:55:31.662Z",
   "resultType": "Passed",
   "passRatio": 100,
   "agentName": "AgenteQA",
   "agentId": "KPYE6gt-Q0KD3ajx-vk0cA",
-  "jobId": "a2Gs6WUH_E2J9FTbafM-_g",
-  "jobName": "Intranet",
-  "passedTests": 1,
+  "jobId": "zRt0o1m1vUKRPvwo918SdA",
+  "jobName": "AddInmobiliaria1",
+  "passedTests": 3,
   "failedTests": 0,
   "skippedTests": 0,
   "trigger": "CI Jenkins build: 1",
   "testResults": [
     {
-      "name": "Intranet",
-      "executionStart": "2021-11-02T21:33:06.076Z",
+      "name": "AddInmobiliario - cross browser",
+      "executionStart": "2021-11-15T14:51:16.557Z",
       "executionEnd": "0001-01-01T00:00:00Z",
-      "duration": "00:00:36.988",
+      "duration": "00:02:44.901",
       "result": "Passed",
       "targets": [
         {
@@ -26,16 +26,36 @@
           "result": "Passed",
           "passRatio": 100,
           "failRatio": 0,
-          "executionStart": "2021-11-02T21:33:06.076Z",
-          "executionEnd": "2021-11-02T21:33:43.066Z",
-          "duration": "00:00:36.990",
+          "executionStart": "2021-11-15T14:51:16.557Z",
+          "executionEnd": "2021-11-15T14:52:10.99Z",
+          "duration": "00:00:54.433",
+          "failedSteps": []
+        },
+        {
+          "targetName": "Firefox 92.0.1.7935",
+          "result": "Passed",
+          "passRatio": 100,
+          "failRatio": 0,
+          "executionStart": "2021-11-15T14:52:54.623Z",
+          "executionEnd": "2021-11-15T14:53:44.886Z",
+          "duration": "00:00:50.263",
+          "failedSteps": []
+        },
+        {
+          "targetName": "Edge 95.0.1020.53",
+          "result": "Passed",
+          "passRatio": 100,
+          "failRatio": 0,
+          "executionStart": "2021-11-15T14:54:28.719Z",
+          "executionEnd": "2021-11-15T14:55:28.927Z",
+          "duration": "00:01:00.208",
           "failedSteps": []
         }
       ]
     }
   ],
-  "reportUrl": "https://app.testproject.io/#/reports/projects/526859/jobs/a2Gs6WUH_E2J9FTbafM-_g/execution/nPYj0l08b0G_-rNnb-HDAQ?es=2021-11-02T21:31:38.207Z",
+  "reportUrl": "https://app.testproject.io/#/reports/projects/526859/jobs/zRt0o1m1vUKRPvwo918SdA/execution/VzC4Zn10L0qTrzakpS1OAA?es=2021-11-15T14:50:06.332Z",
   "tags": [
-    "Intranet"
+    "Add"
   ]
 }

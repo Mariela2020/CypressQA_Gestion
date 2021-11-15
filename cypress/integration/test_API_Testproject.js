@@ -37,6 +37,7 @@ describe('API Testproject Reporte', ()=> {
               var minuto= parseInt(duration_min)
               var segundo= parseInt(duration_sec)
               var duration4 = (minuto * 60) + segundo
+              //var duration_final = duration4 + duration_ms
               var duration_final = duration4 + "." + duration_ms
               var duration1_final1= parseFloat(duration_final)
  
@@ -52,6 +53,7 @@ describe('API Testproject Reporte', ()=> {
               var segundo2= parseInt(duration2_sec)
               var duration8 = (minuto2 * 60) + segundo2
               var duration_final2 = duration8 + "." + duration2_ms
+              //var duration_final2 = duration8 + duration2_ms
               var duration2_final2= parseFloat(duration_final2)
               
               var browserC= datareporte.testResults[0].targets[2].targetName
@@ -67,7 +69,9 @@ describe('API Testproject Reporte', ()=> {
               var minuto3= parseInt(duration3_min)
               var segundo3= parseInt(duration3_sec)
               var duration12 = (minuto3 * 60) + segundo3
+              var duration_final3 = duration12 + duration3_ms
               var duration_final3 = duration12 + "." + duration3_ms
+              //var duration_final3 = duration12 + duration3_ms
               var duration3_final3= parseFloat(duration_final3)
                 
                 cy.request({
@@ -128,6 +132,7 @@ describe('API Testproject Reporte', ()=> {
               var minuto= parseInt(duration_min)
               var segundo= parseInt(duration_sec)
               var duration4 = (minuto * 60) + segundo
+              //var duration_final = duration4 + duration_ms
               var duration_final = duration4 + "." + duration_ms
               var duration1_final1= parseFloat(duration_final)
  
@@ -143,6 +148,7 @@ describe('API Testproject Reporte', ()=> {
               var segundo2= parseInt(duration2_sec)
               var duration8 = (minuto2 * 60) + segundo2
               var duration_final2 = duration8 + "." + duration2_ms
+              //var duration_final2 = duration8 + duration2_ms
               var duration2_final2= parseFloat(duration_final2)
               
               var browserC= datareporte1.testResults[0].targets[2].targetName
@@ -159,6 +165,7 @@ describe('API Testproject Reporte', ()=> {
               var segundo3= parseInt(duration3_sec)
               var duration12 = (minuto3 * 60) + segundo3
               var duration_final3 = duration12 + "." + duration3_ms
+              //var duration_final3 = duration12 + duration3_ms
               var duration3_final3= parseFloat(duration_final3)
                 
                 cy.request({
@@ -221,6 +228,7 @@ describe('API Testproject Reporte', ()=> {
               var segundo= parseInt(duration_sec)
               var duration4 = (minuto * 60) + segundo
               var duration_final = duration4 + "." + duration_ms
+             // var duration_final = duration4 + duration_ms
               var duration1_final1= parseFloat(duration_final)
  
               var browserB= datareporte2.testResults[0].targets[1].targetName
@@ -235,6 +243,7 @@ describe('API Testproject Reporte', ()=> {
               var segundo2= parseInt(duration2_sec)
               var duration8 = (minuto2 * 60) + segundo2
               var duration_final2 = duration8 + "." + duration2_ms
+              //var duration_final2 = duration8 + duration2_ms
               var duration2_final2= parseFloat(duration_final2)
               
               var browserC= datareporte2.testResults[0].targets[2].targetName
@@ -251,6 +260,7 @@ describe('API Testproject Reporte', ()=> {
               var segundo3= parseInt(duration3_sec)
               var duration12 = (minuto3 * 60) + segundo3
               var duration_final3 = duration12 + "." + duration3_ms
+              //var duration_final3 = duration12 + duration3_ms
               var duration3_final3= parseFloat(duration_final3)
                 
                 cy.request({
@@ -314,6 +324,7 @@ describe('API Testproject Reporte', ()=> {
               var segundo= parseInt(duration_sec)
               var duration4 = (minuto * 60) + segundo
               var duration_final = duration4 + "." + duration_ms
+             // var duration_final = duration4 + duration_ms
               var duration1_final1= parseFloat(duration_final)
  
               var browserB= datareporte3.testResults[0].targets[1].targetName
@@ -328,6 +339,7 @@ describe('API Testproject Reporte', ()=> {
               var segundo2= parseInt(duration2_sec)
               var duration8 = (minuto2 * 60) + segundo2
               var duration_final2 = duration8 + "." + duration2_ms
+              //var duration_final2 = duration8 + duration2_ms
               var duration2_final2= parseFloat(duration_final2)
               
               var browserC= datareporte3.testResults[0].targets[2].targetName
@@ -343,7 +355,8 @@ describe('API Testproject Reporte', ()=> {
               var minuto3= parseInt(duration3_min)
               var segundo3= parseInt(duration3_sec)
               var duration12 = (minuto3 * 60) + segundo3
-              var duration_final3 = duration12 + "." + duration3_ms
+              var duration_final3 = duration12 + duration3_ms
+              //var duration_final3 = duration12 + "." + duration3_ms
               var duration3_final3= parseFloat(duration_final3)
                 
                 cy.request({
@@ -409,6 +422,7 @@ describe('API Testproject Reporte', ()=> {
           var segundo= parseInt(duration_sec)
           var duration4 = (minuto * 60) + segundo
           var duration_final = duration4 + "." + duration_ms
+         // var duration_final = duration4 + duration_ms
           var duration1_final1= parseFloat(duration_final)
           cy.log(duration1_final1)
 
@@ -438,6 +452,102 @@ describe('API Testproject Reporte', ()=> {
       })
         
     })    
-  })        
+  }) 
+  
+  
+  it('Registro Cross Browser de AddInmobiliario', ()=>{
+
+    cy.api({
+      url: "/projects/br1AckSWwkavretXdaERbQ/jobs/zRt0o1m1vUKRPvwo918SdA/reports/latest?details=false&format=TestProject",
+      method: "GET",
+      headers: {
+          "authorization": "ZUaxMZ3ClDHBjrWtH9mKX8LNIeO3iC7cUmgDx3LjHqA1"
+      }
+  }).then((response) => {
+
+      cy.writeFile('cypress/fixtures/testproject.json', response.body)
+      
+      cy.readFile('cypress/fixtures/testproject.json').then((datareporte5) =>{
+        var test = datareporte5.jobName
+        var resultado = datareporte5.resultType
+        var browserA= datareporte5.testResults[0].targets[0].targetName
+        var browser1 = browserA.replace(/[0-9.]/g, '')
+        var duration1= datareporte5.testResults[0].targets[0].duration
+        var duration_ms= duration1.substring(9)
+        var duration2= datareporte5.testResults[0].targets[0].duration
+        var duration_min= duration2.slice(4, 5)
+        var duration3= datareporte5.testResults[0].targets[0].duration
+        var duration_sec= duration3.slice(6, 8)
+        var minuto= parseInt(duration_min)
+        var segundo= parseInt(duration_sec)
+        var duration4 = (minuto * 60) + segundo
+        var duration_final = duration4 + "." + duration_ms
+       // var duration_final = duration4 + duration_ms
+        var duration1_final1= parseFloat(duration_final)
+
+        var browserB= datareporte5.testResults[0].targets[1].targetName
+        var browser2 = browserB.replace(/[0-9.]/g, '')
+        var duration5= datareporte5.testResults[0].targets[1].duration
+        var duration2_ms= duration5.substring(9)
+        var duration6= datareporte5.testResults[0].targets[1].duration
+        var duration2_min= duration6.slice(4, 5)
+        var duration7= datareporte5.testResults[0].targets[1].duration
+        var duration2_sec= duration7.slice(6, 8)
+        var minuto2= parseInt(duration2_min)
+        var segundo2= parseInt(duration2_sec)
+        var duration8 = (minuto2 * 60) + segundo2
+        var duration_final2 = duration8 + "." + duration2_ms
+        //var duration_final2 = duration8 + duration2_ms
+        var duration2_final2= parseFloat(duration_final2)
+        
+        var browserC= datareporte5.testResults[0].targets[2].targetName
+        var browser3 = browserC.replace(/[0-9.]/g, '')
+       // var duration3= datareporte.testResults[0].targets[2].duration
+       // var duration30= duration3.substring(6)
+        var duration9= datareporte5.testResults[0].targets[2].duration
+        var duration3_ms= duration9.substring(9)
+        var duration10= datareporte5.testResults[0].targets[2].duration
+        var duration3_min= duration10.slice(4, 5)
+        var duration11= datareporte5.testResults[0].targets[2].duration
+        var duration3_sec= duration11.slice(6, 8)
+        var minuto3= parseInt(duration3_min)
+        var segundo3= parseInt(duration3_sec)
+        var duration12 = (minuto3 * 60) + segundo3
+        var duration_final3 = duration12 + "." + duration3_ms
+        //var duration_final3 = duration12 + duration3_ms
+        var duration3_final3= parseFloat(duration_final3)
+          
+          cy.request({
+              url: 'https://coda.io/apis/v1/docs/WvYdhdLDJH/tables/data_tp/rows', 
+              method: 'POST',
+              headers: {
+                'Authorization': 'Bearer a6246f43-97fc-4fc2-a51a-6405762e4a65',
+                'content-type': 'application/json'
+                },
+              body : {
+                'rows': [
+                      {
+                    'cells': [
+                             {'column': 'c-EpQqFfXnAK', 'value': date},
+                             {'column': 'c-WCPjfjBaPt', 'value': test},
+                             {'column': 'c-eH0JSGhwu3', 'value': duration1_final1},
+                             {'column': 'c-Kmtt3mu9qz', 'value': duration2_final2},
+                             {'column': 'c-pjTfOWbYSQ', 'value': duration3_final3},
+                             {'column': 'c-t_ZWUMTCSx', 'value': resultado}
+                            ]
+                    }
+                ] 
+              }
+              
+            }).then((response) => {
+               expect(response.status).to.eq(202)
+             })
+
+
+          //cy.writeFile('datareporte.txt', '\nFecha: '+ date +'; Flujo: ' + test + '; ' + browser1 + ':' + duration1 + '; ' + browser2 + ':' + duration2 + '; ' + browser3 + ':' + duration3 +'; Resultado: ' + resultado, { flag: 'a+' }) 
+       })  
+   })                
+  
+  })
 
 })
