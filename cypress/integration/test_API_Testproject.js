@@ -455,7 +455,7 @@ describe('API Testproject Reporte', ()=> {
   }) 
   
   
-  it('Registro Cross Browser de AddInmobiliario', ()=>{
+  /*it('Registro Cross Browser de AddInmobiliario', ()=>{
 
     cy.api({
       url: "/projects/br1AckSWwkavretXdaERbQ/jobs/zRt0o1m1vUKRPvwo918SdA/reports/latest?details=false&format=TestProject",
@@ -548,6 +548,6 @@ describe('API Testproject Reporte', ()=> {
        })  
    })                
   
-  })
+  })*/
 
 })

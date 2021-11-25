@@ -1,4 +1,4 @@
-describe('TC Recorre Landing Tour Virual', function() 
+describe('TC Recorre Landing Tour Virtual', function() 
  {
     beforeEach(function(){
         cy.visit('https://www.toctoc.com/landing/tour-virtual/')
