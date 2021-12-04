@@ -356,7 +356,7 @@ describe('API Testproject Reporte', ()=> {
               var segundo3= parseInt(duration3_sec)
               var duration12 = (minuto3 * 60) + segundo3
               var duration_final3 = duration12 + duration3_ms
-              //var duration_final3 = duration12 + "." + duration3_ms
+              var duration_final3 = duration12 + "." + duration3_ms
               var duration3_final3= parseFloat(duration_final3)
                 
                 cy.request({
