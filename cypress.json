@@ -2,7 +2,8 @@
     "experimentalNetworkStubbing": true,
     "chromeWebSecurity": false,
     "redirectionLimit": 300,
-
+    "failOnStatusCode": false,
+ 
             
     "env": {
           "TAGS1": "@noejecutar",

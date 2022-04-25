@@ -2,7 +2,8 @@ describe('TC Recorre Landing Tour Virtual', function()
  {
     beforeEach(function(){
         cy.visit('https://www.toctoc.com/landing/tour-virtual/')
-        
+       //cy.visit('https://ww2.toctoc.com/gestioncorredor/corredoras/propiedades/procasa/procasa-villarrica-spa-propiedades/14737')
+  
     });
   
     it('Recorre Precio de las calugas',function ()  
@@ -25,7 +26,7 @@ describe('TC Recorre Landing Tour Virtual', function()
                 var precio= precio_caluga.slice(0, 8) 
                 //cy.log(precio)   
 
-                cy.writeFile('precio_caluga.txt', '\nid: '+i+ ' precio: ' + precio, {flag: 'a+'} )
+                cy.writeFile('precio_caluga.txt', '\nid: '+i+ ' precio: ' + precio, {flag: 'a+'})
             
             })
 
@@ -36,6 +37,8 @@ describe('TC Recorre Landing Tour Virtual', function()
      })
 
     })
+
+
 
 
   

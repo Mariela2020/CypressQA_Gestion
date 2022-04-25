@@ -1,61 +1,61 @@
 {
-  "id": "uA_FKzLjAUaPKjf3Pw8Qyg",
+  "id": "zFLhKjnUjEa9JPrjBNRGtw",
   "platform": "Web",
-  "executionStart": "2021-12-23T10:15:13.815Z",
-  "executionEnd": "2021-12-23T10:19:46.079Z",
+  "executionStart": "2022-04-24T16:08:14.788Z",
+  "executionEnd": "2022-04-24T16:13:22.585Z",
   "resultType": "Passed",
   "passRatio": 100,
   "agentName": "AgenteQA",
-  "agentId": "fa4X_DUwGkugJWZ5Yf5JyQ",
-  "jobId": "xOTUaBRM1EuqTg_3rojB6Q",
-  "jobName": "Retasalo",
+  "agentId": "JGrRU2dVckC2MZYayD7Rzg",
+  "jobId": "AMpFmdxxqkW3EHyo-sfL5g",
+  "jobName": "AddInmobiliario2",
   "passedTests": 3,
   "failedTests": 0,
   "skippedTests": 0,
-  "trigger": "CI Jenkins build: 226",
+  "trigger": "Scheduler",
   "testResults": [
     {
-      "name": "Retasalo",
-      "executionStart": "2021-12-23T10:16:45.528Z",
+      "name": "AddInmobiliario",
+      "executionStart": "2022-04-24T16:09:43.427Z",
       "executionEnd": "0001-01-01T00:00:00Z",
-      "duration": "00:01:34.176",
+      "duration": "00:02:28.781",
       "result": "Passed",
       "targets": [
         {
-          "targetName": "Chrome 96.0.4664.110",
+          "targetName": "Chrome (Headless) 100.0.4896.127",
           "result": "Passed",
           "passRatio": 100,
           "failRatio": 0,
-          "executionStart": "2021-12-23T10:16:45.528Z",
-          "executionEnd": "2021-12-23T10:17:31.516Z",
-          "duration": "00:00:45.988",
+          "executionStart": "2022-04-24T16:09:43.427Z",
+          "executionEnd": "2022-04-24T16:10:34.779Z",
+          "duration": "00:00:51.352",
           "failedSteps": []
         },
         {
-          "targetName": "Firefox 94.0.2.7993",
+          "targetName": "Firefox 99.0.1.8136",
           "result": "Passed",
           "passRatio": 100,
           "failRatio": 0,
-          "executionStart": "2021-12-23T10:18:09.098Z",
-          "executionEnd": "2021-12-23T10:18:34.096Z",
-          "duration": "00:00:24.998",
+          "executionStart": "2022-04-24T16:11:07.126Z",
+          "executionEnd": "2022-04-24T16:12:00.7Z",
+          "duration": "00:00:53.574",
           "failedSteps": []
         },
         {
-          "targetName": "Edge 96.0.1054.62",
+          "targetName": "Edge (Headless) 100.0.1185.50",
           "result": "Passed",
           "passRatio": 100,
           "failRatio": 0,
-          "executionStart": "2021-12-23T10:19:21.646Z",
-          "executionEnd": "2021-12-23T10:19:44.837Z",
-          "duration": "00:00:23.191",
+          "executionStart": "2022-04-24T16:12:33.873Z",
+          "executionEnd": "2022-04-24T16:13:17.73Z",
+          "duration": "00:00:43.857",
           "failedSteps": []
         }
       ]
     }
   ],
-  "reportUrl": "https://app.testproject.io/#/reports/projects/526859/jobs/xOTUaBRM1EuqTg_3rojB6Q/execution/uA_FKzLjAUaPKjf3Pw8Qyg?es=2021-12-23T10:15:13.815Z",
+  "reportUrl": "https://app.testproject.io/#/reports/projects/526859/jobs/AMpFmdxxqkW3EHyo-sfL5g/execution/zFLhKjnUjEa9JPrjBNRGtw?es=2022-04-24T16:08:14.788Z",
   "tags": [
-    "Retasalo"
+    "Add"
   ]
 }

@@ -18,8 +18,19 @@
 // eslint-disable-next-line no-unused-vars
 
 const cucumber = require('cypress-cucumber-preprocessor').default
+const { lighthouse, pa11y, prepareAudit } = require("cypress-audit")
+
 module.exports = (on, config) => {
   on('file:preprocessor', cucumber())
+  on("before:browser:launch", (browser = {}, launchOptions) => {
+    prepareAudit(launchOptions);
+  });
+ 
+  on("task", {
+    lighthouse: lighthouse(), // calling the function is important
+    pa11y: pa11y(), // calling the function is important
+  });
+
 }
 
 

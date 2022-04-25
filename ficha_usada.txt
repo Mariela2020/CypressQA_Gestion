@@ -1,0 +1,30 @@
+id: 1 Codigo: Código proyecto: TT-473425 LO ARCAYA/VITACURA Con información de entorno
+
+
+id: 1 Codigo: Código proyecto: TT-473425 LO ARCAYA/VITACURA Sin información de entorno
+id: 1 Codigo: Código proyecto: TT-473425 LO ARCAYA/VITACURAEmail: 
+id: 1 Codigo: Código proyecto: TT-473425 LO ARCAYA/VITACURA Con Establecimiento educacional
+id: 1 Codigo: Código proyecto: TT-473425 LO ARCAYA/VITACURA Con información de entorno
+id: 1 Codigo: Código proyecto: TT-473425 LO ARCAYA/VITACURAEmail: 
+id: 1 Codigo: Código proyecto: TT-567288 Valle Nevado sin información de entorno
+id: 1 Codigo: Código proyecto: TT-567288 Valle Nevado Con Establecimiento educacional
+id: 1 Codigo: Código proyecto: TT-567288 Valle NevadoEmail: 
+id: 4 Codigo: Código proyecto: TT-567288 Valle NevadoEmail: 
+id: 5 Codigo: Código proyecto: TT-570214 Departamento, sector SurEmail: 
+id: 7 Codigo: Código proyecto: TT-248046 GRAN VIAEmail: 
+id: 15 Codigo: Código proyecto: TT-424730 Elegante propiedad en exclusivo sector de Lo Curro.Email: 
+id: 16 Codigo: Código proyecto: TT-424732 Gran casa con lindo jardín en sector privilegiadoEmail: 
+id: 16 Codigo: Código proyecto: TT-424732 Gran casa con lindo jardín en sector privilegiadoEmail: 
+id: 17 Codigo: Código proyecto: TT-424758 Elegante edificio de tres departamentos exclusivos.Email: 
+id: 20 Codigo: Código proyecto: TT-432733 Gran casa estilo españolEmail: 
+id: 21 Codigo: Código proyecto: TT-434656 Gran oportunidad dpto. en San DamiánEmail: 
+id: 23 Codigo: Código proyecto: TT-438075 Sector Coviefi Sur, Antofagasta.Email: 
+id: 24 Codigo: Código proyecto: TT-438089 Sector Coviefi Sur, AntofagastaEmail: 
+id: 25 Codigo: Código proyecto: TT-438266 Linda Casa Colonial en ChimbarongoEmail: 
+id: 26 Codigo: Código proyecto: TT-440094 Paradero 20Email: 
+id: 27 Codigo: Código proyecto: TT-444754 Rebajada, Gran Casa Estilo GeorgianEmail: 
+id: 28 Codigo: Código proyecto: TT-449007 Excepcional departamento con vista panorámica sobre Santiago.Email: 
+id: 31 Codigo: Código proyecto: TT-473425 LO ARCAYA/VITACURAEmail: 
+id: 40 Codigo: Código proyecto: TT-519713 Excelente casa estilo mediterráneo.Email: 
+id: 57 Codigo: Código proyecto: TT-531278 Oficina en Centro de AntofagastaEmail: 
+id: 62 Codigo: Código proyecto: TT-534927 METRO ALCANTARAEmail: 

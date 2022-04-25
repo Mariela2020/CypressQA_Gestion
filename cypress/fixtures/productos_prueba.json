@@ -1,0 +1,146 @@
+{
+  "Propiedad Destacada":[
+    {
+        "datos": [
+        {
+          "precio": "0,8",
+          "nro": "1",
+          "descuento": "0"
+         }
+       ]    
+    }
+  ],
+
+  "Ultimas Ventas":[
+    {
+        "datos": [
+        {
+          "precio": "3",
+          "nro": "2",
+          "descuento": "0"
+         }
+       ]    
+    }
+  ],
+  
+  "Mailing":[
+    {
+        "datos": [
+        {
+          "precio": "2",
+          "nro": "3",
+          "descuento": "0"
+         }
+       ]    
+    }
+  ],
+  
+  "Banner":[
+    {
+        "datos": [
+        {
+          "precio": "20",
+          "nro": "4",
+          "descuento": "0"
+         }
+       ]    
+    }
+  ],
+  
+  "Banner + 5 prop des":[
+    {
+        "datos": [
+        {
+          "precio": "19",
+          "nro": "5",
+          "descuento": "0"
+         }
+       ]    
+    }
+  ],
+
+  "Espacio Landing":[
+    {
+        "datos": [
+        {
+          "precio": "2",
+          "nro": "6",
+          "descuento": "0"
+         }
+       ]    
+    }
+  ],
+   
+  "Mail (500) + 5 Prop des":[
+    {
+        "datos": [
+        {
+          "precio": "6",
+          "nro": "7",
+          "descuento": "0"
+         }
+       ]    
+    }
+  ],
+
+  "Api Contactos":[
+    {
+        "datos": [
+        {
+          "precio": "5",
+          "nro": "8",
+          "descuento": "0"
+         }
+       ]    
+    }
+  ],
+   
+  "Prop destacada x5":[
+    {
+        "datos": [
+        {
+          "precio": "4",
+          "nro": "9",
+          "descuento": "0"
+         }
+       ]    
+    }
+  ],
+  
+  "Prop destacada x15":[
+    {
+        "datos": [
+        {
+          "precio": "11",
+          "nro": "10",
+          "descuento": "0"
+         }
+       ]    
+    }
+  ],
+
+  "Prop destacada x30":[
+    {
+        "datos": [
+        {
+          "precio": "20",
+          "nro": "11",
+          "descuento": "0"
+         }
+       ]    
+    }
+  ],
+
+  "Prop destacada x60":[
+    {
+        "datos": [
+        {
+          "precio": "35",
+          "nro": "12",
+          "descuento": "0"
+         }
+       ]    
+    }
+  ]
+   
+}

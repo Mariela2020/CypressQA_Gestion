@@ -482,10 +482,10 @@ describe('API Testproject Reporte', ()=> {
   }) 
   
   
-  /*it('Registro Cross Browser de AddInmobiliario', ()=>{
+  it('Registro Cross Browser de AddInmobiliario', ()=>{
 
     cy.api({
-      url: "/projects/br1AckSWwkavretXdaERbQ/jobs/zRt0o1m1vUKRPvwo918SdA/reports/latest?details=false&format=TestProject",
+      url: "/projects/br1AckSWwkavretXdaERbQ/jobs/AMpFmdxxqkW3EHyo-sfL5g/reports/latest?details=false&format=TestProject",
       method: "GET",
       headers: {
           "authorization": "ZUaxMZ3ClDHBjrWtH9mKX8LNIeO3iC7cUmgDx3LjHqA1"
@@ -497,7 +497,9 @@ describe('API Testproject Reporte', ()=> {
       cy.readFile('cypress/fixtures/testproject.json').then((datareporte5) =>{
         var test = datareporte5.jobName
         var resultado = datareporte5.resultType
+        var duracion_t= datareporte5.testResults[0].duration
         var browserA= datareporte5.testResults[0].targets[0].targetName
+        var res_A = datareporte5.testResults[0].targets[0].result
         var browser1 = browserA.replace(/[0-9.]/g, '')
         var duration1= datareporte5.testResults[0].targets[0].duration
         var duration_ms= duration1.substring(9)
@@ -513,6 +515,7 @@ describe('API Testproject Reporte', ()=> {
         var duration1_final1= parseFloat(duration_final)
 
         var browserB= datareporte5.testResults[0].targets[1].targetName
+        var res_B = datareporte5.testResults[0].targets[1].result
         var browser2 = browserB.replace(/[0-9.]/g, '')
         var duration5= datareporte5.testResults[0].targets[1].duration
         var duration2_ms= duration5.substring(9)
@@ -528,6 +531,7 @@ describe('API Testproject Reporte', ()=> {
         var duration2_final2= parseFloat(duration_final2)
         
         var browserC= datareporte5.testResults[0].targets[2].targetName
+        var res_C = datareporte5.testResults[0].targets[2].result
         var browser3 = browserC.replace(/[0-9.]/g, '')
        // var duration3= datareporte.testResults[0].targets[2].duration
        // var duration30= duration3.substring(6)
@@ -558,9 +562,14 @@ describe('API Testproject Reporte', ()=> {
                              {'column': 'c-EpQqFfXnAK', 'value': date},
                              {'column': 'c-WCPjfjBaPt', 'value': test},
                              {'column': 'c-eH0JSGhwu3', 'value': duration1_final1},
+                             {'column': 'c-0eYdlpJ-yS', 'value': res_A},
                              {'column': 'c-Kmtt3mu9qz', 'value': duration2_final2},
+                             {'column': 'c-Pq-KFPZnM8', 'value': res_B}, 
                              {'column': 'c-pjTfOWbYSQ', 'value': duration3_final3},
+                             {'column': 'c-XzMm-vsq9J', 'value': res_C},
+                             {'column': 'c-ar3XOIvtRN', 'value': duracion_t},
                              {'column': 'c-t_ZWUMTCSx', 'value': resultado}
+                             
                             ]
                     }
                 ] 
@@ -575,7 +584,7 @@ describe('API Testproject Reporte', ()=> {
        })  
    })                
   
-  })*/
+  })
 
 })
 
