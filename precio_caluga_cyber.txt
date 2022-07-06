@@ -803,3 +803,5 @@ __________________________________________________
 id: 1 precio oferta resumen:  3.115 UF  Descuento:  10%  dscto.
 id: 1 precio oferta resumen:  3.962 UF  Descuento:  5%  dscto.
 id: 1 precio oferta resumen:  8.909 UF  Descuento:  12%  dscto.
+
+-------------------------------------- 24/05/2022

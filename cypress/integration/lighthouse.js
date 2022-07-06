@@ -3,15 +3,15 @@
 
 describe ('performance', ()=>{
 
-  it('test Retasalo', ()=>{
+  it.only('test Retasalo', ()=>{
 
-    cy.visit('https://www.toctoc.com/retasalo/')
-    //cy.visit('https://www.toctoc.com/')        
+     cy.visit('https://www.toctoc.com/retasalo/')
+    //cy.visit('https://ww2.toctoc.com/propiedades/compranuevo/departamento/estacion-central/condominio-parque-magdalena/1491493?o=mapa#')        
     const thresholds = {
-      performance: 40,
+      performance: 20,
       accessibility: 60,
-      'best-practices': 60,
-      seo: 80,
+      'best-practices': 80,
+      seo: 60,
     }
     const opts = {
       formFactor: 'desktop',
@@ -43,10 +43,10 @@ describe ('performance', ()=>{
   })
 
 
-  it.only('test Retasalo', ()=>{
+  it('test Retasalo', ()=>{
 
     const thresholds = {
-      performance: 50,
+      performance: 20,
       accessibility: 70,
      // 'first-contentful-paint': 2000,
      // 'largest-contentful-paint': 3000,
@@ -61,7 +61,7 @@ describe ('performance', ()=>{
     }
 
     
-    cy.visit('https://www.saucedemo.com/')
+    cy.visit('https://www.toctoc.com/retasalo/')
     cy.lighthouse(thresholds, lighthouseConfig)
   })
 })

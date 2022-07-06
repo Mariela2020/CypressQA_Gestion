@@ -555,3 +555,5 @@ id: 553 https://www.youtube.com/user/TocTocChile?o=footer
 id: 554 https://www.instagram.com/toctoccom/?o=footer
 id: 555 https://www.linkedin.com/company/toctoc.com/?o=footer
 id: 556 https://www.ecommerceccs.cl/sello-confianza-ecommerce-ccs/
+URL: undefined ; Proyecto: :nth-child(2) > .lnk-info > .c-infores > .info-body > .dir ; Ubicacion: :nth-child(2) > .lnk-info > .c-infores > .info-body > .region ; Precio: Desde 1,883 UF ; tipo de vivienda: :nth-child(2) > .lnk-info > .c-infores > .info-body > .tipo ; Programa: :nth-child(2) > .lnk-info > .ress-pie > .programa > :nth-child(1) ; metraje: :nth-child(2) > .lnk-info > .ress-pie > .programa > .mt
+URL: undefined ; Proyecto: :nth-child(2) > .lnk-info > .c-infores > .info-body > .dir ; Ubicacion: :nth-child(2) > .lnk-info > .c-infores > .info-body > .region ; Precio: Desde 1,883 UF ; tipo de vivienda: :nth-child(2) > .lnk-info > .c-infores > .info-body > .tipo ; Programa: :nth-child(2) > .lnk-info > .ress-pie > .programa > :nth-child(1) ; metraje: :nth-child(2) > .lnk-info > .ress-pie > .programa > .mt

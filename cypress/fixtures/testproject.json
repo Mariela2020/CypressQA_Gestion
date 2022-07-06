@@ -1,34 +1,34 @@
 {
-  "id": "zFLhKjnUjEa9JPrjBNRGtw",
+  "id": "QXqF9ebLfketp6uZWesQDQ",
   "platform": "Web",
-  "executionStart": "2022-04-24T16:08:14.788Z",
-  "executionEnd": "2022-04-24T16:13:22.585Z",
-  "resultType": "Passed",
-  "passRatio": 100,
+  "executionStart": "2022-07-06T13:01:09.942Z",
+  "executionEnd": "2022-07-06T13:06:34.161Z",
+  "resultType": "Failed",
+  "passRatio": 66.6666641,
   "agentName": "AgenteQA",
   "agentId": "JGrRU2dVckC2MZYayD7Rzg",
   "jobId": "AMpFmdxxqkW3EHyo-sfL5g",
   "jobName": "AddInmobiliario2",
-  "passedTests": 3,
-  "failedTests": 0,
+  "passedTests": 2,
+  "failedTests": 1,
   "skippedTests": 0,
-  "trigger": "Scheduler",
+  "trigger": "User Mariela Hurtado",
   "testResults": [
     {
-      "name": "AddInmobiliario",
-      "executionStart": "2022-04-24T16:09:43.427Z",
+      "name": "AddInmobiliario1_rb",
+      "executionStart": "2022-07-06T13:02:15.01Z",
       "executionEnd": "0001-01-01T00:00:00Z",
-      "duration": "00:02:28.781",
-      "result": "Passed",
+      "duration": "00:02:37.756",
+      "result": "Failed",
       "targets": [
         {
-          "targetName": "Chrome (Headless) 100.0.4896.127",
+          "targetName": "Chrome (Headless) 103.0.5060.66",
           "result": "Passed",
           "passRatio": 100,
           "failRatio": 0,
-          "executionStart": "2022-04-24T16:09:43.427Z",
-          "executionEnd": "2022-04-24T16:10:34.779Z",
-          "duration": "00:00:51.352",
+          "executionStart": "2022-07-06T13:02:15.01Z",
+          "executionEnd": "2022-07-06T13:02:50.975Z",
+          "duration": "00:00:35.965",
           "failedSteps": []
         },
         {
@@ -36,25 +36,31 @@
           "result": "Passed",
           "passRatio": 100,
           "failRatio": 0,
-          "executionStart": "2022-04-24T16:11:07.126Z",
-          "executionEnd": "2022-04-24T16:12:00.7Z",
-          "duration": "00:00:53.574",
+          "executionStart": "2022-07-06T13:03:24.616Z",
+          "executionEnd": "2022-07-06T13:04:02.911Z",
+          "duration": "00:00:38.295",
           "failedSteps": []
         },
         {
-          "targetName": "Edge (Headless) 100.0.1185.50",
-          "result": "Passed",
-          "passRatio": 100,
-          "failRatio": 0,
-          "executionStart": "2022-04-24T16:12:33.873Z",
-          "executionEnd": "2022-04-24T16:13:17.73Z",
-          "duration": "00:00:43.857",
-          "failedSteps": []
+          "targetName": "Edge (Headless) 103.0.1264.44",
+          "result": "Failed",
+          "passRatio": 88.8888855,
+          "failRatio": 2.77777767,
+          "executionStart": "2022-07-06T13:05:07.076Z",
+          "executionEnd": "2022-07-06T13:06:30.574Z",
+          "duration": "00:01:23.498",
+          "failedSteps": [
+            {
+              "step": 33,
+              "message": "Action failed using following locators: \r\n\r\n1. XPATH=//td[. = 'COTIZACIÓN']\r\nTimeoutException: Timeout occurred while trying to perform the action. Element was not found\r\n\r\n2. XPATH=//td[2]/div[1]/table/tbody/tr[2]/td[3]\r\nTimeoutException: Timeout occurred while trying to perform the action. Element was not found\r\n\r\n3. XPATH=/html/body/form/div[3]/div[2]/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td[2]/table/tbody/tr[2]/td[2]/div[1]/table/tbody/tr[2]/td[3]\r\nTimeoutException: Timeout occurred while trying to perform the action. Element was not found\r\n\r\n",
+              "screenshot": "https://storage-euw1-data.testproject.io/cuWAEYLHvEuMHm_53BXaCg/project/br1AckSWwkavretXdaERbQ/report/QXqF9ebLfketp6uZWesQDQ/screenshot/CPYbenC-TTWWyO73D98ihw?X-Amz-Expires=604800&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAITRD2MKKMDIUNQRA%2F20220706%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20220706T153926Z&X-Amz-SignedHeaders=host&X-Amz-Signature=eeb5889667c65fb67ce330966c3f05df773f180ca97e48898d3452cadfb4a617"
+            }
+          ]
         }
       ]
     }
   ],
-  "reportUrl": "https://app.testproject.io/#/reports/projects/526859/jobs/AMpFmdxxqkW3EHyo-sfL5g/execution/zFLhKjnUjEa9JPrjBNRGtw?es=2022-04-24T16:08:14.788Z",
+  "reportUrl": "https://app.testproject.io/#/reports/projects/526859/jobs/AMpFmdxxqkW3EHyo-sfL5g/execution/QXqF9ebLfketp6uZWesQDQ?es=2022-07-06T13:01:09.942Z",
   "tags": [
     "Add"
   ]

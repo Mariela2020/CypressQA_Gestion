@@ -424,7 +424,7 @@ describe('API Testproject Reporte', ()=> {
   }) 
 
 
-  it('Registro TC Intranet de Gestión Corredor', ()=>{
+ /* it('Registro TC Intranet de Gestión Corredor', ()=>{
 
     cy.api({
       url: "/projects/br1AckSWwkavretXdaERbQ/jobs/a2Gs6WUH_E2J9FTbafM-_g/reports/latest?details=false&format=TestProject",
@@ -479,7 +479,7 @@ describe('API Testproject Reporte', ()=> {
       })
         
     })    
-  }) 
+  }) */
   
   
   it('Registro Cross Browser de AddInmobiliario', ()=>{
