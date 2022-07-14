@@ -14,7 +14,7 @@ describe('API Testproject Reporte', ()=> {
   it('Registro Cross Browser de Login', ()=>{
 
     cy.request({
-      url: "/projects/br1AckSWwkavretXdaERbQ/jobs/SGTJYLvGHECxyaH3wvywxA/reports/latest?details=false&format=TestProject",
+      url: "/projects/br1AckSWwkavretXdaERbQ/jobs/ZlwFelEV8EqfHs5MTC4hWw/reports/latest?details=false&format=TestProject",
       method: "GET",
       headers: {
         "authorization": "ZUaxMZ3ClDHBjrWtH9mKX8LNIeO3iC7cUmgDx3LjHqA1"
@@ -117,7 +117,7 @@ describe('API Testproject Reporte', ()=> {
   it('Registro Cross Browser de Planes', ()=>{
 
     cy.request({
-      url: "/projects/br1AckSWwkavretXdaERbQ/jobs/7tvlFTpcbEaVBV_s-SsrCA/reports/latest?details=false&format=TestProject",
+      url: "/projects/br1AckSWwkavretXdaERbQ/jobs/-mKV7mZSTkqRYW3JlYa0Ew/reports/latest?details=false&format=TestProject",
       method: "GET",
       headers: {
         "authorization": "ZUaxMZ3ClDHBjrWtH9mKX8LNIeO3iC7cUmgDx3LjHqA1"
@@ -220,7 +220,7 @@ describe('API Testproject Reporte', ()=> {
   it('Registro Cross Browser de Producto', ()=>{
 
     cy.api({
-      url: "/projects/br1AckSWwkavretXdaERbQ/jobs/5ljcr9AMpUqyluASJ-OtEA/reports/latest?details=false&format=TestProject",
+      url: "/projects/br1AckSWwkavretXdaERbQ/jobs/0IrTMG000k-HjFDvnJEoLA/reports/latest?details=false&format=TestProject",
       method: "GET",
       headers: {
         "authorization": "ZUaxMZ3ClDHBjrWtH9mKX8LNIeO3iC7cUmgDx3LjHqA1"
@@ -323,7 +323,7 @@ describe('API Testproject Reporte', ()=> {
   it('Registro Cross Browser de Retasalo', ()=>{
 
     cy.request({
-      url: "/projects/br1AckSWwkavretXdaERbQ/jobs/xOTUaBRM1EuqTg_3rojB6Q/reports/latest?details=false&format=TestProject",
+      url: "/projects/br1AckSWwkavretXdaERbQ/jobs/aUbq9IKemUeBR2kW6bavOQ/reports/latest?details=false&format=TestProject",
       method: "GET",
       headers: {
         "authorization": "ZUaxMZ3ClDHBjrWtH9mKX8LNIeO3iC7cUmgDx3LjHqA1"
